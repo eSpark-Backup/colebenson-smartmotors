@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\eSpark-37\Documents\GitHub\SmartMotors-ColeBenson\Design-Files\SM_Bottom_Board\SM_Bottom_PCB.PcbDoc
-Date     : 6/24/2021
-Time     : 4:52:54 PM
+PCB File : C:\Users\eSpark-37\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\SM_Bottom_Board\SM_Bottom_PCB.PcbDoc
+Date     : 7/3/2021
+Time     : 1:09:18 AM
 
 WARNING: Unplated multi-layer pad(s) detected
    Pad J3-MH1(-312.008mil,-965.27mil) on Multi-Layer on Net GND
@@ -49,4 +49,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
