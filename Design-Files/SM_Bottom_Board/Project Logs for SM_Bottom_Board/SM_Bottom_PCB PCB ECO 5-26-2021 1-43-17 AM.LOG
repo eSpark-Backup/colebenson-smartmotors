@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J2-5
+Removed Pin From Net: NetName=GND Pin=J2-MH1
+Removed Pin From Net: NetName=GND Pin=J2-MH2
+Removed Pin From Net: NetName=GND Pin=J2-MH3
+Removed Pin From Net: NetName=GND Pin=J2-MH4
+Removed Pin From Net: NetName=VDD_3V3 Pin=Q1-3
+Removed Pin From Net: NetName=VDD_3V3 Pin=R21-2
+Removed Pin From Net: NetName=VDD_3V3 Pin=R22-2
+Removed Pin From Net: NetName=GND Pin=R24-2
+Removed Pin From Net: NetName=USB_DP Pin=R25-1
+Removed Pin From Net: NetName=SPI_SCK Pin=SB1-1
+Removed Pin From Net: NetName=EN_SCK Pin=SB1-2
+Removed Pin From Net: NetName=MISO Pin=SB2-1
+Removed Pin From Net: NetName=EN_MISO Pin=SB2-2
+Removed Pin From Net: NetName=MOSI Pin=SB3-1
+Removed Pin From Net: NetName=EN_MOSI Pin=SB3-2
+Removed Pin From Net: NetName=EN_CS Pin=SB4-2
+Removed Pin From Net: NetName=USB_DM Pin=SB5-2
+Removed Pin From Net: NetName=USB_DP Pin=SB6-2
+Removed Pin From Net: NetName=A0 Pin=U1-16
+Removed Pin From Net: NetName=GND Pin=U1-37
+Removed Pin From Net: NetName=AD0 Pin=U1-47
+Removed Pin From Net: NetName=SCLK_ Pin=U1-95
+Removed Pin From Net: NetName=SDA_ Pin=U1-96
+Removed Pin From Net: NetName=A0 Pin=U9-1
+Removed Member From Class: ClassName=U_Connector-Section Member=J1
+Removed Member From Class: ClassName=U_Connector-Section Member=J2
+Removed Member From Class: ClassName=U_Connector-Section Member=Q1
+Removed Member From Class: ClassName=U_Connector-Section Member=R21
+Removed Member From Class: ClassName=U_Connector-Section Member=R22
+Removed Member From Class: ClassName=U_Connector-Section Member=R23
+Removed Member From Class: ClassName=U_Connector-Section Member=R24
+Removed Member From Class: ClassName=U_Connector-Section Member=R25
+Removed Member From Class: ClassName=U_Processing-Section Member=SB1
+Removed Member From Class: ClassName=U_Processing-Section Member=SB2
+Removed Member From Class: ClassName=U_Processing-Section Member=SB3
+Removed Member From Class: ClassName=U_Processing-Section Member=SB4
+Removed Member From Class: ClassName=U_Connector-Section Member=SB5
+Removed Member From Class: ClassName=U_Connector-Section Member=SB6
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Added Pin To Net: NetName=A0 Pin=J3-19
+Added Pin To Net: NetName=A0 Pin=U1-37
+Added Pin To Net: NetName=SCLK_ Pin=U1-47
+Added Pin To Net: NetName=SDA_ Pin=U1-48
+Added Pin To Net: NetName=GND Pin=U4-11
+Added Pin To Net: NetName=GND Pin=U9-1
+Added Pin To Net: NetName=GND Pin=U9-2
+Added Pin To Net: NetName=GND Pin=U9-3
+Change Net Name : Old Net Name=A0 New Net Name=BOOT1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD1_1

@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=NetR3_2 Pin=SW2-2
+Removed Pin From Net: NetName=GND Pin=SW2-MH1
+Removed Pin From Net: NetName=GND Pin=SW2-MH2
+Removed Pin From Net: NetName=NetR29_2 Pin=SW3-2
+Removed Pin From Net: NetName=GND Pin=SW3-MH1
+Removed Pin From Net: NetName=GND Pin=SW3-MH2
+Removed Member From Class: ClassName=U_Connector-Section Member=J4
+Change Component Footprint: Designator=SW2 Old Footprint=OS102011MA1QN1- New Footprint=SS-12D10L9
+Change Component Footprint: Designator=SW3 Old Footprint=OS102011MA1QN1- New Footprint=SS-12D10L9
+Change Component Comment : Designator=SW2 Old Comment=OS102011MA1QN1 New Comment=SS-12D10L9
+Change Component Comment : Designator=SW3 Old Comment=OS102011MA1QN1 New Comment=SS-12D10L9
+Change Component Designator: OldDesignator=J4 NewDesignator=J5
+Change component parameters: Designator = "SW2"; Footprint = "SS-12D10L9"; UniqueID = "\WLWIRRPG\OKKGXHIV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Actuator Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Type"; Value = "standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Rating @ Voltage"; Value = "300mA @ 50VDC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Electrical Life Cycles"; Value = "10000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "XKB Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Force"; Value = "250±100gf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DIP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage(DC)"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Function"; Value = "On-On"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Height"; Value = "9mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW3"; Footprint = "SS-12D10L9"; UniqueID = "\WLWIRRPG\SOYPQPFC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Actuator Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Type"; Value = "standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Rating @ Voltage"; Value = "300mA @ 50VDC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Electrical Life Cycles"; Value = "10000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "XKB Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Force"; Value = "250±100gf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DIP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage(DC)"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Function"; Value = "On-On"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Height"; Value = "9mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR29_2 Pin=SW2-2
+Added Pin To Net: NetName=NetR3_2 Pin=SW3-2
+Added Member To Class: ClassName=U_Connector-Section Member=Component J5 5520425-2

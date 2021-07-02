@@ -1,0 +1,32 @@
+Microcontroller (Documentation on STM website.)
+- Previous: STM32F413VGT6
+- Proposed: STM32F4xx (ex. STM32F405)
+
+Stepper Motors (Documentation attached)
+- JK42HS34-1334TK-01A ("small" size 14 NEMA)
+- Previous prototypes: JK57HS41-30041TK-01A (changed to motor below)
+- JK57HS51-4204 ("medium" size 17 NEMA) 
+- JK86HS100-7004 ("large" size 34 Nema)
+
+Stepper Motor Controller
+- PowerStep01 (previous)
+- Proposed: L6207PD013TR (Suggested)
+
+Encoder
+- Broadcom AEAT-8800-Q24 (attached)
+
+IMU
+- ICM-20600 (prototype)
+- ITG-3701 (possible alternative)
+
+CAD Files
+- Small frame (no motor, gearbox or shaft)
+- Medium frame (no motor, gearbox or shaft)
+- large frame (no motor, gearbox or shaft)
+
+Regulators
+- TPS65320DQPWPRQ1
+- LP2951-03BMTR
+- NCV8730
+- TPS7B86-Q1
+

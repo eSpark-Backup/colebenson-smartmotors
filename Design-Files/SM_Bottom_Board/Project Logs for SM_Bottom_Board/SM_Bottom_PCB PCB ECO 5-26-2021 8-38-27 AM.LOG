@@ -1,0 +1,20 @@
+Change Component Description : Designator=SW1 Old Description=? EasyEDA Model
+
+Description
+SPST 50mA @ 12VDC Vertical Round Button 3*2.1mm Tactile Switches RoHS New Description=? EasyEDA Model
+
+Description
+SPST 50mA @ 12VDC Vertical Round Button 3*2.1mm Tactile Switches RoHS
+Added Pin To Net: NetName=VDD_3V3 Pin=C1-1
+Added Pin To Net: NetName=VDD_3V3 Pin=C2-1
+Added Pin To Net: NetName=VDD_3V3 Pin=C3-1
+Added Pin To Net: NetName=VDD_3V3 Pin=C4-1
+Added Pin To Net: NetName=VDD_3V3 Pin=C5-1
+Added Pin To Net: NetName=VDD_3V3 Pin=C6-1
+Added Pin To Net: NetName=VDD_3V3 Pin=C7-1
+Added Pin To Net: NetName=VDD_3V3 Pin=C8-1
+Added Pin To Net: NetName=VDD_3V3 Pin=C9-1
+Added Pin To Net: NetName=VDD_3V3 Pin=C10-1
+Added Pin To Net: NetName=VDD_3V3 Pin=C11-1
+Added Pin To Net: NetName=VDD_3V3 Pin=C12-1
+Added Pin To Net: NetName=VDD_3V3 Pin=L1-1

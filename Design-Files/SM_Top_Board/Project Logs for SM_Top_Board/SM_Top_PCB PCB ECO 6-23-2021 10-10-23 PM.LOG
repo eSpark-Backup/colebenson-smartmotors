@@ -1,0 +1,91 @@
+Change Component Description : Designator=R10 Old Description=0.033O ±1% 2W ±1800ppm/°C 2512 Low Resistors & Current Sense Resistors - Surface Mount RoHS New Description=0.033O ±1% 2W ±1800ppm/°C 2512 Low Resistors & Current Sense Resistors - Surface Mount RoHS
+Change Component Description : Designator=R11 Old Description=0.033O ±1% 2W ±1800ppm/°C 2512 Low Resistors & Current Sense Resistors - Surface Mount RoHS New Description=0.033O ±1% 2W ±1800ppm/°C 2512 Low Resistors & Current Sense Resistors - Surface Mount RoHS
+Change Component Description : Designator=R12 Old Description=0.033O ±1% 2W ±1800ppm/°C 2512 Low Resistors & Current Sense Resistors - Surface Mount RoHS New Description=0.033O ±1% 2W ±1800ppm/°C 2512 Low Resistors & Current Sense Resistors - Surface Mount RoHS
+Change Component Description : Designator=R13 Old Description=0.033O ±1% 2W ±1800ppm/°C 2512 Low Resistors & Current Sense Resistors - Surface Mount RoHS New Description=0.033O ±1% 2W ±1800ppm/°C 2512 Low Resistors & Current Sense Resistors - Surface Mount RoHS
+Change Component Description : Designator=C1 Old Description=220uF ±20% 63V 10mm 14.5mm 1.2A 100kHz 10000hrs 105? -55?~+105? SMD,10x14.5mm Aluminum Electrolytic Capacitors - SMD RoHS New Description=220uF ±20% 63V 10mm 14.5mm 1.2A 100kHz 10000hrs 105? -55?~+105? SMD,10x14.5mm Aluminum Electrolytic Capacitors - SMD RoHS
+Change Component Description : Designator=C22 Old Description=220uF ±20% 63V 10mm 14.5mm 1.2A 100kHz 10000hrs 105? -55?~+105? SMD,10x14.5mm Aluminum Electrolytic Capacitors - SMD RoHS New Description=220uF ±20% 63V 10mm 14.5mm 1.2A 100kHz 10000hrs 105? -55?~+105? SMD,10x14.5mm Aluminum Electrolytic Capacitors - SMD RoHS
+Change Component Description : Designator=C4 Old Description=470uF ±20% 50V 12.5mm 13.5mm 1000hrs 105? -40?~+105? SMD,12.5x13.5mm Aluminum Electrolytic Capacitors - SMD RoHS New Description=470uF ±20% 50V 12.5mm 13.5mm 1000hrs 105? -40?~+105? SMD,12.5x13.5mm Aluminum Electrolytic Capacitors - SMD RoHS
+Change component parameters: Designator = "R10"; Footprint = "RES 2512"; UniqueID = "\ZLFFYNXD\DLKSJSXC\VDSMXGET"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Ever Ohms Tech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (Ohms)"; Value = "0.033O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±1800ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11"; Footprint = "RES 2512"; UniqueID = "\ZLFFYNXD\DLKSJSXC\VALVOJCL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Ever Ohms Tech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (Ohms)"; Value = "0.033O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±1800ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12"; Footprint = "RES 2512"; UniqueID = "\ZLFFYNXD\DLKSJSXC\TATBDRFQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Ever Ohms Tech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (Ohms)"; Value = "0.033O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±1800ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13"; Footprint = "RES 2512"; UniqueID = "\ZLFFYNXD\DLKSJSXC\KANKXLWH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Ever Ohms Tech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (Ohms)"; Value = "0.033O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±1800ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "VKMC1001H680MV"; UniqueID = "\INNXYCYW\GALRSXPM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Ymin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD,6.3x10mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "fD"; Value = "6.3mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1"; Footprint = "VKME1451J221MV"; UniqueID = "\WLWIRRPG\PPSGFDKF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ackage"; Value = "SMD,10x14.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "L"; Value = "14.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifetime @ Temp"; Value = "10000hrs 105?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Ymin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55?~+105?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "63V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "1.2A 100kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "fD"; Value = "10mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "VT1H471MI135000CE0"; UniqueID = "\INNXYCYW\HJWDEDZH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "470uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "L"; Value = "13.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifetime @ Temp"; Value = "1000hrs 105?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Changzhou Huawei Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40?~+105?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD,12.5x13.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "fD"; Value = "12.5mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22"; Footprint = "VKME1451J221MV"; UniqueID = "\ZLFFYNXD\DLKSJSXC\UNYPMNOE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ackage"; Value = "SMD,10x14.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "L"; Value = "14.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifetime @ Temp"; Value = "10000hrs 105?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Ymin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55?~+105?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "63V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "1.2A 100kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "fD"; Value = "10mm"; VariantName = "[No Variations]"
+Added Component: Designator=J?(SMC-1-05-1-GT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Adam Equipment"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SMC-1-05-1-GT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.41000, 10=0.38500, 25=0.33040, 50=0.28080, 100=0.26970, 250=0.24224, 500=0.23120, 1000=0.19268, 2500=0.17616 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1697"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2057-SMC-1-05-1-GT-ND"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_Connector-Section Member=Component J? SMC-1-05-1-GT

@@ -1,0 +1,10 @@
+Added Component: Designator=J?(SMC-1-05-1-GT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Adam Equipment"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SMC-1-05-1-GT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.41000, 10=0.38500, 25=0.33040, 50=0.28080, 100=0.26970, 250=0.24224, 500=0.23120, 1000=0.19268, 2500=0.17616 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1697"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2057-SMC-1-05-1-GT-ND"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_Connector-Section Member=Component J? SMC-1-05-1-GT
