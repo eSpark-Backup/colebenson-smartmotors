@@ -1,16 +1,18 @@
 Altium Designer Pick and Place Locations
-C:\Users\eSpark-37\Documents\GitHub\SmartMotors-ColeBenson\Design-Files\SM_Bottom_Board\Project Outputs for SM_Bottom_Board\Pick Place for SM_Bottom_PCB.txt
+C:\Users\eSpark-37\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\SM_Bottom_Board\Project Outputs for SM_Bottom_Board\Pick Place for SM_Bottom_PCB.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       24/06/21
-Time:       17:05
-Revision:   35895db1e8628c545cdac92488b75983e60dfd76
+Date:       03/07/21
+Time:       06:45
+Revision:   f78ac2e80183bed1af8280bccd7f956a4d3550bf
 Variant:    No variations
 Units used: mm
 
 Designator Comment             Layer       Footprint           Center-X(mm) Center-Y(mm) Rotation Description                                                                Ref-X(mm)  Ref-Y(mm)  Pad-X(mm)  Pad-Y(mm)  
+CF1        0.1uF               BottomLayer Cap_0603            20,1422mm    -10,2870mm   270      "Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R"                       20,1422mm  -10,2870mm 20,1422mm  -9,5250mm  
+U10        CAT24C32HU4I-GT3    TopLayer    8-UDFN-EP_(2x3)     18,5674mm    -10,0838mm   0        "IC EEPROM 32KBIT I2C 1MHZ 8UDFN"                                          18,5674mm  -10,0838mm 17,2074mm  -9,3338mm  
 P1         SMC-1-05-1-GT       TopLayer    SMC-1-05-1-GT       -28,0416mm   0,0254mm     270      "MACHINE PIN SOCKET 5P 2.54MM PIT"                                         -28,0416mm 0,0254mm   -28,0416mm 5,1054mm   
 SW1        B3U-1000P           TopLayer    B3U-1000P           -33,2232mm   -0,0508mm    90       "SWITCH TACTILE SPST-NO 0.05A 12V"                                         -33,2232mm -0,0508mm  -33,2232mm -1,7508mm  
 LED1       XZVG68W-2           TopLayer    LED_0402            -0,4826mm    -16,5100mm   360      "LED GREEN CLEAR CHIP SMD"                                                 -0,4826mm  -16,5100mm -0,9576mm  -16,5100mm 
@@ -52,7 +54,7 @@ C17        10pF                TopLayer    CAP_0201            -10,3124mm   -5,3
 C16        10pF                TopLayer    CAP_0201            -10,3124mm   -3,9972mm    360      "CAP CER 10PF 25V C0G 0201"                                                -10,3124mm -3,9972mm  -10,6124mm -3,9972mm  
 C15        0.1UF               BottomLayer Cap0603             -33,2105mm   -0,0508mm    90       "Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R"                       -33,2105mm -0,0508mm  -33,2105mm -0,8128mm  
 C14        2.2uF               BottomLayer Cap_0603            8,4582mm     1,1938mm     0        "CAP, 2.2µF, 35V, 10%, X5R, 0603"                                          8,4582mm   1,1938mm   7,6962mm   1,1938mm   
-C13        2.2uF               TopLayer    Cap_0603            5,6642mm     -13,5890mm   90       "CAP, 2.2µF, 35V, 10%, X5R, 0603"                                          5,6642mm   -13,5890mm 5,6642mm   -14,3510mm 
+C13        2.2uF               BottomLayer Cap_0603            4,6228mm     -11,3792mm   360      "CAP, 2.2µF, 35V, 10%, X5R, 0603"                                          4,6228mm   -11,3792mm 3,8608mm   -11,3792mm 
 C12        1uF                 BottomLayer F981E105MMA         -4,1148mm    -13,9700mm   360      "CAP TANT 1UF 20% 25V 0603"                                                -4,1148mm  -13,9700mm -4,8768mm  -13,9700mm 
 C11        0.1UF               BottomLayer Cap0603             -6,9088mm    -7,8994mm    0        "Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R"                       -6,9088mm  -7,8994mm  -7,6708mm  -7,8994mm  
 C10        0.1uF               BottomLayer Cap0603             -4,1148mm    -12,7254mm   360      "Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R"                       -4,1148mm  -12,7254mm -4,8768mm  -12,7254mm 
@@ -61,7 +63,7 @@ C8         0.1UF               BottomLayer Cap0603             -7,4930mm    4,21
 C7         0.1UF               BottomLayer Cap0603             -10,3632mm   -2,6670mm    180      "Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R"                       -10,3632mm -2,6670mm  -9,6012mm  -2,6670mm  
 C6         0.1UF               BottomLayer Cap0603             -10,3632mm   -1,4224mm    180      "Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R"                       -10,3632mm -1,4224mm  -9,6012mm  -1,4224mm  
 C5         0.1UF               BottomLayer Cap0603             -4,8768mm    -10,6266mm   90       "Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R"                       -4,8768mm  -10,6266mm -4,8768mm  -11,3886mm 
-C4         0.1UF               BottomLayer Cap0603             6,1524mm     -12,7254mm   270      "Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R"                       6,1524mm   -12,7254mm 6,1524mm   -11,9634mm 
+C4         0.1UF               BottomLayer Cap0603             6,6294mm     -12,2174mm   270      "Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R"                       6,6294mm   -12,2174mm 6,6294mm   -11,4554mm 
 C3         0.1UF               BottomLayer Cap0603             7,4422mm     3,7084mm     180      "Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R"                       7,4422mm   3,7084mm   8,2042mm   3,7084mm   
 C2         0.1UF               BottomLayer Cap0603             -7,4930mm    5,4610mm     180      "Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R"                       -7,4930mm  5,4610mm   -6,7310mm  5,4610mm   
 C1         4.7UF               BottomLayer Cap0603             -10,3632mm   -0,1270mm    180      "CAP CER 4.7UF 25V X5R 0603"                                               -10,3632mm -0,1270mm  -9,6012mm  -0,1270mm  
