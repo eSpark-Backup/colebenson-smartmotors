@@ -4,9 +4,9 @@ C:\Users\eSpark-37\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\SM_Top_B
 ========================================================================================================================
 File Design Information:
 
-Date:       07/07/21
-Time:       23:56
-Revision:   e27c5725bcdb4fa42092459f149cad67a67a1d7b
+Date:       10/07/21
+Time:       11:47
+Revision:   d3380ce66101090a8c6415feea11c0ed84d2b304
 Variant:    No variations
 Units used: mm
 
@@ -31,13 +31,13 @@ Units used: mm
 "R25","143R","TopLayer","Res0603","26,7462mm","-9,1186mm","180","RES SMD 143 OHM 1% 1/10W 0603","26,7462mm","-9,1186mm","27,5082mm","-9,1186mm"
 "C20","0.1uF","BottomLayer","Cap_0603","5,1054mm","-19,9136mm","360","CAP CER 10000PF 100V X7R 0603","5,1054mm","-19,9136mm","4,3434mm","-19,9136mm"
 "SW2","SS-3235D-03-L2","TopLayer","SS-3235D-03-L2","12,4098mm","-27,4626mm","180","SPDT 50mA @ 12VDC 12V On-On SMD Toggle Switches RoHS","14,9098mm","-24,6126mm","14,9098mm","-24,6126mm"
-"P8","61300211121","TopLayer","HDR1X2","-14,2240mm","-22,1488mm","180","CONN HEADER VERT 2POS 2.54MM","-12,9540mm","-22,1488mm","-12,9540mm","-22,1488mm"
+"P8","61300211121","BottomLayer","HDR1X2","-14,2240mm","-22,1488mm","0","CONN HEADER VERT 2POS 2.54MM","-15,4940mm","-22,1488mm","-15,4940mm","-22,1488mm"
 "SW3","SS-3235D-03-L2","TopLayer","SS-3235D-03-L2","-12,7870mm","-27,4880mm","180","SPDT 50mA @ 12VDC 12V On-On SMD Toggle Switches RoHS","-10,2870mm","-24,6380mm","-10,2870mm","-24,6380mm"
 "J5","5520425-2","TopLayer","5520425-2","-14,0462mm","7,2948mm","270","Conn RJ-25 F 6 POS 2.54mm Solder ST Thru-Hole 4 Terminal 1 Port Tray Cat 3","-14,0462mm","7,2948mm","-12,1412mm","9,1948mm"
 "J2","5520425-2","TopLayer","5520425-2","-14,0462mm","-7,4372mm","270","Conn RJ-25 F 6 POS 2.54mm Solder ST Thru-Hole 4 Terminal 1 Port Tray Cat 3","-14,0462mm","-7,4372mm","-12,1412mm","-5,5372mm"
 "J1","MC-318","TopLayer","MC-318","19,4144mm","-17,5414mm","270","USB - Type C Female 24 SMD USB Connectors RoHS","19,4144mm","-17,5414mm","20,1344mm","-14,7914mm"
 "L1","SPM10054T-680M-HZ","TopLayer","SPM10054T-680M-HZ","13,1826mm","22,2758mm","180","FIXED IND 68UH 3.7A 162.87MOHM","13,1826mm","22,2758mm","18,1326mm","22,2758mm"
-"P7","61300211121","TopLayer","HDR1X2","-19,5580mm","-22,1488mm","360","CONN HEADER VERT 2POS 2.54MM","-20,8280mm","-22,1488mm","-20,8280mm","-22,1488mm"
+"P7","61300211121","BottomLayer","HDR1X2","-19,5580mm","-22,1488mm","360","CONN HEADER VERT 2POS 2.54MM","-20,8280mm","-22,1488mm","-20,8280mm","-22,1488mm"
 "R29","0R","BottomLayer","Res0603","11,6586mm","-30,3784mm","360","RES SMD 0R, 1%, 0.1W, 0603","11,6586mm","-30,3784mm","10,8966mm","-30,3784mm"
 "CF6","0.1UF","BottomLayer","Cap0603","-13,0302mm","11,5824mm","360","Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R","-13,0302mm","11,5824mm","-13,7922mm","11,5824mm"
 "CF5","0.1UF","BottomLayer","Cap0603","-8,5852mm","14,0438mm","270","Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R","-8,5852mm","14,0438mm","-8,5852mm","14,8058mm"
