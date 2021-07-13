@@ -4,13 +4,15 @@ C:\Users\eSpark-37\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\SM_Top_B
 ========================================================================================================================
 File Design Information:
 
-Date:       10/07/21
-Time:       11:47
-Revision:   d3380ce66101090a8c6415feea11c0ed84d2b304
+Date:       14/07/21
+Time:       00:36
+Revision:   e732b3d77911609f180ac8ed84b23318bed0c1fd
 Variant:    No variations
 Units used: mm
 
 "Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
+"U7","MAX4236EUT+T","TopLayer","SOT-23-6","-16,8910mm","-17,3736mm","360","IC OPAMP GP 1.7MHZ RRO SOT23-6","-16,8910mm","-17,3736mm","-18,2010mm","-16,4236mm"
+"C4","470uF","TopLayer","VT1H471MI135000CE0","13,0810mm","9,7282mm","360","470uF ±20% 50V 12.5mm 13.5mm 1000hrs 105? -40?~+105? SMD,12.5x13.5mm Aluminum Electrolytic Capacitors - SMD RoHS","13,0810mm","9,7282mm","7,9360mm","9,7282mm"
 "Q8","BSC072N08NS5ATMA1","BottomLayer","8-PowerTDFN","22,2250mm","12,8536mm","90","MOSFET N-CH 80V 74A 8TDSON","22,2250mm","11,4046mm","24,1300mm","9,9721mm"
 "SW1","Tactile Switch 13mm Actuator","TopLayer","Tactile_Switch_13mm_Actuator","12,2682mm","-17,1848mm","270","Memontary Tactile Push Button Switch 6X6X4.3 / 4.5 / 5/6/7/8/9/10 / 13mm SMD","12,2682mm","-17,1848mm","10,0182mm","-12,9348mm"
 "U5","NCP708MU330TAG","BottomLayer","6-UDFN_(3x3)","-12,4460mm","13,8430mm","180","IC REG LINEAR 3.3V 1A 6UDFN","-12,4460mm","13,8430mm","-11,0960mm","14,7930mm"
@@ -20,12 +22,10 @@ Units used: mm
 "R6","47R","TopLayer","Res0603","-6,3754mm","-18,0848mm","270","RES SMD 47OHM 0.1W 0603","-6,3754mm","-18,0848mm","-6,3754mm","-17,3228mm"
 "C23","2.2uF","TopLayer","Cap_0603","-7,0358mm","-20,0152mm","360","CAP, 2.2µF, 35V, 10%, X5R, 0603","-7,0358mm","-20,0152mm","-7,7978mm","-20,0152mm"
 "J4","B4P-VH-FB-B(LF)(SN)","BottomLayer","B4P-VH-FB-B(LF)(SN)","30,4292mm","0,1766mm","90","CONN HEADER VERT 4POS 3.96MM","30,4292mm","0,1766mm","30,4292mm","-5,7634mm"
-"C22","220uF","TopLayer","VKME1451J221MV","14,1691mm","-3,1750mm","180","220uF ±20% 63V 10mm 14.5mm 1.2A 100kHz 10000hrs 105? -55?~+105? SMD,10x14.5mm Aluminum Electrolytic Capacitors - SMD RoHS","14,1691mm","-3,1750mm","9,6693mm","-3,1750mm"
+"C22","220uF","TopLayer","VKME1451J221MV","14,1691mm","-2,9464mm","180","220uF ±20% 63V 10mm 14.5mm 1.2A 100kHz 10000hrs 105? -55?~+105? SMD,10x14.5mm Aluminum Electrolytic Capacitors - SMD RoHS","14,1691mm","-2,9464mm","9,6693mm","-2,9464mm"
 "C1","220uF","TopLayer","VKME1451J221MV","-8,2296mm","22,1996mm","360","220uF ±20% 63V 10mm 14.5mm 1.2A 100kHz 10000hrs 105? -55?~+105? SMD,10x14.5mm Aluminum Electrolytic Capacitors - SMD RoHS","-8,2296mm","22,1996mm","-3,7297mm","22,1996mm"
-"U7","MAX4236EUT+T","TopLayer","SOT-23-6","-16,8910mm","-17,3736mm","360","IC OPAMP GP 1.7MHZ RRO SOT23-6","-16,8910mm","-17,3736mm","-18,0910mm","-16,4236mm"
 "LED1","WS2812B-Mini","TopLayer","WS2812B-Mini","28,2567mm","10,7840mm","360","SMD,3.5x3.5mm Light Emitting Diodes (LED) RoHS","28,2567mm","10,7840mm","26,6192mm","11,6840mm"
 "C5","68uF","TopLayer","VKMC1001H680MV","2,4892mm","22,8031mm","270","68uF ±20% 50V 6.3mm 10mm 390mA 6.3x10mm Aluminum Electrolytic Capacitors - SMD RoHS","2,4892mm","22,8031mm","2,4892mm","25,4732mm"
-"C4","470uF","TopLayer","VT1H471MI135000CE0","13,0810mm","9,7282mm","360","470uF ±20% 50V 12.5mm 13.5mm 1000hrs 105? -40?~+105? SMD,12.5x13.5mm Aluminum Electrolytic Capacitors - SMD RoHS","13,0810mm","9,7282mm","8,2860mm","9,7282mm"
 "C3","1uF","BottomLayer","Cap0805","7,7056mm","18,6530mm","360","CAP CER 1UF 100V X7S 0805","7,7056mm","18,6530mm","6,6896mm","18,6530mm"
 "LED2","XZVG68W-2","TopLayer","LED_0402","29,1592mm","-9,1186mm","360","LED GREEN CLEAR CHIP SMD","29,1592mm","-9,1186mm","28,6842mm","-9,1186mm"
 "R25","143R","TopLayer","Res0603","26,7462mm","-9,1186mm","180","RES SMD 143 OHM 1% 1/10W 0603","26,7462mm","-9,1186mm","27,5082mm","-9,1186mm"
