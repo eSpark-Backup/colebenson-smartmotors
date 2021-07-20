@@ -1,26 +1,24 @@
 Altium Designer Pick and Place Locations
-C:\Users\eSpark-37\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\SM_Bottom_Board\Project Outputs for SM_Bottom_Board\Pick Place for SM_Bottom_PCB.csv
+C:\Users\eSpark Group\Downloads\ColeBenson-SmartMotors-Evaluation\ColeBenson-SmartMotors-Evaluation\Design-Files\SM_Bottom_Board\Project Outputs for SM_Bottom_Board\Pick Place for SM_Bottom_PCB.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       07/07/21
-Time:       23:49
-Revision:   dd99b46554a3b11e0ca6f9f7b1cf26b92220427e
+Date:       20/07/21
+Time:       16:05
+Revision:   Not in VersionControl
 Variant:    No variations
 Units used: mm
 
 "Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
-"R10","1K","BottomLayer","Res-0201","11,4554mm","23,7744mm","270","RES SMD 1K OHM 1% 1/20W 0201","11,4554mm","23,7744mm","11,4554mm","24,0494mm"
-"R9","1K","BottomLayer","Res-0201","11,4554mm","20,1168mm","270","RES SMD 1K OHM 1% 1/20W 0201","11,4554mm","20,1168mm","11,4554mm","20,3918mm"
-"R8","46R6","TopLayer","Res0603","5,3086mm","21,8186mm","180","Res SMD 0603 46.4 Ohm 1% 1/10W","5,3086mm","21,8186mm","6,0706mm","21,8186mm"
-"R7","46R6","TopLayer","Res0603","5,3086mm","20,1422mm","180","Res SMD 0603 46.4 Ohm 1% 1/10W","5,3086mm","20,1422mm","6,0706mm","20,1422mm"
-"Q2","MMBT2222A-7-F","BottomLayer","SOT-23","9,1948mm","23,7490mm","270","TRANS NPN 40V 0.6A SMD SOT23-3","9,1948mm","23,7490mm","10,1948mm","24,6990mm"
-"Q1","MMBT2222A-7-F","BottomLayer","SOT-23","9,1948mm","20,1676mm","270","TRANS NPN 40V 0.6A SMD SOT23-3","9,1948mm","20,1676mm","10,1948mm","21,1176mm"
+"R10","1K","TopLayer","Res-0201","12,8778mm","22,9870mm","360","RES SMD 1K OHM 1% 1/20W 0201","12,8778mm","22,9870mm","12,6028mm","22,9870mm"
+"R9","1K","TopLayer","Res-0201","12,8778mm","19,3040mm","360","RES SMD 1K OHM 1% 1/20W 0201","12,8778mm","19,3040mm","12,6028mm","19,3040mm"
+"R8","46R6","TopLayer","Res0603","5,3086mm","22,7076mm","180","Res SMD 0603 46.4 Ohm 1% 1/10W","5,3086mm","22,7076mm","6,0706mm","22,7076mm"
+"R7","46R6","TopLayer","Res0603","5,3086mm","21,4376mm","180","Res SMD 0603 46.4 Ohm 1% 1/10W","5,3086mm","21,4376mm","6,0706mm","21,4376mm"
+"Q2","MMBT2222A-7-F","TopLayer","SOT-23","10,2362mm","23,9268mm","90","TRANS NPN 40V 0.6A SMD SOT23-3","10,2362mm","23,9268mm","11,2362mm","22,9768mm"
+"Q1","MMBT2222A-7-F","TopLayer","SOT-23","10,2362mm","20,2438mm","90","TRANS NPN 40V 0.6A SMD SOT23-3","10,2362mm","20,2438mm","11,2362mm","19,2938mm"
 "D2","AZ6225-01F.R7GR","BottomLayer","AZ6225-01F.R7GR","-0,6350mm","-27,3880mm","270","Bidirectional 2.5V 3.5V 5V 20A (8/20us) DFN1006P2E TVS RoHS","-0,6350mm","-27,3880mm","-0,6350mm","-26,9630mm"
 "D1","AZ6225-01F.R7GR","BottomLayer","AZ6225-01F.R7GR","-1,9050mm","-27,3880mm","270","Bidirectional 2.5V 3.5V 5V 20A (8/20us) DFN1006P2E TVS RoHS","-1,9050mm","-27,3880mm","-1,9050mm","-26,9630mm"
-"C22","0.1uF","BottomLayer","Cap_0603","-2,3114mm","19,7612mm","360","Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R","-2,3114mm","19,7612mm","-3,0734mm","19,7612mm"
-"C21","0.1uF","BottomLayer","Cap_0603","-2,3114mm","23,9522mm","360","Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R","-2,3114mm","23,9522mm","-3,0734mm","23,9522mm"
 "CF1","0.1uF","BottomLayer","Cap_0603","20,1422mm","-10,2870mm","270","Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R","20,1422mm","-10,2870mm","20,1422mm","-9,5250mm"
 "U10","CAT24C32HU4I-GT3","TopLayer","8-UDFN-EP_(2x3)","18,5674mm","-10,0838mm","0","IC EEPROM 32KBIT I2C 1MHZ 8UDFN","18,5674mm","-10,0838mm","17,2074mm","-9,3338mm"
 "P1","SMC-1-05-1-GT","TopLayer","SMC-1-05-1-GT","-28,0416mm","0,0254mm","270","MACHINE PIN SOCKET 5P 2.54MM PIT","-28,0416mm","0,0254mm","-28,0416mm","5,1054mm"
@@ -49,7 +47,7 @@ Units used: mm
 "L1","FBMH1608HL121-TV","BottomLayer","IND_0603","-10,8459mm","-8,1535mm","360","Ferrite Beads 120Ohm 25% 100MHz 1.2A 0.13Ohm DCR 0603 Automotive T/R","-10,8459mm","-8,1535mm","-11,6709mm","-8,1535mm"
 "D12","ESD9L5.0ST5G","BottomLayer","SOD-923","-2,1980mm","22,6822mm","0","TVS DIODE 5V 9.8V SOD923","-2,1980mm","22,6822mm","-2,6180mm","22,6822mm"
 "C50","0.1UF","BottomLayer","Cap0603","-13,1318mm","12,6238mm","180","Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R","-13,1318mm","12,6238mm","-12,3698mm","12,6238mm"
-"C37","0.1UF","BottomLayer","Cap0603","5,3086mm","20,1422mm","360","Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R","5,3086mm","20,1422mm","4,5466mm","20,1422mm"
+"C37","0.1UF","TopLayer","Cap0603","5,3086mm","20,1676mm","360","Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R","5,3086mm","20,1676mm","4,5466mm","20,1676mm"
 "C36","0.1UF","BottomLayer","Cap0603","-2,3114mm","21,4376mm","360","Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R","-2,3114mm","21,4376mm","-3,0734mm","21,4376mm"
 "C35","0.1UF","TopLayer","Cap0603","19,1770mm","-3,8354mm","90","Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R","19,1770mm","-3,8354mm","19,1770mm","-4,5974mm"
 "C34","0.1UF","BottomLayer","Cap0603","19,0246mm","-1,1176mm","180","Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R","19,0246mm","-1,1176mm","19,7866mm","-1,1176mm"

@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\eSpark-37\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\SM_Top_Board\Project Outputs for SM_Top_Board\Pick Place for SM_Top_PCB.txt
+C:\Users\eSpark Group\Downloads\ColeBenson-SmartMotors-Evaluation\ColeBenson-SmartMotors-Evaluation\Design-Files\SM_Top_Board\Project Outputs for SM_Top_Board\Pick Place for SM_Top_PCB.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       14/07/21
-Time:       00:36
-Revision:   e732b3d77911609f180ac8ed84b23318bed0c1fd
+Date:       20/07/21
+Time:       15:51
+Revision:   Not in VersionControl
 Variant:    No variations
 Units used: mm
 

@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: SM_Top_PCB.PcbDoc   7/14/2021  12:33:34 AM
+NCDrill File Report For: SM_Top_PCB.PcbDoc   7/20/2021  3:51:01 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -10,16 +10,16 @@ Tool       Hole Size               Hole Tolerance               Hole Type       
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      12mil (0.3mm)                                             Round             407       PTH        0.00inch (0.00mm)
 T2      23mil (0.58mm)                                            Slot              1         PTH        0.00inch (0.00mm)
-T3      28mil (0.7mm)                                             Round             4         PTH        0.00inch (0.00mm)
-T4      32mil (0.8mm)                                             Round             4         PTH        0.00inch (0.00mm)
-T5      35mil (0.89mm)                                            Round             8         PTH        0.00inch (0.00mm)
-T6      35mil (0.9mm)                                             Round             4         PTH        0.00inch (0.00mm)
-T7      69mil (1.76mm)                                            Round             4         PTH        0.00inch (0.00mm)
-T8      159mil (4.05mm)                                           Round             2         PTH        0.00inch (0.00mm)
-T9      165mil (4.2mm)                                            Round             4         PTH        0.00inch (0.00mm)
-T10     26mil (0.66mm)                                            Round             1         NPTH       0.00inch (0.00mm)
-T11     65mil (1.65mm)                                            Round             2         NPTH       0.00inch (0.00mm)
-T12     131mil (3.33mm)                                           Round             4         NPTH       0.00inch (0.00mm)
+T3      26mil (0.66mm)                                            Round             1         PTH        0.00inch (0.00mm)
+T4      28mil (0.7mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T5      32mil (0.8mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T6      35mil (0.89mm)                                            Round             8         PTH        0.00inch (0.00mm)
+T7      35mil (0.9mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T8      65mil (1.65mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T9      69mil (1.76mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T10     131mil (3.33mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T11     159mil (4.05mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T12     165mil (4.2mm)                                            Round             4         PTH        0.00inch (0.00mm)
 T13     134mil (3.4mm)                                            Round             6         NPTH       0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              451
