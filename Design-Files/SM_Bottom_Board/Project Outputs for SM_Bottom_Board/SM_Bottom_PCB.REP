@@ -2,6 +2,33 @@
 FileName = SM_Bottom_PCB.GBR
 AutoAperture = True
 *************************************************************
+Generating : Drill Drawing
+      File : SM_Bottom_PCB.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D136
+    D137
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : SM_Bottom_PCB.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D136
+*************************************************************
+
+*************************************************************
 Generating : Top Overlay
       File : SM_Bottom_PCB.GTO
 
@@ -61,107 +88,6 @@ Used DCodes :
     D124
     D125
     D126
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : SM_Bottom_PCB.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D133
-    D134
-    D135
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : SM_Bottom_PCB.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D38
-    D39
-    D50
-    D64
-    D65
-    D66
-    D67
-    D68
-    D127
-    D128
-    D129
-    D130
-    D131
-    D132
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : SM_Bottom_PCB.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D91
-    D92
-    D93
-*************************************************************
-
-*************************************************************
-Generating : GND Plane
-      File : SM_Bottom_PCB.GP2
-
-    Adding Layer      : GND Plane
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D97
-    D99
-    D100
-    D102
-    D103
-    D104
 *************************************************************
 
 *************************************************************
@@ -247,6 +173,101 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : GND Plane
+      File : SM_Bottom_PCB.GP2
+
+    Adding Layer      : GND Plane
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D97
+    D99
+    D100
+    D102
+    D103
+    D104
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2
+      File : SM_Bottom_PCB.GM2
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : SM_Bottom_PCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D38
+    D39
+    D50
+    D64
+    D65
+    D66
+    D67
+    D68
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : SM_Bottom_PCB.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D91
+    D92
+    D93
+*************************************************************
+
+*************************************************************
 Generating : Power Plane
       File : SM_Bottom_PCB.GP1
 
@@ -265,14 +286,20 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 2
-      File : SM_Bottom_PCB.GM2
+Generating : Bottom Overlay
+      File : SM_Bottom_PCB.GBO
 
-    Adding Layer      : Mechanical 2
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D72
+    D10
+    D11
+    D12
+    D13
+    D133
+    D134
+    D135
 *************************************************************
 
 *************************************************************
@@ -383,32 +410,5 @@ Used DCodes :
     D94
     D95
     D96
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : SM_Bottom_PCB.GD1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D136
-    D137
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : SM_Bottom_PCB.GG1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D136
 *************************************************************
 
