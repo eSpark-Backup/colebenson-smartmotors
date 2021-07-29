@@ -28,7 +28,7 @@ Generating : Bottom Layer
 Used DCodes :
     D10
     D15
-    D27
+    D26
     D69
     D70
     D71
@@ -78,6 +78,201 @@ Used DCodes :
     D133
     D134
     D135
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : SM_Bottom_PCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D38
+    D39
+    D50
+    D64
+    D65
+    D66
+    D67
+    D68
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : SM_Bottom_PCB.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D91
+    D92
+    D93
+*************************************************************
+
+*************************************************************
+Generating : GND Plane
+      File : SM_Bottom_PCB.GP2
+
+    Adding Layer      : GND Plane
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D97
+    D99
+    D100
+    D102
+    D103
+    D104
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : SM_Bottom_PCB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D26
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : SM_Bottom_PCB.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : SM_Bottom_PCB.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D26
+    D91
+    D92
+    D93
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+*************************************************************
+
+*************************************************************
+Generating : Power Plane
+      File : SM_Bottom_PCB.GP1
+
+    Adding Layer      : Power Plane
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2
+      File : SM_Bottom_PCB.GM2
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D72
 *************************************************************
 
 *************************************************************
@@ -188,201 +383,6 @@ Used DCodes :
     D94
     D95
     D96
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : SM_Bottom_PCB.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D27
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : SM_Bottom_PCB.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : SM_Bottom_PCB.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D27
-    D91
-    D92
-    D93
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-*************************************************************
-
-*************************************************************
-Generating : GND Plane
-      File : SM_Bottom_PCB.GP2
-
-    Adding Layer      : GND Plane
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D97
-    D99
-    D100
-    D102
-    D103
-    D104
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 2
-      File : SM_Bottom_PCB.GM2
-
-    Adding Layer      : Mechanical 2
-
-
-Used DCodes :
-    D70
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : SM_Bottom_PCB.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D38
-    D41
-    D51
-    D64
-    D65
-    D66
-    D67
-    D68
-    D127
-    D128
-    D129
-    D130
-    D131
-    D132
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : SM_Bottom_PCB.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D91
-    D92
-    D93
-*************************************************************
-
-*************************************************************
-Generating : Power Plane
-      File : SM_Bottom_PCB.GP1
-
-    Adding Layer      : Power Plane
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
 *************************************************************
 
 *************************************************************
