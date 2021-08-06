@@ -1,16 +1,17 @@
 Altium Designer Pick and Place Locations
-C:\Users\eSpark Group\Downloads\ColeBenson-SmartMotors-Evaluation\ColeBenson-SmartMotors-Evaluation\Design-Files\SM_Top_Board\Project Outputs for SM_Top_Board\Pick Place for SM_Top_PCB.csv
+C:\Users\eSpark-37\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\SM_Top_Board\Project Outputs for SM_Top_Board\Pick Place for SM_Top_PCB.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       20/07/21
-Time:       15:51
-Revision:   Not in VersionControl
+Date:       07/08/21
+Time:       00:35
+Revision:   5b39e4da1d76a9e2cdd9e3da273948307d660078
 Variant:    No variations
 Units used: mm
 
 "Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
+"J4","B4B-XH-A(LF)(SN)","BottomLayer","B4B-XH-A(LF)(SN)","30,4292mm","0,1762mm","90","CONN HEADER VERT 4POS 2.5MM","30,4292mm","-3,5738mm","30,4292mm","-3,5738mm"
 "U7","MAX4236EUT+T","TopLayer","SOT-23-6","-16,8910mm","-17,3736mm","360","IC OPAMP GP 1.7MHZ RRO SOT23-6","-16,8910mm","-17,3736mm","-18,2010mm","-16,4236mm"
 "C4","470uF","TopLayer","VT1H471MI135000CE0","13,0810mm","9,7282mm","360","470uF ±20% 50V 12.5mm 13.5mm 1000hrs 105? -40?~+105? SMD,12.5x13.5mm Aluminum Electrolytic Capacitors - SMD RoHS","13,0810mm","9,7282mm","7,9360mm","9,7282mm"
 "Q8","BSC072N08NS5ATMA1","BottomLayer","8-PowerTDFN","22,2250mm","12,8536mm","90","MOSFET N-CH 80V 74A 8TDSON","22,2250mm","11,4046mm","24,1300mm","9,9721mm"
@@ -21,7 +22,6 @@ Units used: mm
 "R7","47R","TopLayer","Res0603","-7,7978mm","-18,0848mm","270","RES SMD 47OHM 0.1W 0603","-7,7978mm","-18,0848mm","-7,7978mm","-17,3228mm"
 "R6","47R","TopLayer","Res0603","-6,3754mm","-18,0848mm","270","RES SMD 47OHM 0.1W 0603","-6,3754mm","-18,0848mm","-6,3754mm","-17,3228mm"
 "C23","2.2uF","TopLayer","Cap_0603","-7,0358mm","-20,0152mm","360","CAP, 2.2µF, 35V, 10%, X5R, 0603","-7,0358mm","-20,0152mm","-7,7978mm","-20,0152mm"
-"J4","B4P-VH-FB-B(LF)(SN)","BottomLayer","B4P-VH-FB-B(LF)(SN)","30,4292mm","0,1766mm","90","CONN HEADER VERT 4POS 3.96MM","30,4292mm","0,1766mm","30,4292mm","-5,7634mm"
 "C22","220uF","TopLayer","VKME1451J221MV","14,1691mm","-2,9464mm","180","220uF ±20% 63V 10mm 14.5mm 1.2A 100kHz 10000hrs 105? -55?~+105? SMD,10x14.5mm Aluminum Electrolytic Capacitors - SMD RoHS","14,1691mm","-2,9464mm","9,6693mm","-2,9464mm"
 "C1","220uF","TopLayer","VKME1451J221MV","-8,2296mm","22,1996mm","360","220uF ±20% 63V 10mm 14.5mm 1.2A 100kHz 10000hrs 105? -55?~+105? SMD,10x14.5mm Aluminum Electrolytic Capacitors - SMD RoHS","-8,2296mm","22,1996mm","-3,7297mm","22,1996mm"
 "LED1","WS2812B-Mini","TopLayer","WS2812B-Mini","28,2567mm","10,7840mm","360","SMD,3.5x3.5mm Light Emitting Diodes (LED) RoHS","28,2567mm","10,7840mm","26,6192mm","11,6840mm"
@@ -29,7 +29,7 @@ Units used: mm
 "C3","1uF","BottomLayer","Cap0805","7,7056mm","18,6530mm","360","CAP CER 1UF 100V X7S 0805","7,7056mm","18,6530mm","6,6896mm","18,6530mm"
 "LED2","XZVG68W-2","TopLayer","LED_0402","29,1592mm","-9,1186mm","360","LED GREEN CLEAR CHIP SMD","29,1592mm","-9,1186mm","28,6842mm","-9,1186mm"
 "R25","143R","TopLayer","Res0603","26,7462mm","-9,1186mm","180","RES SMD 143 OHM 1% 1/10W 0603","26,7462mm","-9,1186mm","27,5082mm","-9,1186mm"
-"C20","0.1uF","BottomLayer","Cap_0603","5,1054mm","-19,9136mm","360","CAP CER 10000PF 100V X7R 0603","5,1054mm","-19,9136mm","4,3434mm","-19,9136mm"
+"C20","0.1uF","BottomLayer","Cap_0603","5,1054mm","-19,9136mm","360","CAP CER 0.1UF 100V X7R 0603","5,1054mm","-19,9136mm","4,3434mm","-19,9136mm"
 "SW2","SS-3235D-03-L2","TopLayer","SS-3235D-03-L2","12,4098mm","-27,4626mm","180","SPDT 50mA @ 12VDC 12V On-On SMD Toggle Switches RoHS","14,9098mm","-24,6126mm","14,9098mm","-24,6126mm"
 "P8","61300211121","BottomLayer","HDR1X2","-14,2240mm","-22,1488mm","0","CONN HEADER VERT 2POS 2.54MM","-15,4940mm","-22,1488mm","-15,4940mm","-22,1488mm"
 "SW3","SS-3235D-03-L2","TopLayer","SS-3235D-03-L2","-12,7870mm","-27,4880mm","180","SPDT 50mA @ 12VDC 12V On-On SMD Toggle Switches RoHS","-10,2870mm","-24,6380mm","-10,2870mm","-24,6380mm"
@@ -114,7 +114,7 @@ Units used: mm
 "C18","220nF","BottomLayer","Cap0805","8,5852mm","-18,3388mm","360","Cap Ceramic 0.22uF 100V X7R 10% SMD 0805 125°C Embossed T/R","8,5852mm","-18,3388mm","7,5692mm","-18,3388mm"
 "C17","22nF","TopLayer","Cap_0603","6,8072mm","-21,8186mm","360","0603 .022uF 100volts X7R 10% T=0.8mm","6,8072mm","-21,8186mm","6,0452mm","-21,8186mm"
 "C16","220nF","BottomLayer","Cap0805","5,0038mm","-18,3388mm","180","Cap Ceramic 0.22uF 100V X7R 10% SMD 0805 125°C Embossed T/R","5,0038mm","-18,3388mm","6,0198mm","-18,3388mm"
-"C15","0.1uF","BottomLayer","Cap_0603","8,4582mm","-16,7386mm","360","CAP CER 10000PF 100V X7R 0603","8,4582mm","-16,7386mm","7,6962mm","-16,7386mm"
+"C15","0.1uF","BottomLayer","Cap_0603","8,4582mm","-16,7386mm","360","CAP CER 0.1UF 100V X7R 0603","8,4582mm","-16,7386mm","7,6962mm","-16,7386mm"
 "C14","2.2uF","BottomLayer","Cap_0603","-4,5212mm","-18,9230mm","180","CAP, 2.2µF, 35V, 10%, X5R, 0603","-4,5212mm","-18,9230mm","-3,7592mm","-18,9230mm"
 "C13","0.1UF","BottomLayer","Cap0603","-9,7790mm","-23,3934mm","90","Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R","-9,7790mm","-23,3934mm","-9,7790mm","-24,1554mm"
 "C12","4.7UF","BottomLayer","Cap0603","-15,0622mm","12,4714mm","270","CAP CER 4.7UF 25V X5R 0603","-15,0622mm","12,4714mm","-15,0622mm","13,2334mm"
