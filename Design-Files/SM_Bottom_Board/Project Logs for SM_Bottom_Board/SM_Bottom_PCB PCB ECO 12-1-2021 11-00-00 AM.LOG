@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VDD_ENC Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=P2-2
+Removed Member From Class: ClassName=U_Encoder-Sheet Member=P2
+Added Component: Designator=J2(MH254RS-11-02-1000)
+Add component (AddParameter): Name = "Manufacturer"; Value = "XFCN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "MH254RS-11-02-1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packagw"; Value = "Custom"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD_ENC Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Member To Class: ClassName=U_Encoder-Sheet Member=Component J2 MH254RS-11-02-1000
