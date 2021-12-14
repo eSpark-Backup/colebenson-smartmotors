@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : E:\Git\ColeBenson-SmartMotors\Design-Files\SM_Top_Board\SM_Top_PCB.PcbDoc
-Date     : 11/30/2021
-Time     : 5:12:05 PM
+PCB File : C:\Users\eSpark-37\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\SM_Top_Board\SM_Top_PCB.PcbDoc
+Date     : 12/14/2021
+Time     : 8:36:26 PM
 
 Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
 Rule Violations :0
@@ -45,4 +45,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
