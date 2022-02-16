@@ -106,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OEJPBAPF
 
 [Document5]
-DocumentPath=Switching-Regulators.SchDoc
+DocumentPath=Isolated-Power-Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -123,7 +123,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NSKWTWYC
 
 [Document6]
-DocumentPath=Linear-Regulators.SchDoc
+DocumentPath=Motor-Supply-Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
