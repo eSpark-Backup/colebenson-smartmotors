@@ -1,0 +1,100 @@
+Added Pin To Net: NetName=VCC_5V Pin=J3-A13
+Added Pin To Net: NetName=VDD_3V3 Pin=J3-B13
+Added Pin To Net: NetName=VDD_3V3 Pin=LED1-5
+Added Pin To Net: NetName=VOUT_5V Pin=R25-2
+Added Pin To Net: NetName=VDD_3V3 Pin=R33-2
+Added Pin To Net: NetName=VDD_3V3 Pin=R34-2
+Added Pin To Net: NetName=VS# Pin=SB11-1
+Added Pin To Net: NetName=VDD_3V3 Pin=SW2-1
+Added Pin To Net: NetName=VDD_3V3 Pin=SW3-1
+Added Member To Class: ClassName=U_Connector-Section Member=Component C1 220uF
+Added Member To Class: ClassName=U_Connector-Section Member=Component C2 0.1uF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C13 0.1uF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C14 2.2uF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C15 0.1uF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C16 220nF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C17 22nF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C18 220nF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C19 220nF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C20 0.1uF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C21 220nF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C22 220uF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C23 2.2uF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C24 2.2uF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C26 220nF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C27 220nF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C28 220nF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C29 2.2uF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C30 .47uF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C31 220nF
+Added Member To Class: ClassName=U_Signal-Isolation-Section Member=Component C51 0.1UF
+Added Member To Class: ClassName=U_Signal-Isolation-Section Member=Component C52 0.1UF
+Added Member To Class: ClassName=U_Signal-Isolation-Section Member=Component C53 0.1UF
+Added Member To Class: ClassName=U_Signal-Isolation-Section Member=Component C54 0.1UF
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component C57 1nF
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component C58 1nF
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component C59 1nF
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component C60 1nF
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component D4 PMEG3010ER,115
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component D5 PMEG3010ER,115
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component D6 PMEG3010ER,115
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component D7 PMEG3010ER,115
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component D8 PMEG3010ER,115
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component D9 PMEG3010ER,115
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component D10 PMEG3010ER,115
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component D11 PMEG3010ER,115
+Added Member To Class: ClassName=U_Connector-Section Member=Component F1 0685H9150-01
+Added Member To Class: ClassName=U_Connector-Section Member=Component J1 MC-318
+Added Member To Class: ClassName=U_Connector-Section Member=Component J2 5520425-2
+Added Member To Class: ClassName=U_Connector-Section Member=Component J3 M55-7012642R
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component J4 B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=U_Connector-Section Member=Component J5 5520425-2
+Added Member To Class: ClassName=U_Connector-Section Member=Component LED1 LTST-G683GEBW
+Added Member To Class: ClassName=U_Connector-Section Member=Component LED2 XZVG68W-2
+Added Member To Class: ClassName=U_Connector-Section Member=Component P1 PRT-10474
+Added Member To Class: ClassName=U_Connector-Section Member=Component P2 PRT-10474
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component P3 Test Point
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component P4 Test Point
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component P5 Test Point
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component P6 Test Point
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component Q2 BSC072N08NS5ATMA1
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component Q3 BSC072N08NS5ATMA1
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component Q4 BSC072N08NS5ATMA1
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component Q5 BSC072N08NS5ATMA1
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component Q6 BSC072N08NS5ATMA1
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component Q7 BSC072N08NS5ATMA1
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component Q8 BSC072N08NS5ATMA1
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component Q9 BSC072N08NS5ATMA1
+Added Member To Class: ClassName=U_Connector-Section Member=Component R1 5.1K
+Added Member To Class: ClassName=U_Connector-Section Member=Component R2 5.1K
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component R6 47R
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component R7 47R
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component R8 47R
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component R9 47R
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component R10 33m
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component R11 33m
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component R12 33m
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component R13 33m
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component R14 150R
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component R15 150R
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component R16 150R
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component R17 150R
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component R18 150R
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component R19 150R
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component R20 150R
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component R23 2R2
+Added Member To Class: ClassName=U_Connector-Section Member=Component R25 143R
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component R26 150R
+Added Member To Class: ClassName=U_Connector-Section Member=Component R33 240R
+Added Member To Class: ClassName=U_Connector-Section Member=Component R34 240R
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component RF1 10K
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component RF2 10K
+Added Member To Class: ClassName=U_Connector-Section Member=Component RF3 10K
+Added Member To Class: ClassName=U_Connector-Section Member=Component RF4 10K
+Added Member To Class: ClassName=U_Connector-Section Member=Component SB1 Solder Bridge
+Added Member To Class: ClassName=U_Connector-Section Member=Component SW1 Tactile Switch 13mm Actuator
+Added Member To Class: ClassName=U_Connector-Section Member=Component SW2 SS-3235D-03-L2
+Added Member To Class: ClassName=U_Connector-Section Member=Component SW3 SS-3235D-03-L2
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component U6 TMC5160A-TA-T
+Added Member To Class: ClassName=U_Signal-Isolation-Section Member=Component U8 ISO7741QDBQQ1
+Added Member To Class: ClassName=U_Signal-Isolation-Section Member=Component U9 MAX14850ASE+
