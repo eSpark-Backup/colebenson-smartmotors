@@ -1,0 +1,257 @@
+Removed Pin From Net: NetName=VS Pin=C4-1
+Removed Pin From Net: NetName=VS Pin=C5-1
+Removed Pin From Net: NetName=VS Pin=C6-1
+Removed Pin From Net: NetName=3V8 Pin=C8-1
+Removed Pin From Net: NetName=3V8 Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=3V3_M Pin=C51-1
+Removed Pin From Net: NetName=3V3_M Pin=C52-1
+Removed Pin From Net: NetName=VS Pin=R29-2
+Removed Pin From Net: NetName=VS Pin=R31-2
+Removed Pin From Net: NetName=GND Pin=R35-1
+Removed Pin From Net: NetName=VS Pin=U1-3
+Removed Pin From Net: NetName=DRV_DIR# Pin=U8-5
+Removed Pin From Net: NetName=3V3_M Pin=U8-10
+Removed Pin From Net: NetName=3V3_M Pin=U8-16
+Removed Pin From Net: NetName=3V3_M Pin=U9-16
+Change component parameters: Designator = "R40" ("R40"); Footprint = "Res0603"; UniqueID = "\TAFIXPXO" ("\TAFIXPXO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "0603WAF1201T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1.2kO "; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41" ("R41"); Footprint = "Res0603"; UniqueID = "\KJHLUDXL" ("\KJHLUDXL")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "RALEC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "RTT03R330FTP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.33O "; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_12V Pin=C4-1
+Added Pin To Net: NetName=VCC_12V Pin=C5-1
+Added Pin To Net: NetName=VCC_12V Pin=C6-1
+Added Pin To Net: NetName=VCC## Pin=C8-1
+Added Pin To Net: NetName=VCC## Pin=C10-1
+Added Pin To Net: NetName=ISO_GND Pin=C11-2
+Added Pin To Net: NetName=ISO_GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-2
+Added Pin To Net: NetName=VCC_3V3_M Pin=C51-1
+Added Pin To Net: NetName=GND Pin=C51-2
+Added Pin To Net: NetName=VCC_3V3_M Pin=C52-1
+Added Pin To Net: NetName=GND Pin=C52-2
+Added Pin To Net: NetName=GND Pin=C57-2
+Added Pin To Net: NetName=GND Pin=C58-2
+Added Pin To Net: NetName=GND Pin=C59-2
+Added Pin To Net: NetName=GND Pin=C60-2
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=VCC_12V Pin=R29-2
+Added Pin To Net: NetName=VCC_12V Pin=R31-2
+Added Pin To Net: NetName=ISO_GND Pin=R35-1
+Added Pin To Net: NetName=VCC_12V Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U6-6
+Added Pin To Net: NetName=GND Pin=U6-11
+Added Pin To Net: NetName=GND Pin=U6-12
+Added Pin To Net: NetName=GND Pin=U6-19
+Added Pin To Net: NetName=GND Pin=U6-23
+Added Pin To Net: NetName=GND Pin=U6-24
+Added Pin To Net: NetName=GND Pin=U6-30
+Added Pin To Net: NetName=GND Pin=U6-49
+Added Pin To Net: NetName=TMC_1 Pin=U8-3
+Added Pin To Net: NetName=TMC_2 Pin=U8-4
+Added Pin To Net: NetName=DRV_DIR Pin=U8-5
+Added Pin To Net: NetName=GND Pin=U8-9
+Added Pin To Net: NetName=VCC_3V3_M Pin=U8-10
+Added Pin To Net: NetName=DRV_ENN Pin=U8-11
+Added Pin To Net: NetName=GND Pin=U8-15
+Added Pin To Net: NetName=VCC_3V3_M Pin=U8-16
+Added Pin To Net: NetName=SPI_SCK Pin=U9-2
+Added Pin To Net: NetName=MOSI Pin=U9-3
+Added Pin To Net: NetName=DRV_STEP Pin=U9-4
+Added Pin To Net: NetName=MISO Pin=U9-5
+Added Pin To Net: NetName=DIAG0_SWN Pin=U9-6
+Added Pin To Net: NetName=SPI_CS Pin=U9-7
+Added Pin To Net: NetName=GND Pin=U9-9
+Added Pin To Net: NetName=VCC_3V3_M Pin=U9-16
+Added Member To Class: ClassName=U_Connector-Section Member=Component C1 220uF
+Added Member To Class: ClassName=U_Connector-Section Member=Component C2 0.1uF
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component C3 10nF
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component C4 0.47uF
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component C5 2.2uF
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component C6 2.2uF
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component C7 1uF
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component C8 10uF
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component C9 82nF
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component C10 10uF
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component C11 10uF
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component C12 10uF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C13 0.1uF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C14 2.2uF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C15 0.1uF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C16 220nF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C17 22nF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C18 220nF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C19 220nF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C20 0.1uF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C21 220nF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C22 220uF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C23 2.2uF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C24 2.2uF
+Added Member To Class: ClassName=U_Temp_Probe_Section Member=Component C25 0.1UF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C26 220nF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C27 220nF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C28 220nF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C29 2.2uF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C30 0.47uF
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component C31 220nF
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component C32 0.1UF
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component C33 4.7UF
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component C34 2.2uF
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component C35 2.2uF
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component C36 1000pF
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component C37 2.2nF
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component C38 4.7UF
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component C39 4.7UF
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component C40 0.1uF
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component C41 4.7uF
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component C42 68pF
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component C43 47uF
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component C44 20nF
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component C45 1uF
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component C46 0.47uF
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component C47 2.2uF
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component C48 100uF
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component C49 470uF
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component C50 470pF
+Added Member To Class: ClassName=U_Signal-Isolation-Section Member=Component C51 0.1UF
+Added Member To Class: ClassName=U_Signal-Isolation-Section Member=Component C52 0.1UF
+Added Member To Class: ClassName=U_Signal-Isolation-Section Member=Component C53 0.1UF
+Added Member To Class: ClassName=U_Signal-Isolation-Section Member=Component C54 0.1UF
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component C57 1nF
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component C58 1nF
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component C59 1nF
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component C60 1nF
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component CF1 0.1uF
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component CF2 0.1uF
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component D1 CUS10S30,H3F
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component D2 SSL110A
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component D3 SS24A
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component D4 PMEG3010ER,115
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component D5 PMEG3010ER,115
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component D6 PMEG3010ER,115
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component D7 PMEG3010ER,115
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component D8 PMEG3010ER,115
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component D9 PMEG3010ER,115
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component D10 PMEG3010ER,115
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component D11 PMEG3010ER,115
+Added Member To Class: ClassName=U_Connector-Section Member=Component F1 0685H9150-01
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component FB1 MPZ1608S121ATDH5
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component FB2 MPZ1608S121ATDH5
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component FB3 MPZ1608S121ATDH5
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component FB4 MPZ1608S121ATDH5
+Added Member To Class: ClassName=U_Connector-Section Member=Component J1 MC-318
+Added Member To Class: ClassName=U_Connector-Section Member=Component J2 5520425-2
+Added Member To Class: ClassName=U_Connector-Section Member=Component J3 M55-7012642R
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component J4 B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=U_Connector-Section Member=Component J5 5520425-2
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component L1 220uH
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component L2 15uH
+Added Member To Class: ClassName=U_Connector-Section Member=Component LED1 LTST-G683GEBW
+Added Member To Class: ClassName=U_Connector-Section Member=Component LED2 XZVG68W-2
+Added Member To Class: ClassName=U_Connector-Section Member=Component P1 PRT-10474
+Added Member To Class: ClassName=U_Connector-Section Member=Component P2 PRT-10474
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component P3 Test Point
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component P4 Test Point
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component P5 Test Point
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component P6 Test Point
+Added Member To Class: ClassName=U_Temp_Probe_Section Member=Component P7 61300211121
+Added Member To Class: ClassName=U_Temp_Probe_Section Member=Component P8 61300211121
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component Q2 BSC072N08NS5ATMA1
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component Q3 BSC072N08NS5ATMA1
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component Q4 BSC072N08NS5ATMA1
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component Q5 BSC072N08NS5ATMA1
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component Q6 BSC072N08NS5ATMA1
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component Q7 BSC072N08NS5ATMA1
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component Q8 BSC072N08NS5ATMA1
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component Q9 BSC072N08NS5ATMA1
+Added Member To Class: ClassName=U_Connector-Section Member=Component R1 5.1K
+Added Member To Class: ClassName=U_Connector-Section Member=Component R2 5.1K
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component R3 3.9K
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component R4 2K
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component R5 0R
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component R6 47R
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component R7 47R
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component R8 47R
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component R9 47R
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component R10 33m
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component R11 33m
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component R12 33m
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component R13 33m
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component R14 150R
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component R15 150R
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component R16 150R
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component R17 150R
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component R18 150R
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component R19 150R
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component R20 150R
+Added Member To Class: ClassName=U_Temp_Probe_Section Member=Component R21 3.01K
+Added Member To Class: ClassName=U_Temp_Probe_Section Member=Component R22 11K
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component R23 2R2
+Added Member To Class: ClassName=U_Temp_Probe_Section Member=Component R24 12.4K
+Added Member To Class: ClassName=U_Connector-Section Member=Component R25 143R
+Added Member To Class: ClassName=U_Driver-Sheet Member=Component R26 150R
+Added Member To Class: ClassName=U_Temp_Probe_Section Member=Component R27 11.8K
+Added Member To Class: ClassName=U_Temp_Probe_Section Member=Component R28 105K
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component R29 127K
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component R30 10K
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component R31 301K
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component R32 0R
+Added Member To Class: ClassName=U_Connector-Section Member=Component R33 240R
+Added Member To Class: ClassName=U_Connector-Section Member=Component R34 240R
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component R35 2K
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component R36 51.1K
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component R37 1M
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component R38 90.9K
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component R39 2K
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component R40 1.2K
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component R41 0.33R
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component RF1 10K
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component RF2 10K
+Added Member To Class: ClassName=U_Connector-Section Member=Component RF3 10K
+Added Member To Class: ClassName=U_Connector-Section Member=Component RF4 10K
+Added Member To Class: ClassName=U_Connector-Section Member=Component SB1 Solder Bridge
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component SB2 Solder Bridge
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component SB3 Solder Bridge
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component SB4 Solder Bridge
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component SB5 Solder Bridge
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component SB6 Solder Bridge
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component SB7 Solder Bridge
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component SB8 Solder Bridge
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component SB9 Solder Bridge
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component SB10 Solder Bridge
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component SB11 Solder Bridge
+Added Member To Class: ClassName=U_Connector-Section Member=Component SW1 Tactile Switch 13mm Actuator
+Added Member To Class: ClassName=U_Connector-Section Member=Component SW2 SS-3235D-03-L2
+Added Member To Class: ClassName=U_Connector-Section Member=Component SW3 SS-3235D-03-L2
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component T1 750314597
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component U1 LM5160ADNTR
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component U2 NCP708MU330TAG
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component U3 LM43603PWPR
+Added Member To Class: ClassName=U_Isolated-Power-Section Member=Component U4 TPS60150DRVR
+Added Member To Class: ClassName=U_Motor-Supply-Section Member=Component U5 MC34063ADR
+Added Member To Class: ClassName=U_Motor-Driver-Sheet Member=Component U6 TMC5160A-TA-T
+Added Member To Class: ClassName=U_Temp_Probe_Section Member=Component U7 MAX4236EUT+T
+Added Member To Class: ClassName=U_Signal-Isolation-Section Member=Component U8 ISO7741QDBQQ1
+Added Member To Class: ClassName=U_Signal-Isolation-Section Member=Component U9 MAX14850ASE+
