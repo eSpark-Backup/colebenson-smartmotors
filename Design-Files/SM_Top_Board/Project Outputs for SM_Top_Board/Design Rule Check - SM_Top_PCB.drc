@@ -1,89 +1,55 @@
 Protel Design System Design Rule Check
 PCB File : E:\Git\ColeBenson-SmartMotors\Design-Files\SM_Top_Board\SM_Top_PCB.PcbDoc
 Date     : 2/24/2022
-Time     : 1:55:35 PM
+Time     : 7:24:55 PM
 
 WARNING: Unplated multi-layer pad(s) detected
    Pad J2-MH2(-620.715mil,1774.175mil) on Multi-Layer on Net ISO_GND
    Pad J2-MH1(-620.715mil,1374.175mil) on Multi-Layer on Net ISO_GND
-   Pad J1-MH2(-835.361mil,520.521mil) on Multi-Layer on Net ISO_GND
-   Pad J1-MH1(-835.361mil,225.245mil) on Multi-Layer on Net ISO_GND
    Pad J5-MH1(-620.715mil,796.175mil) on Multi-Layer on Net ISO_GND
    Pad J5-MH2(-620.715mil,1196.175mil) on Multi-Layer on Net ISO_GND
 
 Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
-   Violation between Clearance Constraint: (Collision < 7mil) Between Area Fill (182.285mil,1367.686mil) (244.285mil,1407.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 7mil) Between Area Fill (188.285mil,1682.371mil) (1085.285mil,1771.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 7mil) Between Area Fill (232.474mil,1367.686mil) (359.285mil,1498.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-A1(-321.859mil,198.408mil) on Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-A10(128.141mil,198.408mil) on Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-A11(178.141mil,198.408mil) on Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-A12(228.141mil,198.408mil) on Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-A13(278.141mil,198.408mil) on Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-A2(-271.859mil,198.408mil) on Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-A3(-221.859mil,198.408mil) on Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-A4(-171.859mil,198.408mil) on Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-A5(-121.859mil,198.408mil) on Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-A6(-71.859mil,198.408mil) on Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-A7(-21.859mil,198.408mil) on Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-A8(28.141mil,198.408mil) on Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-A9(78.141mil,198.408mil) on Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-B1(-321.859mil,414.943mil) on Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-B10(128.141mil,414.943mil) on Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-B11(178.141mil,414.943mil) on Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-B12(228.141mil,414.943mil) on Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-B13(278.141mil,414.943mil) on Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-B2(-271.859mil,414.943mil) on Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-B3(-221.859mil,414.943mil) on Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-B4(-171.859mil,414.943mil) on Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-B5(-121.859mil,414.943mil) on Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-B6(-71.859mil,414.943mil) on Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-B7(-21.859mil,414.943mil) on Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-B8(28.141mil,414.943mil) on Bottom Layer 
-   Violation between Clearance Constraint: (4.614mil < 7mil) Between Area Fill (-356.859mil,224.675mil) (313.141mil,388.675mil) on Keep-Out Layer And Pad J3-B9(78.141mil,414.943mil) on Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 7mil) Between Area Fill (826.982mil,881.371mil) (867.285mil,1104.182mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 7mil) Between Pad Q5-5(194.285mil,1382.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 7mil) Between Pad Q5-6(244.285mil,1382.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 7mil) Between Pad Q5-7(294.285mil,1382.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 7mil) Between Pad Q5-8(344.285mil,1382.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 7mil) Between Pad Q6-5(559.285mil,1707.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 7mil) Between Pad Q6-6(609.285mil,1707.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 7mil) Between Pad Q6-7(659.285mil,1707.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 7mil) Between Pad Q6-8(709.285mil,1707.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 7mil) Between Pad Q9-5(843.793mil,942.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 7mil) Between Pad Q9-6(843.793mil,992.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 7mil) Between Pad Q9-7(843.793mil,1042.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 7mil) Between Pad Q9-8(843.793mil,1092.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
-Rule Violations :42
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-   Violation between Short-Circuit Constraint: Between Area Fill (182.285mil,1367.686mil) (244.285mil,1407.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Area Fill (188.285mil,1682.371mil) (1085.285mil,1771.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer Location : [X = 4515mil][Y = 3390.905mil]
-   Violation between Short-Circuit Constraint: Between Area Fill (232.474mil,1367.686mil) (359.285mil,1498.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Area Fill (826.982mil,881.371mil) (867.285mil,1104.182mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer Location : [X = 4727.848mil][Y = 2705mil]
-   Violation between Short-Circuit Constraint: Between Pad Q5-5(194.285mil,1382.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer Location : [X = 4075mil][Y = 3070mil]
-   Violation between Short-Circuit Constraint: Between Pad Q5-6(244.285mil,1382.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer Location : [X = 4125mil][Y = 3070mil]
-   Violation between Short-Circuit Constraint: Between Pad Q5-7(294.285mil,1382.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer Location : [X = 4175mil][Y = 3070mil]
-   Violation between Short-Circuit Constraint: Between Pad Q5-8(344.285mil,1382.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer Location : [X = 4225mil][Y = 3070mil]
-   Violation between Short-Circuit Constraint: Between Pad Q6-5(559.285mil,1707.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer Location : [X = 4440mil][Y = 3395mil]
-   Violation between Short-Circuit Constraint: Between Pad Q6-6(609.285mil,1707.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer Location : [X = 4490mil][Y = 3395mil]
-   Violation between Short-Circuit Constraint: Between Pad Q6-7(659.285mil,1707.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer Location : [X = 4540mil][Y = 3395mil]
-   Violation between Short-Circuit Constraint: Between Pad Q6-8(709.285mil,1707.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer Location : [X = 4590mil][Y = 3395mil]
-   Violation between Short-Circuit Constraint: Between Pad Q9-5(843.793mil,942.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer Location : [X = 4724.508mil][Y = 2630mil]
-   Violation between Short-Circuit Constraint: Between Pad Q9-6(843.793mil,992.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer Location : [X = 4724.508mil][Y = 2680mil]
-   Violation between Short-Circuit Constraint: Between Pad Q9-7(843.793mil,1042.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer Location : [X = 4724.508mil][Y = 2730mil]
-   Violation between Short-Circuit Constraint: Between Pad Q9-8(843.793mil,1092.371mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer Location : [X = 4724.508mil][Y = 2780mil]
-Rule Violations :16
+Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net ISO_GND Between Pad J1-MP1(-920.006mil,278.395mil) on Multi-Layer And Pad J1-A1(-863.706mil,264.616mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net MB2 Between Pad Q9-6(843.793mil,992.371mil) on Bottom Layer And Track (484.285mil,1010.371mil)(846.285mil,1010.371mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net MB2 Between Track (837.025mil,1100.371mil)(1202.285mil,1100.371mil) on Top Layer And Pad Q9-8(843.793mil,1092.371mil) on Bottom Layer 
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 257412.14 sq. mils
-   Violation between Isolated copper: Split Plane  (VCC_5V) on Layer 1. Copper island connected to pads/vias detected. Copper area is : 259802.245 sq. mils
-   Violation between Isolated copper: Split Plane  (VCC_5V) on Layer 1. Dead copper detected. Copper area is : 257412.14 sq. mils
-   Violation between Isolated copper: Split Plane  (VDD_3V3) on Layer 1. Copper island connected to pads/vias detected. Copper area is : 532720.435 sq. mils
-Rule Violations :7
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 102.82 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 110.04 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 110.04 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 115.047 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 115.047 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 115.305 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 115.305 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 115.305 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 115.305 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 115.434 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 115.434 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 117.918 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 117.918 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 118.549 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 118.549 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 119.727 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 119.727 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 123.966 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 128.596 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 128.596 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 170.668 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 174.214 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 174.214 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 358.761 sq. mils
+   Violation between Isolated copper: Split Plane  (VDD_3V3) on Layer 1. Copper island connected to pads/vias detected. Copper area is : 545380.773 sq. mils
+   Violation between Isolated copper: Split Plane  (VS) on Layer 1. Dead copper detected. Copper area is : 115.305 sq. mils
+   Violation between Isolated copper: Split Plane  (VS) on Layer 1. Dead copper detected. Copper area is : 115.305 sq. mils
+   Violation between Isolated copper: Split Plane  (VS) on Layer 1. Dead copper detected. Copper area is : 115.305 sq. mils
+   Violation between Isolated copper: Split Plane  (VS) on Layer 1. Dead copper detected. Copper area is : 115.305 sq. mils
+   Violation between Isolated copper: Split Plane  (VS) on Layer 1. Dead copper detected. Copper area is : 115.305 sq. mils
+   Violation between Isolated copper: Split Plane  (VS) on Layer 1. Dead copper detected. Copper area is : 175.298 sq. mils
+   Violation between Isolated copper: Split Plane  (VS) on Layer 1. Dead copper detected. Copper area is : 223.652 sq. mils
+   Violation between Isolated copper: Split Plane  (VS) on Layer 1. Dead copper detected. Copper area is : 326.923 sq. mils
+Rule Violations :33
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -92,7 +58,36 @@ Processing Rule : Width Constraint (Min=8mil) (Max=40mil) (Preferred=22mil) (All
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
-Rule Violations :0
+   Violation between Starved Thermal on Layer 2: Via (318mil,2361.107mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Layer 2: Via (350.905mil,2323.843mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Layer 2: Via (350.905mil,2361.107mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on Layer 2: Via (351.19mil,2397.372mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Layer 2: Via (383.81mil,2221.905mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Layer 2: Via (383.81mil,2254.81mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Layer 2: Via (383.81mil,2287.715mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Layer 2: Via (383.81mil,2323.843mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on Layer 2: Via (383.81mil,2361.107mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on Layer 2: Via (416.371mil,2287.715mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Layer 2: Via (416.715mil,2323.472mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Layer 2: Via (416.715mil,2360.736mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Layer 2: Via (416mil,2221.905mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Layer 2: Via (416mil,2254.81mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Layer 1: Via (533.19mil,1709mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Layer 1: Via (563.736mil,1677.905mil) from Top Layer to Bottom Layer. Only 49% copper is connected to the hole.
+   Violation between Starved Thermal on Layer 1: Via (566.095mil,1709mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on Layer 1: Via (599mil,1709mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Layer 2: Via (-698mil,1990.905mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Layer 2: Via (-698mil,2023.81mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Layer 2: Via (-734.893mil,2056.715mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Layer 2: Via (-735.264mil,1958mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Layer 2: Via (-735.264mil,1990.905mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on Layer 2: Via (-735.264mil,2023.81mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on Layer 2: Via (-771.529mil,1991.19mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Layer 2: Via (-772.157mil,2057mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Layer 2: Via (-772.528mil,2024.095mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Layer 1: Via (934.736mil,1713.905mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Layer 1: Via (972mil,1713.905mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+Rule Violations :29
 
 Processing Rule : Hole Size Constraint (Min=1mil) (Max=1000mil) (All)
 Rule Violations :0
@@ -110,16 +105,14 @@ Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
-   Violation between Net Antennae: Track (484.285mil,1010.371mil)(846.285mil,1010.371mil) on Top Layer 
-   Violation between Net Antennae: Track (837.025mil,1100.371mil)(1202.285mil,1100.371mil) on Top Layer 
-   Violation between Net Antennae: Via (173.285mil,1950.371mil) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (337.285mil,444.372mil) from Top Layer to Bottom Layer 
-Rule Violations :4
+   Violation between Net Antennae: Via (335mil,2000mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (335mil,2037.264mil) from Top Layer to Bottom Layer 
+Rule Violations :2
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 69
+Violations Detected : 64
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:03
