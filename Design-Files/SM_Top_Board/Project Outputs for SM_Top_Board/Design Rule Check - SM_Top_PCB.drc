@@ -1,13 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : E:\Git\ColeBenson-SmartMotors\Design-Files\SM_Top_Board\SM_Top_PCB.PcbDoc
-Date     : 2/24/2022
-Time     : 7:24:55 PM
-
-WARNING: Unplated multi-layer pad(s) detected
-   Pad J2-MH2(-620.715mil,1774.175mil) on Multi-Layer on Net ISO_GND
-   Pad J2-MH1(-620.715mil,1374.175mil) on Multi-Layer on Net ISO_GND
-   Pad J5-MH1(-620.715mil,796.175mil) on Multi-Layer on Net ISO_GND
-   Pad J5-MH2(-620.715mil,1196.175mil) on Multi-Layer on Net ISO_GND
+Date     : 2/25/2022
+Time     : 1:17:52 PM
 
 Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
 Rule Violations :0
@@ -16,40 +10,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 102.82 sq. mils
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 110.04 sq. mils
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 110.04 sq. mils
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 115.047 sq. mils
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 115.047 sq. mils
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 115.305 sq. mils
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 115.305 sq. mils
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 115.305 sq. mils
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 115.305 sq. mils
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 115.434 sq. mils
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 115.434 sq. mils
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 117.918 sq. mils
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 117.918 sq. mils
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 118.549 sq. mils
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 118.549 sq. mils
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 119.727 sq. mils
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 119.727 sq. mils
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 123.966 sq. mils
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 128.596 sq. mils
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 128.596 sq. mils
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 170.668 sq. mils
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 174.214 sq. mils
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 174.214 sq. mils
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 358.761 sq. mils
-   Violation between Isolated copper: Split Plane  (VDD_3V3) on Layer 1. Copper island connected to pads/vias detected. Copper area is : 545380.773 sq. mils
-   Violation between Isolated copper: Split Plane  (VS) on Layer 1. Dead copper detected. Copper area is : 115.305 sq. mils
-   Violation between Isolated copper: Split Plane  (VS) on Layer 1. Dead copper detected. Copper area is : 115.305 sq. mils
-   Violation between Isolated copper: Split Plane  (VS) on Layer 1. Dead copper detected. Copper area is : 115.305 sq. mils
-   Violation between Isolated copper: Split Plane  (VS) on Layer 1. Dead copper detected. Copper area is : 115.305 sq. mils
-   Violation between Isolated copper: Split Plane  (VS) on Layer 1. Dead copper detected. Copper area is : 115.305 sq. mils
-   Violation between Isolated copper: Split Plane  (VS) on Layer 1. Dead copper detected. Copper area is : 175.298 sq. mils
-   Violation between Isolated copper: Split Plane  (VS) on Layer 1. Dead copper detected. Copper area is : 223.652 sq. mils
-   Violation between Isolated copper: Split Plane  (VS) on Layer 1. Dead copper detected. Copper area is : 326.923 sq. mils
-Rule Violations :33
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -57,37 +18,8 @@ Rule Violations :0
 Processing Rule : Width Constraint (Min=8mil) (Max=40mil) (Preferred=22mil) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
-   Violation between Starved Thermal on Layer 2: Via (318mil,2361.107mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on Layer 2: Via (350.905mil,2323.843mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on Layer 2: Via (350.905mil,2361.107mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
-   Violation between Starved Thermal on Layer 2: Via (351.19mil,2397.372mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on Layer 2: Via (383.81mil,2221.905mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on Layer 2: Via (383.81mil,2254.81mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on Layer 2: Via (383.81mil,2287.715mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on Layer 2: Via (383.81mil,2323.843mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
-   Violation between Starved Thermal on Layer 2: Via (383.81mil,2361.107mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
-   Violation between Starved Thermal on Layer 2: Via (416.371mil,2287.715mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on Layer 2: Via (416.715mil,2323.472mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on Layer 2: Via (416.715mil,2360.736mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on Layer 2: Via (416mil,2221.905mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on Layer 2: Via (416mil,2254.81mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on Layer 1: Via (533.19mil,1709mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on Layer 1: Via (563.736mil,1677.905mil) from Top Layer to Bottom Layer. Only 49% copper is connected to the hole.
-   Violation between Starved Thermal on Layer 1: Via (566.095mil,1709mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
-   Violation between Starved Thermal on Layer 1: Via (599mil,1709mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on Layer 2: Via (-698mil,1990.905mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on Layer 2: Via (-698mil,2023.81mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on Layer 2: Via (-734.893mil,2056.715mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on Layer 2: Via (-735.264mil,1958mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on Layer 2: Via (-735.264mil,1990.905mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
-   Violation between Starved Thermal on Layer 2: Via (-735.264mil,2023.81mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
-   Violation between Starved Thermal on Layer 2: Via (-771.529mil,1991.19mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on Layer 2: Via (-772.157mil,2057mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on Layer 2: Via (-772.528mil,2024.095mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on Layer 1: Via (934.736mil,1713.905mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on Layer 1: Via (972mil,1713.905mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
-Rule Violations :29
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=1mil) (Max=1000mil) (All)
 Rule Violations :0
@@ -105,14 +37,12 @@ Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
-   Violation between Net Antennae: Via (335mil,2000mil) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (335mil,2037.264mil) from Top Layer to Bottom Layer 
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 64
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:03
+Time Elapsed        : 00:00:02
