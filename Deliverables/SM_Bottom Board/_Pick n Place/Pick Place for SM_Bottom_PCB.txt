@@ -1,0 +1,127 @@
+Altium Designer Pick and Place Locations
+E:\Git\ColeBenson-SmartMotors\Design-Files\SM_Bottom_Board\Pick Place for SM_Bottom_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       08/03/22
+Time:       10:34
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Layer       Center-X(mil) Center-Y(mil) Rotation Ref-X(mil)   Ref-Y(mil)  Pad-X(mil)   Pad-Y(mil)  
+R21        TopLayer    -212,000mil   1538,000mil   360      -212,000mil  1538,000mil -222,827mil  1538,000mil 
+R20        TopLayer    -212,000mil   1564,000mil   360      -212,000mil  1564,000mil -222,827mil  1564,000mil 
+R16        TopLayer    -157,000mil   1499,000mil   90       -157,000mil  1499,000mil -157,000mil  1488,173mil 
+R15        TopLayer    -131,000mil   1499,000mil   90       -131,000mil  1499,000mil -131,000mil  1488,173mil 
+X2         TopLayer    -462,000mil   1221,158mil   270      -462,000mil  1221,158mil -462,000mil  1270,371mil 
+X1         TopLayer    -708,000mil   1081,205mil   270      -706,997mil  1082,205mil -708,000mil  1248,528mil 
+SB8        TopLayer    -541,680mil   1914,528mil   360      -541,680mil  1914,528mil -571,680mil  1914,528mil 
+SB7        TopLayer    -479,000mil   1861,528mil   180      -479,000mil  1861,528mil -449,000mil  1861,528mil 
+SB6        TopLayer    -304,000mil   2091,528mil   90       -304,000mil  2091,528mil -304,000mil  2061,528mil 
+SB5        TopLayer    -250,000mil   2091,528mil   90       -250,000mil  2091,528mil -250,000mil  2061,528mil 
+SB4        BottomLayer 659,000mil    1294,528mil   90       659,000mil   1294,528mil 659,000mil   1264,528mil 
+SB3        BottomLayer 631,000mil    1373,528mil   360      631,000mil   1373,528mil 601,000mil   1373,528mil 
+SB2        BottomLayer -135,000mil   1477,528mil   360      -135,000mil  1477,528mil -165,000mil  1477,528mil 
+R48        BottomLayer 175,000mil    782,528mil    270      175,000mil   782,528mil  175,000mil   793,355mil  
+R47        BottomLayer 310,173mil    1116,528mil   180      310,173mil   1116,528mil 321,000mil   1116,528mil 
+R46        BottomLayer 149,000mil    782,528mil    270      149,000mil   782,528mil  149,000mil   793,355mil  
+R45        BottomLayer 310,173mil    1088,528mil   180      310,173mil   1088,528mil 321,000mil   1088,528mil 
+R44        BottomLayer 123,000mil    782,528mil    270      123,000mil   782,528mil  123,000mil   793,355mil  
+R43        BottomLayer 97,000mil     782,528mil    270      97,000mil    782,528mil  97,000mil    793,355mil  
+R42        BottomLayer 115,000mil    838,701mil    90       115,000mil   838,701mil  115,000mil   827,875mil  
+R41        BottomLayer 364,827mil    1037,528mil   180      364,827mil   1037,528mil 375,654mil   1037,528mil 
+R40        BottomLayer 87,750mil     838,701mil    90       87,750mil    838,701mil  87,750mil    827,875mil  
+R39        BottomLayer 364,827mil    1010,861mil   180      364,827mil   1010,861mil 375,654mil   1010,861mil 
+R38        BottomLayer 60,500mil     838,701mil    90       60,500mil    838,701mil  60,500mil    827,875mil  
+R37        BottomLayer 364,827mil    984,195mil    180      364,827mil   984,195mil  375,654mil   984,195mil  
+R36        BottomLayer 33,250mil     838,701mil    90       33,250mil    838,701mil  33,250mil    827,875mil  
+R35        BottomLayer 364,827mil    957,528mil    180      364,827mil   957,528mil  375,654mil   957,528mil  
+R34        BottomLayer 6,000mil      838,701mil    90       6,000mil     838,701mil  6,000mil     827,875mil  
+R33        BottomLayer -2,000mil     1442,276mil   270      -2,000mil    1442,276mil -2,000mil    1453,103mil 
+R32        BottomLayer -290,004mil   1266,098mil   180      -290,004mil  1266,098mil -279,177mil  1266,098mil 
+R31        BottomLayer 24,200mil     1442,276mil   270      24,200mil    1442,276mil 24,200mil    1453,103mil 
+R30        BottomLayer -290,004mil   1292,668mil   180      -290,004mil  1292,668mil -279,177mil  1292,668mil 
+R29        BottomLayer 50,400mil     1442,276mil   270      50,400mil    1442,276mil 50,400mil    1453,103mil 
+R28        BottomLayer -290,004mil   1319,238mil   180      -290,004mil  1319,238mil -279,177mil  1319,238mil 
+R26        BottomLayer 76,600mil     1442,276mil   270      76,600mil    1442,276mil 76,600mil    1453,103mil 
+R25        BottomLayer -290,004mil   1345,808mil   180      -290,004mil  1345,808mil -279,177mil  1345,808mil 
+R24        BottomLayer 102,800mil    1442,276mil   270      102,800mil   1442,276mil 102,800mil   1453,103mil 
+R23        BottomLayer -290,004mil   1372,035mil   180      -290,004mil  1372,035mil -279,177mil  1372,035mil 
+R22        BottomLayer 129,000mil    1442,276mil   270      129,000mil   1442,276mil 129,000mil   1453,103mil 
+R19        BottomLayer -290,004mil   1239,528mil   180      -290,004mil  1239,528mil -279,177mil  1239,528mil 
+R18        BottomLayer 222,536mil    1442,276mil   90       222,536mil   1442,276mil 222,536mil   1431,449mil 
+R17        BottomLayer 163,000mil    1442,276mil   90       163,000mil   1442,276mil 163,000mil   1431,449mil 
+R14        BottomLayer 310,173mil    1232,528mil   360      310,173mil   1232,528mil 299,346mil   1232,528mil 
+R13        BottomLayer -72,000mil    838,701mil    90       -72,000mil   838,701mil  -72,000mil   827,875mil  
+R12        BottomLayer -259,000mil   1023,355mil   90       -259,000mil  1023,355mil -259,000mil  1012,528mil 
+R11        BottomLayer -241,047mil   831,040mil    360      -241,047mil  831,040mil  -251,874mil  831,040mil  
+R10        BottomLayer -295,827mil   881,528mil    360      -295,827mil  881,528mil  -306,654mil  881,528mil  
+R9         BottomLayer -295,827mil   919,528mil    360      -295,827mil  919,528mil  -306,654mil  919,528mil  
+J3         TopLayer    0,000mil      314,258mil    360      0,000mil     314,258mil  -300,000mil  205,991mil  
+FB4        TopLayer    -549,559mil   1965,528mil   180      -549,559mil  1965,528mil -522,000mil  1965,528mil 
+FB3        TopLayer    -275,441mil   2013,528mil   180      -275,441mil  2013,528mil -247,882mil  2013,528mil 
+FB2        BottomLayer 585,441mil    1263,528mil   360      585,441mil   1263,528mil 557,882mil   1263,528mil 
+FB1        BottomLayer -214,000mil   1498,528mil   270      -214,000mil  1498,528mil -214,000mil  1526,087mil 
+J2         TopLayer    -649,000mil   2258,528mil   34       -649,000mil  2258,528mil -690,452mil  2230,568mil 
+SB1        BottomLayer -55,000mil    1506,528mil   270      -55,000mil   1506,528mil -55,000mil   1536,528mil 
+RF5        TopLayer    810,000mil    808,000mil    180      810,000mil   808,000mil  840,000mil   808,000mil  
+RF4        TopLayer    810,000mil    858,000mil    180      810,000mil   858,000mil  840,000mil   858,000mil  
+R7         TopLayer    208,000mil    2123,528mil   180      208,000mil   2123,528mil 238,000mil   2123,528mil 
+R8         TopLayer    208,000mil    2173,528mil   180      208,000mil   2173,528mil 238,000mil   2173,528mil 
+Q2         TopLayer    403,000mil    2221,528mil   90       403,000mil   2221,528mil 442,370mil   2184,126mil 
+Q1         TopLayer    403,000mil    2076,528mil   90       403,000mil   2076,528mil 442,370mil   2039,126mil 
+D2         TopLayer    -31,732mil    127,000mil    360      -31,732mil   127,000mil  -48,465mil   127,000mil  
+D1         TopLayer    -120,732mil   126,910mil    180      -120,732mil  126,910mil  -104,000mil  126,910mil  
+CF1        BottomLayer 719,000mil    847,528mil    270      719,000mil   847,528mil  719,000mil   877,528mil  
+U10        TopLayer    657,000mil    855,528mil    0        657,000mil   855,528mil  603,457mil   885,056mil  
+P1         TopLayer    -1104,000mil  1280,528mil   270      -1104,000mil 1280,528mil -1104,000mil 1480,528mil 
+SW1        TopLayer    -1308,000mil  1277,528mil   90       -1308,000mil 1277,528mil -1308,000mil 1210,599mil 
+LED1       TopLayer    -19,000mil    629,528mil    360      -19,000mil   629,528mil  -37,701mil   629,528mil  
+U5         TopLayer    -3,000mil     1923,528mil   0        -3,000mil    1923,528mil -54,181mil   1960,930mil 
+U2         TopLayer    -3,000mil     2148,528mil   0        -3,000mil    2148,528mil -109,299mil  2223,528mil 
+C20        BottomLayer -187,000mil   1308,528mil   90       -187,000mil  1308,528mil -187,000mil  1278,528mil 
+RF3        TopLayer    676,000mil    1437,528mil   90       676,000mil   1437,528mil 676,000mil   1407,528mil 
+RF2        TopLayer    725,000mil    1437,528mil   90       725,000mil   1437,528mil 725,000mil   1407,528mil 
+RF1        TopLayer    705,000mil    1128,528mil   90       705,000mil   1128,528mil 705,000mil   1098,528mil 
+U9         TopLayer    -622,000mil   1736,158mil   360      -622,000mil  1736,158mil -738,142mil  1774,544mil 
+U4         TopLayer    728,173mil    1275,150mil   0        728,173mil   1275,150mil 668,346mil   1314,520mil 
+U3         BottomLayer 0,000mil      1279,528mil   180      0,000mil     1279,528mil 94,488mil    1343,504mil 
+U1         TopLayer    6,000mil      1136,158mil   0        6,000mil     1136,158mil -299,118mil  1372,378mil 
+R6         BottomLayer -54,000mil    626,528mil    180      -54,000mil   626,528mil  -24,000mil   626,528mil  
+R27        TopLayer    -405,000mil   1738,528mil   360      -405,000mil  1738,528mil -435,000mil  1738,528mil 
+R5         TopLayer    208,000mil    2223,528mil   360      208,000mil   2223,528mil 178,000mil   2223,528mil 
+R4         TopLayer    -210,000mil   2223,528mil   180      -210,000mil  2223,528mil -180,000mil  2223,528mil 
+R3         TopLayer    -457,019mil   1067,336mil   180      -457,019mil  1067,336mil -446,192mil  1067,336mil 
+R2         TopLayer    -405,000mil   1689,528mil   0        -405,000mil  1689,528mil -435,000mil  1689,528mil 
+R1         TopLayer    -427,000mil   958,528mil    360      -427,000mil  958,528mil  -437,827mil  958,528mil  
+L1         BottomLayer -427,002mil   958,525mil    360      -427,002mil  958,525mil  -459,482mil  958,525mil  
+D12        BottomLayer -86,535mil    2172,528mil   0        -86,535mil   2172,528mil -103,071mil  2172,528mil 
+C50        BottomLayer -517,000mil   1776,528mil   180      -517,000mil  1776,528mil -487,000mil  1776,528mil 
+C37        TopLayer    209,000mil    2073,528mil   360      209,000mil   2073,528mil 179,000mil   2073,528mil 
+C36        BottomLayer -91,000mil    2123,528mil   360      -91,000mil   2123,528mil -121,000mil  2123,528mil 
+C35        TopLayer    755,000mil    1128,528mil   90       755,000mil   1128,528mil 755,000mil   1098,528mil 
+C34        BottomLayer 749,000mil    1235,528mil   180      749,000mil   1235,528mil 779,000mil   1235,528mil 
+C33        BottomLayer 749,000mil    1327,528mil   360      749,000mil   1327,528mil 719,000mil   1327,528mil 
+C32        BottomLayer -82,000mil    1428,528mil   180      -82,000mil   1428,528mil -52,000mil   1428,528mil 
+C31        BottomLayer -138,000mil   1308,528mil   90       -138,000mil  1308,528mil -138,000mil  1278,528mil 
+C19        TopLayer    -533,000mil   1174,158mil   270      -533,000mil  1174,158mil -533,000mil  1185,969mil 
+C18        TopLayer    -533,000mil   1265,158mil   90       -533,000mil  1265,158mil -533,000mil  1253,347mil 
+C17        TopLayer    -508,000mil   1036,528mil   90       -508,000mil  1036,528mil -508,000mil  1006,528mil 
+C16        TopLayer    -427,555mil   1106,713mil   360      -427,555mil  1106,713mil -457,555mil  1106,713mil 
+C15        BottomLayer -1307,500mil  1277,528mil   90       -1307,500mil 1277,528mil -1307,500mil 1247,528mil 
+C14        BottomLayer 333,000mil    1326,528mil   0        333,000mil   1326,528mil 303,000mil   1326,528mil 
+C13        BottomLayer 182,000mil    831,528mil    360      182,000mil   831,528mil  152,000mil   831,528mil  
+C12        BottomLayer -162,000mil   729,528mil    360      -162,000mil  729,528mil  -192,000mil  729,528mil  
+C11        BottomLayer -272,000mil   968,528mil    0        -272,000mil  968,528mil  -302,000mil  968,528mil  
+C10        BottomLayer -162,000mil   778,528mil    360      -162,000mil  778,528mil  -192,000mil  778,528mil  
+C9         BottomLayer 293,000mil    1376,158mil   180      293,000mil   1376,158mil 323,000mil   1376,158mil 
+C8         BottomLayer -295,000mil   1445,528mil   180      -295,000mil  1445,528mil -265,000mil  1445,528mil 
+C7         BottomLayer -474,000mil   1176,528mil   180      -474,000mil  1176,528mil -444,000mil  1176,528mil 
+C6         BottomLayer -474,000mil   1225,528mil   180      -474,000mil  1225,528mil -444,000mil  1225,528mil 
+C5         BottomLayer -192,000mil   861,158mil    90       -192,000mil  861,158mil  -192,000mil  831,158mil  
+C4         BottomLayer 261,000mil    798,528mil    270      261,000mil   798,528mil  261,000mil   828,528mil  
+C3         BottomLayer 293,000mil    1425,528mil   180      293,000mil   1425,528mil 323,000mil   1425,528mil 
+C2         BottomLayer -295,000mil   1494,528mil   180      -295,000mil  1494,528mil -265,000mil  1494,528mil 
+C1         BottomLayer -474,000mil   1276,528mil   180      -474,000mil  1276,528mil -444,000mil  1276,528mil 
