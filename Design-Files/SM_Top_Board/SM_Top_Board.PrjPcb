@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for SM_Top_Board
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -89,23 +89,6 @@ GenerateClassCluster=0
 DocumentUniqueId=SDUCLZRE
 
 [Document4]
-DocumentPath=Driver-Sheet.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=10
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OEJPBAPF
-
-[Document5]
 DocumentPath=Isolated-Power-Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,6 +104,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NSKWTWYC
+
+[Document5]
+DocumentPath=Stepper-Section.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BWGMIVDN
 
 [Document6]
 DocumentPath=Motor-Supply-Section.SchDoc
@@ -140,23 +140,6 @@ GenerateClassCluster=0
 DocumentUniqueId=PPQQOKIY
 
 [Document7]
-DocumentPath=Stepper-Section.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BWGMIVDN
-
-[Document8]
 DocumentPath=Temp_Probe_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,6 +155,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PAYYWZFH
+
+[Document8]
+DocumentPath=Driver-Sheet.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=10
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OEJPBAPF
 
 [Document9]
 DocumentPath=SM_Top_PCB.PcbDoc
@@ -225,23 +225,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=Driver-Sheet.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document13]
 DocumentPath=Connector-Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=SM_Top_Board.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=Signal-Isolation-Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CQCPUPNO
 
-[Document16]
+[Document15]
 DocumentPath=Signal-Isolation-Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=..\..\Deliverables\SM_Top Board\_Gerber Files\Gerber_Files.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document17]
 DocumentPath=..\..\Deliverables\SM_Top Board\_Gerber Files\NC_Drill_File.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,107 +326,108 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document18]
+DocumentPath=Driver-Sheet.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for SM_Top_Board\Design Rule Check - SM_Top_PCB.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for SM_Top_Board\Pick Place for SM_Top_PCB.csv
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for SM_Top_Board\Pick Place for SM_Top_PCB.txt
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for SM_Top_Board\SM_Top_Board.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument5]
 DocumentPath=Project Outputs for SM_Top_Board\SM_Top_PCB-RoundHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for SM_Top_Board\SM_Top_PCB-SlotHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for SM_Top_Board\SM_Top_PCB.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for SM_Top_Board\SM_Top_PCB.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for SM_Top_Board\SM_Top_PCB.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for SM_Top_Board\SM_Top_PCB.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for SM_Top_Board\SM_Top_PCB.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for SM_Top_Board\SM_Top_PCB.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for SM_Top_Board\SM_Top_PCB.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for SM_Top_Board\SM_Top_PCB.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for SM_Top_Board\SM_Top_PCB.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for SM_Top_Board\SM_Top_PCB.GP1
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for SM_Top_Board\SM_Top_PCB.GP2
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for SM_Top_Board\SM_Top_PCB.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for SM_Top_Board\SM_Top_PCB.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for SM_Top_Board\SM_Top_PCB.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for SM_Top_Board\SM_Top_PCB.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for SM_Top_Board\SM_Top_PCB.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for SM_Top_Board\SM_Top_PCB.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for SM_Top_Board\SM_Top_PCB.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for SM_Top_Board\SM_Top_PCB.REP
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for SM_Top_Board\SM_Top_PCB.RUL
 DItemRevisionGUID=
 
@@ -494,7 +478,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for SM_Top_Board
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -601,42 +585,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=SIMetrixNetlist
-OutputName21=SIMetrix
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-OutputType22=SIMPLISNetlist
-OutputName22=SIMPLIS
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=XSpiceNetlist
-OutputName23=XSpice Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=AnyDesk Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1197,36 +1151,6 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
