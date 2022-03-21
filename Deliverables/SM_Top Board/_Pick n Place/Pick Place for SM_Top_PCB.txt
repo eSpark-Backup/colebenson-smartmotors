@@ -4,13 +4,15 @@ E:\Git\ColeBenson-SmartMotors\Design-Files\SM_Top_Board\Project Outputs for SM_T
 ========================================================================================================================
 File Design Information:
 
-Date:       16/03/22
-Time:       13:57
-Revision:   04c0481067f8196b35b1f52f53be8f0fb4028966
+Date:       21/03/22
+Time:       17:26
+Revision:   0b1d8c2e737335bfabf5d6f0a295393d83fc4536
 Variant:    No variations
 Units used: mm
 
 Designator Layer       Center-X(mm) Center-Y(mm) Rotation Ref-X(mm)  Ref-Y(mm) Pad-X(mm)  Pad-Y(mm) 
+U10        BottomLayer -10,7950mm   24,1554mm    90       -10,7950mm 24,1554mm -8,8450mm  21,3804mm 
+C61        BottomLayer -8,6106mm    29,2354mm    90       -8,6106mm  29,2354mm -8,6106mm  28,4734mm 
 C56        BottomLayer 17,4244mm    56,1594mm    270      17,4244mm  56,1594mm 17,4244mm  56,9214mm 
 C55        BottomLayer 4,2926mm     61,1886mm    270      4,2926mm   61,1886mm 4,2926mm   62,2046mm 
 J1         TopLayer    -21,2002mm   10,0356mm    90       -21,2002mm 10,0356mm -21,9202mm 7,2856mm  
@@ -51,7 +53,7 @@ C24        TopLayer    2,4456mm     14,6398mm    0        2,4456mm   14,6398mm 1
 C25        BottomLayer -7,6636mm    53,9209mm    90       -7,6636mm  53,9209mm -7,6636mm  53,4510mm 
 C26        TopLayer    16,7204mm    24,2918mm    180      16,7204mm  24,2918mm 17,7364mm  24,2918mm 
 C27        TopLayer    20,5812mm    21,2184mm    270      20,5812mm  21,2184mm 20,5812mm  22,2344mm 
-C28        TopLayer    7,8812mm     23,0192mm    180      7,8812mm   23,0192mm 8,8972mm   23,0192mm 
+C28        TopLayer    8,7376mm     22,9616mm    180      8,7376mm   22,9616mm 9,7536mm   22,9616mm 
 C29        TopLayer    5,9690mm     17,6860mm    180      5,9690mm   17,6860mm 6,7310mm   17,6860mm 
 C30        TopLayer    20,7082mm    15,3764mm    0        20,7082mm  15,3764mm 19,9462mm  15,3764mm 
 C31        TopLayer    13,0628mm    24,2918mm    0        13,0628mm  24,2918mm 12,0468mm  24,2918mm 
