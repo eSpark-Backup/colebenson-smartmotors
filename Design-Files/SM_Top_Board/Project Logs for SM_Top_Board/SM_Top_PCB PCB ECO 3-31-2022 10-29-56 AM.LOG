@@ -1,0 +1,23 @@
+Change Component Description : Designator=R40 Old Description=±1% 1/10W Thick Film Resistors 75V ±100ppm/? -55?~+155? 1.2kO 0603 Chip Resistor - Surface Mount ROHS New Description=±1% 1/10W Thick Film Resistors 75V ±100ppm/? -55?~+155? 1.2kO 0603 Chip Resistor - Surface Mount ROHS
+
+
+Change Component Description : Designator=R41 Old Description=±1% 1/10W Thick Film Resistors 75V ±600ppm/? -55?~+155? 0.33O 0603 Chip Resistor - Surface Mount ROHS New Description=±1% 1/10W Thick Film Resistors 75V ±600ppm/? -55?~+155? 0.33O 0603 Chip Resistor - Surface Mount ROHS
+
+
+Change component parameters: Designator = "R40" ("R40"); Footprint = "Res0603"; UniqueID = "\TAFIXPXO" ("\TAFIXPXO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "0603WAF1201T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1.2kO "; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41" ("R41"); Footprint = "Res0603"; UniqueID = "\KJHLUDXL" ("\KJHLUDXL")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "RALEC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "RTT03R330FTP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.33O "; VariantName = "[No Variations]"
+Change Class Name : Old Net Name=Connector-Section New Net Name=U_Connector-Section
+Change Class Name : Old Net Name=Driver-Sheet New Net Name=U_Driver-Sheet
+Change Class Name : Old Net Name=Isolated-Power-Section New Net Name=U_Isolated-Power-Section
+Change Class Name : Old Net Name=Motor-Driver-Sheet New Net Name=U_Motor-Driver-Sheet
+Change Class Name : Old Net Name=Motor-Supply-Section New Net Name=U_Motor-Supply-Section
+Change Class Name : Old Net Name=Signal-Isolation-Section New Net Name=U_Signal-Isolation-Section
+Change Class Name : Old Net Name=Temp_Probe_Section New Net Name=U_Temp_Probe_Section
