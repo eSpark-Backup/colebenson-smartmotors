@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=CAN_IN.CAN_NL# Pin=D1-2
-Removed Pin From Net: NetName=CAN_IN.CAN_NH# Pin=D2-2
-Added Pin To Net: NetName=CAN_IN.CAN_NL# Pin=D1-1
-Added Pin To Net: NetName=GND Pin=D1-2
-Added Pin To Net: NetName=CAN_IN.CAN_NH# Pin=D2-1
-Added Pin To Net: NetName=GND Pin=D2-2
