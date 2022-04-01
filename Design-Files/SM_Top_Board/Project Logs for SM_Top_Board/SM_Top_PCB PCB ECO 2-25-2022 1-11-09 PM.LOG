@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=ISO_GND Pin=J1-A1
+Removed Pin From Net: NetName=NetJ1_A5 Pin=J1-A5
+Removed Pin From Net: NetName=USB_DP Pin=J1-A6
+Removed Pin From Net: NetName=USB_DM Pin=J1-A7
+Removed Pin From Net: NetName=ISO_GND Pin=J1-A12
+Removed Pin From Net: NetName=ISO_GND Pin=J1-B1
+Removed Pin From Net: NetName=NetJ1_B5 Pin=J1-B5
+Removed Pin From Net: NetName=USB_DP Pin=J1-B6
+Removed Pin From Net: NetName=USB_DM Pin=J1-B7
+Removed Pin From Net: NetName=ISO_GND Pin=J1-B12
+Removed Pin From Net: NetName=ISO_GND Pin=J1-MP1
+Removed Pin From Net: NetName=ISO_GND Pin=J1-MP2
+Removed Pin From Net: NetName=ISO_GND Pin=J1-MP3
+Removed Pin From Net: NetName=ISO_GND Pin=J1-MP4
+Added Component: Designator=J1(MC-318)
+Add component (AddParameter): Name = "Manufacturer"; Value = "SOFNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "MC-318"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Custom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Custom"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ISO_GND Pin=J1-A1
+Added Pin To Net: NetName=NetJ1_A5 Pin=J1-A5
+Added Pin To Net: NetName=USB_DP Pin=J1-A6
+Added Pin To Net: NetName=USB_DM Pin=J1-A7
+Added Pin To Net: NetName=ISO_GND Pin=J1-A12
+Added Pin To Net: NetName=ISO_GND Pin=J1-B1
+Added Pin To Net: NetName=NetJ1_B5 Pin=J1-B5
+Added Pin To Net: NetName=USB_DP Pin=J1-B6
+Added Pin To Net: NetName=USB_DM Pin=J1-B7
+Added Pin To Net: NetName=ISO_GND Pin=J1-B12
+Added Pin To Net: NetName=ISO_GND Pin=J1-MP1
+Added Pin To Net: NetName=ISO_GND Pin=J1-MP2
+Added Pin To Net: NetName=ISO_GND Pin=J1-MP3
+Added Pin To Net: NetName=ISO_GND Pin=J1-MP4

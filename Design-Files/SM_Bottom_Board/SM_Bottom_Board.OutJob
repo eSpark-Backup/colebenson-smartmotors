@@ -2,9 +2,9 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=C:\Users\eSpark-37\Documents\GitHub\SmartMotors-ColeBenson\Design-Files\SM_Bottom_Board\.PDF
+OutputFilePath2=D:\Temporary\ColeBenson-SmartMotors\Design-Files\SM_Bottom_Board\.PDF
 ReleaseManaged2=0
-OutputBasePath2=C:\Users\eSpark-37\Documents\GitHub\SmartMotors-ColeBenson\Design-Files\SM_Bottom_Board\
+OutputBasePath2=D:\Temporary\ColeBenson-SmartMotors\Design-Files\SM_Bottom_Board\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -81,7 +81,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\eSpark-37\Documents\GitHub\SmartMotors-ColeBenson\Design-Files\SM_Bottom_Board\.PDF
+RelativeOutputPath2=D:\Temporary\ColeBenson-SmartMotors\Design-Files\SM_Bottom_Board\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
