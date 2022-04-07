@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-E:\Git\ColeBenson-SmartMotors\Design-Files\SM_Bottom_Board\Project Outputs for SM_Bottom_Board\Pick Place for SM_Bottom_PCB.csv
+C:\Users\XPENDER\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\SM_Bottom_Board\Project Outputs for SM_Bottom_Board\Pick Place for SM_Bottom_PCB.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       06/04/22
-Time:       16:13
-Revision:   929381293757ccfe5fd1476fd08bade24189020e
+Date:       08/04/22
+Time:       01:20
+Revision:   dc8f866dd9f1cf96cd6c254919864bc2d956224d
 Variant:    No variations
 Units used: mm
 
@@ -72,8 +72,8 @@ Units used: mm
 "R8","TopLayer","5,2832mm","55,2076mm","180","5,2832mm","55,2076mm","6,0452mm","55,2076mm"
 "Q2","TopLayer","10,2362mm","56,4268mm","90","10,2362mm","56,4268mm","11,2362mm","55,4768mm"
 "Q1","TopLayer","10,2362mm","52,7438mm","90","10,2362mm","52,7438mm","11,2362mm","51,7938mm"
-"D2","TopLayer","-1,3462mm","3,3020mm","0","-1,3462mm","3,3020mm","-1,7712mm","3,3020mm"
-"D1","TopLayer","-3,6322mm","3,1496mm","180","-3,6322mm","3,1496mm","-3,2072mm","3,1496mm"
+"D2","TopLayer","-1,3462mm","3,4798mm","0","-1,3462mm","3,4798mm","-1,7712mm","3,4798mm"
+"D1","TopLayer","-3,6322mm","3,3274mm","180","-3,6322mm","3,3274mm","-3,2072mm","3,3274mm"
 "CF1","BottomLayer","18,2626mm","21,5272mm","270","18,2626mm","21,5272mm","18,2626mm","22,2892mm"
 "U10","TopLayer","16,6878mm","21,7304mm","0","16,6878mm","21,7304mm","15,3278mm","22,4804mm"
 "P1","TopLayer","-28,0416mm","32,5254mm","270","-28,0416mm","32,5254mm","-28,0416mm","37,6054mm"
