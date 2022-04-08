@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: SM_Top_PCB.PcbDoc   4/8/2022  1:10:18 AM
+NCDrill File Report For: SM_Top_PCB.PcbDoc   4/9/2022  2:36:12 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,10 +8,10 @@ ASCII SlotHoles File : SM_Top_PCB-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             309       PTH        31.82inch (808.27mm)
+T1      12mil (0.3mm)                                             Round             309       PTH        32.35inch (821.63mm)
 T2      28mil (0.7mm)                                             Round             4         PTH        0.55inch (13.90mm)
 T3      35mil (0.89mm)                                            Round             8         PTH        1.19inch (30.34mm)
-T4      35mil (0.9mm)                                             Round             8         PTH        3.30inch (83.82mm)
+T4      35mil (0.9mm)                                             Round             8         PTH        3.30inch (83.87mm)
 T5      42mil (1.06mm)                                            Round             4         PTH        0.30inch (7.50mm)
 T6      181mil (4.6mm)                                            Round             4         PTH        0.94inch (23.78mm)
 T7      23mil (0.58mm)                                            Slot              1         NPTH       0.02inch (0.42mm)
