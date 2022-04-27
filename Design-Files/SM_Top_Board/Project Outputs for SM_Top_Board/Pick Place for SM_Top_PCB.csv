@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-E:\Git\ColeBenson-SmartMotors\Design-Files\SM_Top_Board\Project Outputs for SM_Top_Board\Pick Place for SM_Top_PCB.csv
+C:\Users\XPENDER\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\SM_Top_Board\Project Outputs for SM_Top_Board\Pick Place for SM_Top_PCB.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       13/04/22
-Time:       13:45
-Revision:   85116391442334de46cbf4c3f2def4743b84ce2a
+Date:       26/04/22
+Time:       21:44
+Revision:   4cb438dfd2e8db70bd3cb23f9e9ee8da39e497f6
 Variant:    No variations
 Units used: mm
 
@@ -121,7 +121,7 @@ Units used: mm
 "Q7","BottomLayer","16,1108mm","32,2307mm","90","16,1108mm","30,7817mm","18,0158mm","29,3492mm"
 "Q8","BottomLayer","18,0158mm","25,1312mm","90","18,0158mm","23,6822mm","19,9208mm","22,2497mm"
 "Q9","BottomLayer","24,3138mm","25,8412mm","180","25,7628mm","25,8412mm","27,1953mm","27,7462mm"
-"R1","BottomLayer","-24,1808mm","11,7094mm","360","-24,1808mm","11,7094mm","-24,9428mm","11,7094mm"
+"R1","BottomLayer","-24,1808mm","11,7094mm","0","-24,1808mm","11,7094mm","-24,9428mm","11,7094mm"
 "R2","BottomLayer","-20,5486mm","12,7508mm","270","-20,5486mm","12,7508mm","-20,5486mm","13,5128mm"
 "R3","BottomLayer","-23,5894mm","48,0916mm","90","-23,5894mm","48,0916mm","-23,5894mm","47,3296mm"
 "R4","BottomLayer","-24,2244mm","51,2412mm","0","-24,2244mm","51,2412mm","-24,9864mm","51,2412mm"
@@ -146,7 +146,7 @@ Units used: mm
 "R25","BottomLayer","-21,1916mm","18,3990mm","90","-21,1916mm","18,3990mm","-21,1916mm","17,6370mm"
 "R26","BottomLayer","26,1946mm","22,4122mm","180","26,1946mm","22,4122mm","26,9566mm","22,4122mm"
 "R27","BottomLayer","-5,4356mm","57,8104mm","180","-5,4356mm","57,8104mm","-4,6736mm","57,8104mm"
-"R28","BottomLayer","-8,1280mm","57,7850mm","360","-8,1280mm","57,7850mm","-8,8900mm","57,7850mm"
+"R28","BottomLayer","-8,1280mm","57,7850mm","0","-8,1280mm","57,7850mm","-8,8900mm","57,7850mm"
 "R29","BottomLayer","-14,4200mm","50,3014mm","0","-14,4200mm","50,3014mm","-15,1820mm","50,3014mm"
 "R30","BottomLayer","-14,4200mm","51,5460mm","0","-14,4200mm","51,5460mm","-15,1820mm","51,5460mm"
 "R31","BottomLayer","-14,4200mm","49,0568mm","0","-14,4200mm","49,0568mm","-15,1820mm","49,0568mm"
@@ -171,7 +171,7 @@ Units used: mm
 "SB6","BottomLayer","-11,3720mm","35,7218mm","0","-11,3720mm","35,7218mm","-12,1340mm","35,7218mm"
 "SB7","TopLayer","2,5218mm","42,0972mm","270","2,5218mm","42,0972mm","2,5218mm","42,8592mm"
 "SB8","BottomLayer","6,4588mm","50,8094mm","0","6,4588mm","50,8094mm","5,6968mm","50,8094mm"
-"SB9","BottomLayer","-1,6510mm","49,4886mm","360","-1,6510mm","49,4886mm","-2,4130mm","49,4886mm"
+"SB9","BottomLayer","-1,6510mm","49,4886mm","0","-1,6510mm","49,4886mm","-2,4130mm","49,4886mm"
 "SB10","TopLayer","4,0458mm","42,0972mm","270","4,0458mm","42,0972mm","4,0458mm","42,8592mm"
 "SB11","TopLayer","4,4522mm","57,1340mm","90","4,4522mm","57,1340mm","4,4522mm","56,3720mm"
 "SW1","TopLayer","-14,8878mm","9,5426mm","90","-14,8878mm","9,5426mm","-12,6378mm","5,2926mm"

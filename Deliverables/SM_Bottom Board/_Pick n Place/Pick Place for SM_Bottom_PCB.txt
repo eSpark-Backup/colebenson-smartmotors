@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-E:\Git\ColeBenson-SmartMotors\Design-Files\SM_Bottom_Board\Project Outputs for SM_Bottom_Board\Pick Place for SM_Bottom_PCB.txt
+C:\Users\XPENDER\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\SM_Bottom_Board\Project Outputs for SM_Bottom_Board\Pick Place for SM_Bottom_PCB.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       13/04/22
-Time:       13:59
-Revision:   85116391442334de46cbf4c3f2def4743b84ce2a
+Date:       26/04/22
+Time:       21:52
+Revision:   4cb438dfd2e8db70bd3cb23f9e9ee8da39e497f6
 Variant:    No variations
 Units used: mm
 
@@ -63,7 +63,7 @@ R10        BottomLayer -7,5140mm    22,3908mm    0        -7,5140mm  22,3908mm -
 R9         BottomLayer -7,5140mm    23,3560mm    0        -7,5140mm  23,3560mm -7,7890mm  23,3560mm 
 J3         TopLayer    -0,6350mm    7,9822mm     0        -0,6350mm  7,9822mm  -8,2550mm  5,2322mm  
 FB4        TopLayer    -13,9588mm   49,9244mm    180      -13,9588mm 49,9244mm -13,2588mm 49,9244mm 
-SS         TopLayer    -6,8357mm    50,9778mm    360      -6,8357mm  50,9778mm -7,5357mm  50,9778mm 
+FB3        TopLayer    -6,8357mm    50,9778mm    0        -6,8357mm  50,9778mm -7,5357mm  50,9778mm 
 FB2        BottomLayer 14,8702mm    32,0936mm    0        14,8702mm  32,0936mm 14,1702mm  32,0936mm 
 FB1        BottomLayer -5,8928mm    38,1388mm    270      -5,8928mm  38,1388mm -5,8928mm  38,8388mm 
 SB1        BottomLayer -3,7846mm    40,0558mm    0        -3,7846mm  40,0558mm -4,5466mm  40,0558mm 

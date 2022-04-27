@@ -1,11 +1,27 @@
-Output: Generates pick and place files
-Type  : Pick Place
+Output: Gerber Files
+Type  : Gerber
 From  : Variant [[No Variations]] of Project [SM_Top_Board.PrjPcb]
-   Generated File[Pick Place for SM_Top_PCB.txt]
-   Generated File[Pick Place for SM_Top_PCB.csv]
+   Generated File[SM_Top_PCB.GTO]
+   Generated File[SM_Top_PCB.GTP]
+   Generated File[SM_Top_PCB.GTS]
+   Generated File[SM_Top_PCB.GTL]
+   Generated File[SM_Top_PCB.GP1]
+   Generated File[SM_Top_PCB.GP2]
+   Generated File[SM_Top_PCB.GBL]
+   Generated File[SM_Top_PCB.GBS]
+   Generated File[SM_Top_PCB.GBP]
+   Generated File[SM_Top_PCB.GBO]
+   Generated File[SM_Top_PCB.GM2]
+   Generated File[SM_Top_PCB.GPT]
+   Generated File[SM_Top_PCB.GPB]
+   Generated File[SM_Top_PCB.GD1]
+   Generated File[SM_Top_PCB.GG1]
+   Generated File[SM_Top_PCB.RUL]
+   Generated File[SM_Top_PCB.EXTREP]
+   Generated File[SM_Top_PCB.REP]
 
 
-Files Generated   : 2
+Files Generated   : 18
 Documents Printed : 0
 
-Finished Output Generation At 1:45:45 PM On 4/13/2022
+Finished Output Generation At 9:45:37 PM On 4/26/2022
