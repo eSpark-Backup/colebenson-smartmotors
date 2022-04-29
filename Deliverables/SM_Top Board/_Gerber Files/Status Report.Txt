@@ -1,27 +1,13 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [SM_Top_Board.PrjPcb]
-   Generated File[SM_Top_PCB.GTO]
-   Generated File[SM_Top_PCB.GTP]
-   Generated File[SM_Top_PCB.GTS]
-   Generated File[SM_Top_PCB.GTL]
-   Generated File[SM_Top_PCB.GP1]
-   Generated File[SM_Top_PCB.GP2]
-   Generated File[SM_Top_PCB.GBL]
-   Generated File[SM_Top_PCB.GBS]
-   Generated File[SM_Top_PCB.GBP]
-   Generated File[SM_Top_PCB.GBO]
-   Generated File[SM_Top_PCB.GM2]
-   Generated File[SM_Top_PCB.GPT]
-   Generated File[SM_Top_PCB.GPB]
-   Generated File[SM_Top_PCB.GD1]
-   Generated File[SM_Top_PCB.GG1]
-   Generated File[SM_Top_PCB.RUL]
-   Generated File[SM_Top_PCB.EXTREP]
-   Generated File[SM_Top_PCB.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SM_Top_Board.PrjPcb]
+   Generated File[SM_Top_PCB-RoundHoles.TXT]
+   Generated File[SM_Top_PCB-SlotHoles.TXT]
+   Generated File[SM_Top_PCB.LDP]
+   Generated File[SM_Top_PCB.DRR]
 
 
-Files Generated   : 18
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 9:45:37 PM On 4/26/2022
+Finished Output Generation At 11:51:12 AM On 4/29/2022
