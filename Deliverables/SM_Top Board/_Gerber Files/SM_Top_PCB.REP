@@ -2,6 +2,202 @@
 FileName = SM_Top_PCB.GBR
 AutoAperture = True
 *************************************************************
+Generating : Mechanical 2
+      File : SM_Top_PCB.GM2
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : SM_Top_PCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D362
+    D363
+    D364
+    D365
+    D366
+    D367
+    D368
+    D369
+    D370
+    D371
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : SM_Top_PCB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D26
+    D34
+    D159
+    D160
+    D161
+    D162
+    D163
+    D164
+    D165
+    D166
+    D167
+    D168
+    D169
+    D170
+    D171
+    D172
+    D173
+    D174
+    D175
+    D176
+    D177
+    D178
+    D181
+    D182
+    D183
+    D184
+    D185
+    D186
+    D187
+    D188
+    D189
+    D190
+    D191
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : SM_Top_PCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D39
+    D45
+    D47
+    D55
+    D56
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D328
+    D329
+    D330
+    D331
+    D332
+    D333
+    D334
+    D335
+    D336
+    D337
+    D338
+    D339
+    D340
+    D341
+    D342
+    D343
+    D344
+    D345
+    D346
+    D347
+    D348
+    D349
+    D350
+    D351
+    D352
+    D353
+    D354
+    D355
+    D356
+    D357
+    D358
+    D359
+    D360
+    D361
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : SM_Top_PCB.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
 Generating : Top Paste
       File : SM_Top_PCB.GTP
 
@@ -53,8 +249,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : SM_Top_PCB.GTL
+Generating : Top Pad Master
+      File : SM_Top_PCB.GPT
 
     Adding Layer      : Top Layer
 
@@ -62,8 +258,6 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D10
-    D15
     D17
     D18
     D19
@@ -84,72 +278,6 @@ Used DCodes :
     D34
     D35
     D36
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
-    D115
-    D116
-    D117
-    D118
-    D119
-    D120
-    D121
-    D122
-    D123
-    D124
-    D125
-    D126
-    D127
-    D128
-    D129
-    D130
-    D131
-    D132
-    D133
-    D134
-    D135
-    D136
     D137
     D138
     D139
@@ -159,32 +287,6 @@ Used DCodes :
     D143
     D144
     D145
-*************************************************************
-
-*************************************************************
-Generating : Layer 1
-      File : SM_Top_PCB.GP1
-
-    Adding Layer      : Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D72
-    D146
-    D147
-    D148
-    D149
-    D150
-    D151
-    D152
-    D153
-    D154
-    D155
-    D156
-    D157
 *************************************************************
 
 *************************************************************
@@ -200,7 +302,6 @@ Used DCodes :
     D19
     D26
     D34
-    D136
     D137
     D138
     D139
@@ -209,7 +310,7 @@ Used DCodes :
     D142
     D143
     D144
-    D158
+    D145
     D159
     D160
     D161
@@ -242,6 +343,7 @@ Used DCodes :
     D188
     D189
     D190
+    D191
 *************************************************************
 
 *************************************************************
@@ -261,9 +363,8 @@ Used DCodes :
     D34
     D71
     D72
-    D73
     D74
-    D136
+    D75
     D137
     D138
     D139
@@ -274,7 +375,7 @@ Used DCodes :
     D144
     D145
     D146
-    D158
+    D147
     D159
     D160
     D161
@@ -442,6 +543,8 @@ Used DCodes :
     D323
     D324
     D325
+    D326
+    D327
 *************************************************************
 
 *************************************************************
@@ -455,6 +558,31 @@ Generating : Layer 2
 
 Used DCodes :
     D72
+    D148
+    D149
+    D150
+    D151
+    D152
+    D153
+    D154
+    D155
+    D156
+    D157
+    D158
+*************************************************************
+
+*************************************************************
+Generating : Layer 1
+      File : SM_Top_PCB.GP1
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D72
     D147
     D148
     D149
@@ -466,214 +594,21 @@ Used DCodes :
     D155
     D156
     D157
+    D158
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : SM_Top_PCB.GTS
-
-    Adding Layer      : Top Solder
+Generating : Top Layer
+      File : SM_Top_PCB.GTL
 
     Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : SM_Top_PCB.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D39
-    D45
-    D47
-    D55
-    D56
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D326
-    D327
-    D328
-    D329
-    D330
-    D331
-    D332
-    D333
-    D334
-    D335
-    D336
-    D337
-    D338
-    D339
-    D340
-    D341
-    D342
-    D343
-    D344
-    D345
-    D346
-    D347
-    D348
-    D349
-    D350
-    D351
-    D352
-    D353
-    D354
-    D355
-    D356
-    D357
-    D358
-    D359
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 2
-      File : SM_Top_PCB.GM2
-
-    Adding Layer      : Mechanical 2
-
-
-Used DCodes :
-    D74
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : SM_Top_PCB.GBO
-
-    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
     D10
-    D12
-    D13
-    D14
     D15
-    D360
-    D361
-    D362
-    D363
-    D364
-    D365
-    D366
-    D367
-    D368
-    D369
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : SM_Top_PCB.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D19
-    D26
-    D34
-    D158
-    D159
-    D160
-    D161
-    D162
-    D163
-    D164
-    D165
-    D166
-    D167
-    D168
-    D169
-    D170
-    D171
-    D172
-    D173
-    D174
-    D175
-    D176
-    D177
-    D180
-    D181
-    D182
-    D183
-    D184
-    D185
-    D186
-    D187
-    D188
-    D189
-    D190
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : SM_Top_PCB.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
     D17
     D18
     D19
@@ -694,6 +629,71 @@ Used DCodes :
     D34
     D35
     D36
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
     D136
     D137
     D138
@@ -703,6 +703,8 @@ Used DCodes :
     D142
     D143
     D144
+    D145
+    D146
 *************************************************************
 
 *************************************************************
@@ -715,9 +717,9 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D370
-    D371
     D372
+    D373
+    D374
 *************************************************************
 
 *************************************************************
@@ -730,6 +732,6 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D370
+    D372
 *************************************************************
 
