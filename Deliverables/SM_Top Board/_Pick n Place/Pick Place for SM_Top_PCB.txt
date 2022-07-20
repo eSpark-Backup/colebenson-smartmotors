@@ -1,127 +1,187 @@
 Altium Designer Pick and Place Locations
-C:\Users\eSpark-37\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\SM_Top_Board\Project Outputs for SM_Top_Board\Pick Place for SM_Top_PCB.txt
+E:\ColeBenson-SmartMotors\Design-Files\SM_Top_Board\Pick Place for SM_Top_PCB.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       07/08/21
-Time:       00:34
-Revision:   5b39e4da1d76a9e2cdd9e3da273948307d660078
+Date:       06/05/22
+Time:       16:33
+Revision:   Not in VersionControl
 Variant:    No variations
-Units used: mm
+Units used: mil
 
-Designator Comment                        Layer       Footprint                    Center-X(mm) Center-Y(mm) Rotation Description                                                                                                                 Ref-X(mm)  Ref-Y(mm)  Pad-X(mm)  Pad-Y(mm)  
-J4         B4B-XH-A(LF)(SN)               BottomLayer B4B-XH-A(LF)(SN)             30,4292mm    0,1762mm     90       "CONN HEADER VERT 4POS 2.5MM"                                                                                               30,4292mm  -3,5738mm  30,4292mm  -3,5738mm  
-U7         MAX4236EUT+T                   TopLayer    SOT-23-6                     -16,8910mm   -17,3736mm   360      "IC OPAMP GP 1.7MHZ RRO SOT23-6"                                                                                            -16,8910mm -17,3736mm -18,2010mm -16,4236mm 
-C4         470uF                          TopLayer    VT1H471MI135000CE0           13,0810mm    9,7282mm     360      "470uF ±20% 50V 12.5mm 13.5mm 1000hrs 105? -40?~+105? SMD,12.5x13.5mm Aluminum Electrolytic Capacitors - SMD RoHS"          13,0810mm  9,7282mm   7,9360mm   9,7282mm   
-Q8         BSC072N08NS5ATMA1              BottomLayer 8-PowerTDFN                  22,2250mm    12,8536mm    90       "MOSFET N-CH 80V 74A 8TDSON"                                                                                                22,2250mm  11,4046mm  24,1300mm  9,9721mm   
-SW1        "Tactile Switch 13mm Actuator" TopLayer    Tactile_Switch_13mm_Actuator 12,2682mm    -17,1848mm   270      "Memontary Tactile Push Button Switch 6X6X4.3 / 4.5 / 5/6/7/8/9/10 / 13mm SMD"                                              12,2682mm  -17,1848mm 10,0182mm  -12,9348mm 
-U5         NCP708MU330TAG                 BottomLayer 6-UDFN_(3x3)                 -12,4460mm   13,8430mm    180      "IC REG LINEAR 3.3V 1A 6UDFN"                                                                                               -12,4460mm 13,8430mm  -11,0960mm 14,7930mm  
-J3         M55-7012042R                   BottomLayer M55-7012042R                 0,0000mm     -24,5179mm   180      "CONN HEADER SMD 20POS 1.27MM"                                                                                              0,0000mm   -24,5179mm 5,7150mm   -27,2679mm 
-P2         PRT-10474                      TopLayer    PRT-10474                    -3,0226mm    -8,4530mm    90       "XT60 CONNECTORS MALE/FEMALE PAIR"                                                                                          -3,0226mm  -8,4530mm  -3,0226mm  -11,9530mm 
-R7         47R                            TopLayer    Res0603                      -7,7978mm    -18,0848mm   270      "RES SMD 47OHM 0.1W 0603"                                                                                                   -7,7978mm  -18,0848mm -7,7978mm  -17,3228mm 
-R6         47R                            TopLayer    Res0603                      -6,3754mm    -18,0848mm   270      "RES SMD 47OHM 0.1W 0603"                                                                                                   -6,3754mm  -18,0848mm -6,3754mm  -17,3228mm 
-C23        2.2uF                          TopLayer    Cap_0603                     -7,0358mm    -20,0152mm   360      "CAP, 2.2µF, 35V, 10%, X5R, 0603"                                                                                           -7,0358mm  -20,0152mm -7,7978mm  -20,0152mm 
-C22        220uF                          TopLayer    VKME1451J221MV               14,1691mm    -2,9464mm    180      "220uF ±20% 63V 10mm 14.5mm 1.2A 100kHz 10000hrs 105? -55?~+105? SMD,10x14.5mm Aluminum Electrolytic Capacitors - SMD RoHS" 14,1691mm  -2,9464mm  9,6693mm   -2,9464mm  
-C1         220uF                          TopLayer    VKME1451J221MV               -8,2296mm    22,1996mm    360      "220uF ±20% 63V 10mm 14.5mm 1.2A 100kHz 10000hrs 105? -55?~+105? SMD,10x14.5mm Aluminum Electrolytic Capacitors - SMD RoHS" -8,2296mm  22,1996mm  -3,7297mm  22,1996mm  
-LED1       WS2812B-Mini                   TopLayer    WS2812B-Mini                 28,2567mm    10,7840mm    360      "SMD,3.5x3.5mm Light Emitting Diodes (LED) RoHS"                                                                            28,2567mm  10,7840mm  26,6192mm  11,6840mm  
-C5         68uF                           TopLayer    VKMC1001H680MV               2,4892mm     22,8031mm    270      "68uF ±20% 50V 6.3mm 10mm 390mA 6.3x10mm Aluminum Electrolytic Capacitors - SMD RoHS"                                       2,4892mm   22,8031mm  2,4892mm   25,4732mm  
-C3         1uF                            BottomLayer Cap0805                      7,7056mm     18,6530mm    360      "CAP CER 1UF 100V X7S 0805"                                                                                                 7,7056mm   18,6530mm  6,6896mm   18,6530mm  
-LED2       XZVG68W-2                      TopLayer    LED_0402                     29,1592mm    -9,1186mm    360      "LED GREEN CLEAR CHIP SMD"                                                                                                  29,1592mm  -9,1186mm  28,6842mm  -9,1186mm  
-R25        143R                           TopLayer    Res0603                      26,7462mm    -9,1186mm    180      "RES SMD 143 OHM 1% 1/10W 0603"                                                                                             26,7462mm  -9,1186mm  27,5082mm  -9,1186mm  
-C20        0.1uF                          BottomLayer Cap_0603                     5,1054mm     -19,9136mm   360      "CAP CER 0.1UF 100V X7R 0603"                                                                                               5,1054mm   -19,9136mm 4,3434mm   -19,9136mm 
-SW2        SS-3235D-03-L2                 TopLayer    SS-3235D-03-L2               12,4098mm    -27,4626mm   180      "SPDT 50mA @ 12VDC 12V On-On SMD Toggle Switches RoHS"                                                                      14,9098mm  -24,6126mm 14,9098mm  -24,6126mm 
-P8         61300211121                    BottomLayer HDR1X2                       -14,2240mm   -22,1488mm   0        "CONN HEADER VERT 2POS 2.54MM"                                                                                              -15,4940mm -22,1488mm -15,4940mm -22,1488mm 
-SW3        SS-3235D-03-L2                 TopLayer    SS-3235D-03-L2               -12,7870mm   -27,4880mm   180      "SPDT 50mA @ 12VDC 12V On-On SMD Toggle Switches RoHS"                                                                      -10,2870mm -24,6380mm -10,2870mm -24,6380mm 
-J5         5520425-2                      TopLayer    5520425-2                    -14,0462mm   7,2948mm     270      "Conn RJ-25 F 6 POS 2.54mm Solder ST Thru-Hole 4 Terminal 1 Port Tray Cat 3"                                                -14,0462mm 7,2948mm   -12,1412mm 9,1948mm   
-J2         5520425-2                      TopLayer    5520425-2                    -14,0462mm   -7,4372mm    270      "Conn RJ-25 F 6 POS 2.54mm Solder ST Thru-Hole 4 Terminal 1 Port Tray Cat 3"                                                -14,0462mm -7,4372mm  -12,1412mm -5,5372mm  
-J1         MC-318                         TopLayer    MC-318                       19,4144mm    -17,5414mm   270      "USB - Type C Female 24 SMD USB Connectors RoHS"                                                                            19,4144mm  -17,5414mm 20,1344mm  -14,7914mm 
-L1         SPM10054T-680M-HZ              TopLayer    SPM10054T-680M-HZ            13,1826mm    22,2758mm    180      "FIXED IND 68UH 3.7A 162.87MOHM"                                                                                            13,1826mm  22,2758mm  18,1326mm  22,2758mm  
-P7         61300211121                    BottomLayer HDR1X2                       -19,5580mm   -22,1488mm   360      "CONN HEADER VERT 2POS 2.54MM"                                                                                              -20,8280mm -22,1488mm -20,8280mm -22,1488mm 
-R29        0R                             BottomLayer Res0603                      11,6586mm    -30,3784mm   360      "RES SMD 0R, 1%, 0.1W, 0603"                                                                                                11,6586mm  -30,3784mm 10,8966mm  -30,3784mm 
-CF6        0.1UF                          BottomLayer Cap0603                      -13,0302mm   11,5824mm    360      "Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R"                                                                        -13,0302mm 11,5824mm  -13,7922mm 11,5824mm  
-CF5        0.1UF                          BottomLayer Cap0603                      -8,5852mm    14,0438mm    270      "Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R"                                                                        -8,5852mm  14,0438mm  -8,5852mm  14,8058mm  
-CF4        0.1UF                          BottomLayer Cap0603                      -22,4028mm   15,7605mm    360      "Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R"                                                                        -22,4028mm 15,7605mm  -23,1648mm 15,7605mm  
-CF3        0.1UF                          BottomLayer Cap0603                      -23,0632mm   22,4028mm    90       "Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R"                                                                        -23,0632mm 22,4028mm  -23,0632mm 21,6408mm  
-CF2        0.1UF                          BottomLayer Cap0603                      -3,4544mm    20,9042mm    90       "Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R"                                                                        -3,4544mm  20,9042mm  -3,4544mm  20,1422mm  
-CF1        0.1UF                          BottomLayer Cap0603                      -3,4290mm    23,7490mm    270      "Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R"                                                                        -3,4290mm  23,7490mm  -3,4290mm  24,5110mm  
-U6         TMC5160A-TA-T                  TopLayer    48-tqfp-ep_(7x7)             0,2712mm     -21,9176mm   360      "IC MTR DRVR BIPOLAR 8-60V 48TQFP"                                                                                          0,2712mm   -21,9176mm -3,9788mm  -19,1676mm 
-U4         AP2210N-5.0TRG1                BottomLayer SOT-23                       -22,4028mm   19,3579mm    180      "IC REG LINEAR 5V 300MA SOT23-3"                                                                                            -22,4028mm 19,3579mm  -21,4528mm 18,3579mm  
-U3         LM2940SX-12/NOPB               BottomLayer TO-263-3                     -10,8204mm   22,4536mm    360      "LDO Regulator Pos 12V 1A 4-Pin(3+Tab) TO-263 T/R"                                                                          -10,8204mm 22,4536mm  -5,4809mm  24,9936mm  
-U2         XL1509-ADJE1                   BottomLayer SOP-8                        2,9718mm     22,9362mm    270      "40V 2A SOP-8_150mil DC-DC Converters RoHS"                                                                                 2,9718mm   22,9362mm  1,0668mm   25,4337mm  
-U1         SN74LV1T34DBVR                 BottomLayer SOT-23-5                     28,2314mm    10,5808mm    180      "IC BUF NON-INVERT 5.5V SOT23-5"                                                                                            28,2314mm  10,5808mm  29,5314mm  11,5308mm  
-SB1        "Solder Bridge"                TopLayer    Solder_Bridge                2,3622mm     -2,3876mm    270      "Solder Bridge ON"                                                                                                          2,3622mm   -2,3876mm  2,3622mm   -1,6256mm  
-R28        105K                           BottomLayer Res0603                      -16,6624mm   -19,1262mm   180      "RES SMD 105K OHM 1% 1/10W 0603"                                                                                            -16,6624mm -19,1262mm -15,9004mm -19,1262mm 
-R27        11.8K                          BottomLayer Res0603                      -20,0406mm   -16,4592mm   360      "RES SMD 11.8K OHM 1% 1/10W 0603"                                                                                           -20,0406mm -16,4592mm -20,8026mm -16,4592mm 
-R26        150R                           BottomLayer Res0603                      17,2212mm    5,6134mm     90       "RES SMD 150OHM 1/10W 0603"                                                                                                 17,2212mm  5,6134mm   17,2212mm  4,8514mm   
-R24        12.4K                          BottomLayer Res0603                      -13,4366mm   -18,3388mm   360      "RES SMD 12.4K OHM 1% 1/10W 0603"                                                                                           -13,4366mm -18,3388mm -14,1986mm -18,3388mm 
-R23        2R2                            BottomLayer Res0603                      -4,5212mm    -20,1930mm   180      "RES SMD 2.2OHM 0603"                                                                                                       -4,5212mm  -20,1930mm -3,7592mm  -20,1930mm 
-R22        11K                            BottomLayer Res0603                      -20,0660mm   -18,3134mm   180      "RES SMD 11K, 1%, 0.1W, 0603"                                                                                               -20,0660mm -18,3134mm -19,3040mm -18,3134mm 
-R21        3.01K                          BottomLayer Res0603                      -13,4366mm   -16,4338mm   360      "RES SMD 3.01K OHM 1% 1/10W 0603"                                                                                           -13,4366mm -16,4338mm -14,1986mm -16,4338mm 
-R20        150R                           BottomLayer Res0603                      16,6116mm    13,2080mm    90       "RES SMD 150OHM 1/10W 0603"                                                                                                 16,6116mm  13,2080mm  16,6116mm  12,4460mm  
-R19        150R                           BottomLayer Res0603                      0,8382mm     2,7686mm     180      "RES SMD 150OHM 1/10W 0603"                                                                                                 0,8382mm   2,7686mm   1,6002mm   2,7686mm   
-R18        150R                           BottomLayer Res0603                      0,5842mm     14,7066mm    90       "RES SMD 150OHM 1/10W 0603"                                                                                                 0,5842mm   14,7066mm  0,5842mm   13,9446mm  
-R17        150R                           BottomLayer Res0603                      8,2256mm     5,4864mm     90       "RES SMD 150OHM 1/10W 0603"                                                                                                 8,2256mm   5,4864mm   8,2256mm   4,7244mm   
-R16        150R                           BottomLayer Res0603                      3,4544mm     -10,0838mm   270      "RES SMD 150OHM 1/10W 0603"                                                                                                 3,4544mm   -10,0838mm 3,4544mm   -9,3218mm  
-R15        150R                           BottomLayer Res0603                      7,4890mm     13,2080mm    90       "RES SMD 150OHM 1/10W 0603"                                                                                                 7,4890mm   13,2080mm  7,4890mm   12,4460mm  
-R14        150R                           BottomLayer Res0603                      12,2936mm    -3,3020mm    90       "RES SMD 150OHM 1/10W 0603"                                                                                                 12,2936mm  -3,3020mm  12,2936mm  -4,0640mm  
-R13        33m                            BottomLayer RES_2512                     19,7612mm    -0,5842mm    360      "0.033O ±1% 2W ±1800ppm/°C 2512 Low Resistors & Current Sense Resistors - Surface Mount RoHS"                               19,7612mm  -0,5842mm  16,5112mm  -0,5842mm  
-R12        33m                            BottomLayer RES_2512                     19,7612mm    -4,7244mm    360      "0.033O ±1% 2W ±1800ppm/°C 2512 Low Resistors & Current Sense Resistors - Surface Mount RoHS"                               19,7612mm  -4,7244mm  16,5112mm  -4,7244mm  
-R11        33m                            BottomLayer RES_2512                     7,1628mm     -0,5842mm    180      "0.033O ±1% 2W ±1800ppm/°C 2512 Low Resistors & Current Sense Resistors - Surface Mount RoHS"                               7,1628mm   -0,5842mm  10,4128mm  -0,5842mm  
-R10        33m                            BottomLayer RES_2512                     7,1628mm     -4,7244mm    180      "0.033O ±1% 2W ±1800ppm/°C 2512 Low Resistors & Current Sense Resistors - Surface Mount RoHS"                               7,1628mm   -4,7244mm  10,4128mm  -4,7244mm  
-R9         47R                            TopLayer    Res0603                      -5,6642mm    -25,3238mm   90       "RES SMD 47OHM 0.1W 0603"                                                                                                   -5,6642mm  -25,3238mm -5,6642mm  -26,0858mm 
-R8         47R                            TopLayer    Res0603                      -8,2296mm    -21,4376mm   360      "RES SMD 47OHM 0.1W 0603"                                                                                                   -8,2296mm  -21,4376mm -8,9916mm  -21,4376mm 
-R5         1K                             BottomLayer Res0603                      5,5118mm     27,9654mm    180      "RES SMD 1K 0.1W 0603  75 V, Thick Film"                                                                                    5,5118mm   27,9654mm  6,2738mm   27,9654mm  
-R4         10.5K                          BottomLayer Res0603                      2,8448mm     27,4066mm    360      "RES SMD 10.5K 0.1W 0603"                                                                                                   2,8448mm   27,4066mm  2,0828mm   27,4066mm  
-R3         0R                             BottomLayer Res0603                      -12,0396mm   -30,2768mm   180      "RES SMD 0R, 1%, 0.1W, 0603"                                                                                                -12,0396mm -30,2768mm -11,2776mm -30,2768mm 
-R2         5.1K                           BottomLayer Res0603                      19,3548mm    -19,2218mm   90       "RES SMD 5.1K OHM 5% 1/10W 0603"                                                                                            19,3548mm  -19,2218mm 19,3548mm  -19,9838mm 
-R1         5.1K                           BottomLayer Res0603                      19,3548mm    -15,5896mm   270      "RES SMD 5.1K OHM 5% 1/10W 0603"                                                                                            19,3548mm  -15,5896mm 19,3548mm  -14,8276mm 
-Q9         BSC072N08NS5ATMA1              BottomLayer 8-PowerTDFN                  22,9108mm    5,5892mm     90       "MOSFET N-CH 80V 74A 8TDSON"                                                                                                22,9108mm  4,1402mm   24,8158mm  2,7077mm   
-Q7         BSC072N08NS5ATMA1              BottomLayer 8-PowerTDFN                  4,9022mm     5,6654mm     90       "MOSFET N-CH 80V 74A 8TDSON"                                                                                                4,9022mm   4,2164mm   6,8072mm   2,7839mm   
-Q6         BSC072N08NS5ATMA1              BottomLayer 8-PowerTDFN                  3,8862mm     12,9298mm    90       "MOSFET N-CH 80V 74A 8TDSON"                                                                                                3,8862mm   11,4808mm  5,7912mm   10,0483mm  
-Q5         BSC072N08NS5ATMA1              BottomLayer 8-PowerTDFN                  13,9192mm    5,5892mm     90       "MOSFET N-CH 80V 74A 8TDSON"                                                                                                13,9192mm  4,1402mm   15,8242mm  2,7077mm   
-Q4         BSC072N08NS5ATMA1              BottomLayer 8-PowerTDFN                  10,2120mm    -9,8679mm    360      "MOSFET N-CH 80V 74A 8TDSON"                                                                                                8,7630mm   -9,8679mm  7,3305mm   -11,7729mm 
-Q3         BSC072N08NS5ATMA1              BottomLayer 8-PowerTDFN                  13,0810mm    12,8536mm    90       "MOSFET N-CH 80V 74A 8TDSON"                                                                                                13,0810mm  11,4046mm  14,9860mm  9,9721mm   
-Q2         BSC072N08NS5ATMA1              BottomLayer 8-PowerTDFN                  17,4002mm    -9,8806mm    360      "MOSFET N-CH 80V 74A 8TDSON"                                                                                                15,9512mm  -9,8806mm  14,5187mm  -11,7856mm 
-P6         "Test Point"                   TopLayer    TEST_POINT                   -29,0068mm   11,0617mm    360      "Test Point ON"                                                                                                             -29,0068mm 11,0617mm  -29,0068mm 11,0617mm  
-P5         "Test Point"                   TopLayer    TEST_POINT                   -29,0068mm   -9,5123mm    90       "Test Point ON"                                                                                                             -29,0068mm -9,5123mm  -29,0068mm -9,5123mm  
-P4         "Test Point"                   TopLayer    TEST_POINT                   -4,4704mm    -31,5468mm   90       "Test Point ON"                                                                                                             -4,4704mm  -31,5468mm -4,4704mm  -31,5468mm 
-P3         "Test Point"                   TopLayer    TEST_POINT                   -23,1902mm   18,9992mm    90       "Test Point ON"                                                                                                             -23,1902mm 18,9992mm  -23,1902mm 18,9992mm  
-P1         PRT-10474                      TopLayer    PRT-10474                    -3,1496mm    8,3566mm     270      "XT60 CONNECTORS MALE/FEMALE PAIR"                                                                                          -3,1496mm  8,3566mm   -3,1496mm  11,8566mm  
-F1         0685H9150-01                   TopLayer    0685H9150-01                 2,3876mm     4,0132mm     90       "FUSE BOARD MNT 15A 125VAC 32VDC"                                                                                           2,3876mm   4,0132mm   2,3876mm   2,4852mm   
-D11        PMEG3010ER,115                 BottomLayer SOD-123W                     19,0246mm    5,5521mm     90       "DIODE SCHOTTKY 30V 1A SOD123W"                                                                                             19,0246mm  5,5521mm   19,0246mm  4,1521mm   
-D10        PMEG3010ER,115                 BottomLayer SOD-123W                     18,3896mm    13,2334mm    90       "DIODE SCHOTTKY 30V 1A SOD123W"                                                                                             18,3896mm  13,2334mm  18,3896mm  11,8334mm  
-D9         PMEG3010ER,115                 BottomLayer SOD-123W                     -1,5494mm    0,5080mm     180      "DIODE SCHOTTKY 30V 1A SOD123W"                                                                                             -1,5494mm  0,5080mm   -0,1494mm  0,5080mm   
-D8         PMEG3010ER,115                 BottomLayer SOD-123W                     3,2004mm     18,4912mm    180      "DIODE SCHOTTKY 30V 1A SOD123W"                                                                                             3,2004mm   18,4912mm  4,6004mm   18,4912mm  
-D7         PMEG3010ER,115                 BottomLayer SOD-123W                     10,0330mm    5,5521mm     90       "DIODE SCHOTTKY 30V 1A SOD123W"                                                                                             10,0330mm  5,5521mm   10,0330mm  4,1521mm   
-D6         PMEG3010ER,115                 BottomLayer SOD-123W                     9,2456mm     13,2334mm    90       "DIODE SCHOTTKY 30V 1A SOD123W"                                                                                             9,2456mm   13,2334mm  9,2456mm   11,8334mm  
-D5         PMEG3010ER,115                 BottomLayer SOD-123W                     5,3086mm     -9,7790mm    270      "DIODE SCHOTTKY 30V 1A SOD123W"                                                                                             5,3086mm   -9,7790mm  5,3086mm   -8,3790mm  
-D4         PMEG3010ER,115                 BottomLayer SOD-123W                     14,0970mm    -3,3020mm    90       "DIODE SCHOTTKY 30V 1A SOD123W"                                                                                             14,0970mm  -3,3020mm  14,0970mm  -4,7020mm  
-D2         VS-30WQ04FNTR-M3               BottomLayer VS-30WQ04FNTR-M3             12,3190mm    22,8917mm    90       "Diode Schottky 40V 3.5A 3-Pin(2+Tab) DPAK T/R"                                                                             12,3190mm  22,8917mm  8,2465mm   20,5117mm  
-C60        1nF                            TopLayer    Res0603                      32,5628mm    5,3594mm     270      "CAP CER 1nF 100V X7R 0603"                                                                                                 32,5628mm  5,3594mm   32,5628mm  6,1214mm   
-C59        1nF                            TopLayer    Res0603                      32,5628mm    1,4139mm     270      "CAP CER 1nF 100V X7R 0603"                                                                                                 32,5628mm  1,4139mm   32,5628mm  2,1759mm   
-C58        1nF                            TopLayer    Res0603                      32,6136mm    -2,5654mm    270      "CAP CER 1nF 100V X7R 0603"                                                                                                 32,6136mm  -2,5654mm  32,6136mm  -1,8034mm  
-C57        1nF                            TopLayer    Res0603                      32,6136mm    -6,5278mm    270      "CAP CER 1nF 100V X7R 0603"                                                                                                 32,6136mm  -6,5278mm  32,6136mm  -5,7658mm  
-C31        220nF                          TopLayer    Cap0805                      26,8732mm    7,0104mm     90       "CAP CER 220nF 35V 0805"                                                                                                    26,8732mm  7,0104mm   26,8732mm  5,9944mm   
-C30        .47uF                          TopLayer    Cap_0603                     6,8072mm     -23,0378mm   360      "CAP CER 0.47uF 50V X7R 0603"                                                                                               6,8072mm   -23,0378mm 6,0452mm   -23,0378mm 
-C29        2.2uF                          BottomLayer Cap_0603                     -1,0922mm    -20,3454mm   360      "CAP, 2.2µF, 35V, 10%, X5R, 0603"                                                                                           -1,0922mm  -20,3454mm -1,8542mm  -20,3454mm 
-C28        220nF                          TopLayer    Cap0805                      26,8732mm    2,6501mm     270      "CAP CER 220nF 35V 0805"                                                                                                    26,8732mm  2,6501mm   26,8732mm  3,6661mm   
-C27        220nF                          TopLayer    Cap0805                      26,8732mm    -1,7103mm    270      "CAP CER 220nF 35V 0805"                                                                                                    26,8732mm  -1,7103mm  26,8732mm  -0,6943mm  
-C26        220nF                          TopLayer    Cap0805                      26,8732mm    -6,0706mm    270      "CAP CER 220nF 35V 0805"                                                                                                    26,8732mm  -6,0706mm  26,8732mm  -5,0546mm  
-C24        2.2uF                          TopLayer    Cap_0603                     -7,3406mm    -22,9108mm   360      "CAP, 2.2µF, 35V, 10%, X5R, 0603"                                                                                           -7,3406mm  -22,9108mm -8,1026mm  -22,9108mm 
-C21        220nF                          BottomLayer Cap0805                      8,5090mm     -15,1130mm   360      "Cap Ceramic 0.22uF 100V X7R 10% SMD 0805 125°C Embossed T/R"                                                               8,5090mm   -15,1130mm 7,4930mm   -15,1130mm 
-C19        220nF                          BottomLayer Cap0805                      5,0038mm     -16,3830mm   180      "Cap Ceramic 0.22uF 100V X7R 10% SMD 0805 125°C Embossed T/R"                                                               5,0038mm   -16,3830mm 6,0198mm   -16,3830mm 
-C18        220nF                          BottomLayer Cap0805                      8,5852mm     -18,3388mm   360      "Cap Ceramic 0.22uF 100V X7R 10% SMD 0805 125°C Embossed T/R"                                                               8,5852mm   -18,3388mm 7,5692mm   -18,3388mm 
-C17        22nF                           TopLayer    Cap_0603                     6,8072mm     -21,8186mm   360      "0603 .022uF 100volts X7R 10% T=0.8mm"                                                                                      6,8072mm   -21,8186mm 6,0452mm   -21,8186mm 
-C16        220nF                          BottomLayer Cap0805                      5,0038mm     -18,3388mm   180      "Cap Ceramic 0.22uF 100V X7R 10% SMD 0805 125°C Embossed T/R"                                                               5,0038mm   -18,3388mm 6,0198mm   -18,3388mm 
-C15        0.1uF                          BottomLayer Cap_0603                     8,4582mm     -16,7386mm   360      "CAP CER 0.1UF 100V X7R 0603"                                                                                               8,4582mm   -16,7386mm 7,6962mm   -16,7386mm 
-C14        2.2uF                          BottomLayer Cap_0603                     -4,5212mm    -18,9230mm   180      "CAP, 2.2µF, 35V, 10%, X5R, 0603"                                                                                           -4,5212mm  -18,9230mm -3,7592mm  -18,9230mm 
-C13        0.1UF                          BottomLayer Cap0603                      -9,7790mm    -23,3934mm   90       "Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R"                                                                        -9,7790mm  -23,3934mm -9,7790mm  -24,1554mm 
-C12        4.7UF                          BottomLayer Cap0603                      -15,0622mm   12,4714mm    270      "CAP CER 4.7UF 25V X5R 0603"                                                                                                -15,0622mm 12,4714mm  -15,0622mm 13,2334mm  
-C11        4.7UF                          BottomLayer Cap0603                      -9,8298mm    14,0438mm    270      "CAP CER 4.7UF 25V X5R 0603"                                                                                                -9,8298mm  14,0438mm  -9,8298mm  14,8058mm  
-C10        2.2uF                          BottomLayer Cap_0603                     -22,4028mm   17,0305mm    360      "CAP, 2.2µF, 35V, 10%, X5R, 0603"                                                                                           -22,4028mm 17,0305mm  -23,1648mm 17,0305mm  
-C9         1uF                            BottomLayer Cap_0603                     -21,7678mm   22,4028mm    90       "1uF, 25 V, 0603 [1608 Metric], &#177; 10%, X5R, CC Series"                                                                 -21,7678mm 22,4028mm  -21,7678mm 21,6408mm  
-C8         22uF                           BottomLayer Cap0805                      -1,7272mm    20,6248mm    90       "22uF ±20% 35V X5R 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"                                                  -1,7272mm  20,6248mm  -1,7272mm  19,6088mm  
-C7         0.47uF                         BottomLayer Cap_0603                     -2,0828mm    23,7744mm    270      "CAP CER 0.47uF 50V X7R 0603"                                                                                               -2,0828mm  23,7744mm  -2,0828mm  24,5364mm  
-C6         680pF                          BottomLayer Cap0603                      2,8448mm     28,7020mm    180      "CAP CER 680pF 50 V 0603"                                                                                                   2,8448mm   28,7020mm  3,6068mm   28,7020mm  
-C2         0.1uF                          BottomLayer Cap0603                      13,7668mm    -15,2546mm   360      "Cap Ceramic 0.1uF 50VDC X7R 10% SMD 0603 Paper T/R"                                                                        13,7668mm  -15,2546mm 13,0048mm  -15,2546mm 
+Designator Layer       Center-X(mil) Center-Y(mil) Rotation Ref-X(mil)  Ref-Y(mil)  Pad-X(mil)  Pad-Y(mil)  
+F1         TopLayer    53,000mil     1417,000mil   90       53,000mil   1417,000mil 53,000mil   1356,842mil 
+U10        BottomLayer -425,000mil   951,000mil    90       -425,000mil 951,000mil  -348,228mil 841,748mil  
+C61        BottomLayer -339,000mil   1151,000mil   90       -339,000mil 1151,000mil -339,000mil 1121,000mil 
+C56        BottomLayer 686,000mil    2211,000mil   270      686,000mil  2211,000mil 686,000mil  2241,000mil 
+C55        BottomLayer 168,000mil    2432,000mil   270      168,000mil  2432,000mil 168,000mil  2472,000mil 
+J1         TopLayer    -844,655mil   463,102mil    90       -844,655mil 463,102mil  -873,000mil 354,835mil  
+P10        TopLayer    335,000mil    36,000mil     0        285,000mil  36,000mil   285,000mil  36,000mil   
+P9         TopLayer    -351,000mil   38,000mil     180      -301,000mil 38,000mil   -301,000mil 38,000mil   
+P3         TopLayer    1202,285mil   1739,371mil   180      1202,285mil 1739,371mil 1202,285mil 1739,371mil 
+C54        BottomLayer 382,285mil    609,371mil    180      382,285mil  609,371mil  412,285mil  609,371mil  
+C53        BottomLayer -473,715mil   419,372mil    90       -473,715mil 419,372mil  -473,715mil 389,372mil  
+C52        BottomLayer 462,000mil    293,000mil    270      462,000mil  293,000mil  462,000mil  323,000mil  
+C51        BottomLayer -472,715mil   568,371mil    270      -472,715mil 568,371mil  -472,715mil 598,371mil  
+RF1        TopLayer    673,285mil    394,372mil    270      673,285mil  394,372mil  673,285mil  424,372mil  
+R6         TopLayer    150,962mil    771,269mil    270      150,962mil  771,269mil  150,962mil  801,269mil  
+R7         TopLayer    95,962mil     771,269mil    270      95,962mil   771,269mil  95,962mil   801,269mil  
+C1         TopLayer    -60,715mil    2121,372mil   180      -60,715mil  2121,372mil 96,766mil   2121,372mil 
+C2         TopLayer    -670,000mil   134,000mil    0        -670,000mil 134,000mil  -700,000mil 134,000mil  
+C3         BottomLayer -857,715mil   2035,871mil   90       -857,715mil 2035,871mil -857,715mil 2017,371mil 
+C4         BottomLayer -587,715mil   2107,872mil   90       -587,715mil 2107,872mil -587,715mil 2089,372mil 
+C5         BottomLayer -542,715mil   2106,372mil   90       -542,715mil 2106,372mil -542,715mil 2076,372mil 
+C6         BottomLayer -492,715mil   2106,372mil   90       -492,715mil 2106,372mil -492,715mil 2076,372mil 
+C7         BottomLayer -780,715mil   1896,371mil   0        -780,715mil 1896,371mil -810,715mil 1896,371mil 
+C8         BottomLayer -921,715mil   1782,371mil   270      -921,715mil 1782,371mil -921,715mil 1812,371mil 
+C9         BottomLayer -630,715mil   1882,371mil   180      -630,715mil 1882,371mil -600,715mil 1882,371mil 
+C10        BottomLayer -867,000mil   1753,000mil   270      -867,000mil 1753,000mil -867,000mil 1783,000mil 
+C11        BottomLayer -654,715mil   2383,372mil   90       -654,715mil 2383,372mil -654,715mil 2353,372mil 
+C12        BottomLayer -604,715mil   2383,372mil   90       -604,715mil 2383,372mil -604,715mil 2353,372mil 
+C13        TopLayer    609,285mil    357,372mil    270      609,285mil  357,372mil  609,285mil  387,372mil  
+C14        TopLayer    235,000mil    757,000mil    180      235,000mil  757,000mil  265,000mil  757,000mil  
+C15        TopLayer    1104,000mil   837,000mil    90       1104,000mil 837,000mil  1104,000mil 807,000mil  
+C16        TopLayer    1039,285mil   835,371mil    90       1039,285mil 835,371mil  1039,285mil 795,371mil  
+C17        TopLayer    867,285mil    687,371mil    90       867,285mil  687,371mil  867,285mil  657,371mil  
+C18        TopLayer    930,285mil    697,371mil    270      930,285mil  697,371mil  930,285mil  737,371mil  
+C19        TopLayer    886,619mil    835,371mil    90       886,619mil  835,371mil  886,619mil  795,371mil  
+C20        TopLayer    771,962mil    736,269mil    0        771,962mil  736,269mil  741,962mil  736,269mil  
+C21        TopLayer    962,952mil    835,371mil    90       962,952mil  835,371mil  962,952mil  795,371mil  
+C22        TopLayer    687,125mil    1202,371mil   0        687,125mil  1202,371mil 864,285mil  1202,371mil 
+C23        TopLayer    124,285mil    691,371mil    0        124,285mil  691,371mil  94,285mil   691,371mil  
+C24        TopLayer    96,285mil     576,371mil    0        96,285mil   576,371mil  66,285mil   576,371mil  
+C25        BottomLayer -301,715mil   2122,872mil   90       -301,715mil 2122,872mil -301,715mil 2104,372mil 
+C26        TopLayer    658,285mil    956,371mil    180      658,285mil  956,371mil  698,285mil  956,371mil  
+C27        TopLayer    810,285mil    835,371mil    270      810,285mil  835,371mil  810,285mil  875,371mil  
+C28        TopLayer    344,000mil    904,000mil    180      344,000mil  904,000mil  384,000mil  904,000mil  
+C29        TopLayer    235,000mil    696,298mil    180      235,000mil  696,298mil  265,000mil  696,298mil  
+C30        TopLayer    815,285mil    605,371mil    0        815,285mil  605,371mil  785,285mil  605,371mil  
+C31        TopLayer    514,285mil    956,371mil    0        514,285mil  956,371mil  474,285mil  956,371mil  
+C32        BottomLayer -943,715mil   2063,372mil   0        -943,715mil 2063,372mil -962,215mil 2063,372mil 
+C33        BottomLayer -263,715mil   2052,372mil   0        -263,715mil 2052,372mil -293,715mil 2052,372mil 
+C34        BottomLayer -149,715mil   1975,371mil   90       -149,715mil 1975,371mil -149,715mil 1945,371mil 
+C35        BottomLayer -330,715mil   1942,371mil   270      -330,715mil 1942,371mil -330,715mil 1972,371mil 
+C36        BottomLayer -890,215mil   2172,372mil   180      -890,215mil 2172,372mil -871,715mil 2172,372mil 
+C37        BottomLayer -724,715mil   2160,372mil   90       -724,715mil 2160,372mil -724,715mil 2130,372mil 
+C38        BottomLayer -450,715mil   1692,371mil   90       -450,715mil 1692,371mil -450,715mil 1662,371mil 
+C39        BottomLayer -545,715mil   1517,371mil   180      -545,715mil 1517,371mil -515,715mil 1517,371mil 
+C40        BottomLayer 240,000mil    2290,000mil   90       240,000mil  2290,000mil 240,000mil  2260,000mil 
+C41        BottomLayer 121,000mil    2263,000mil   180      121,000mil  2263,000mil 171,000mil  2263,000mil 
+C42        BottomLayer 224,285mil    2096,372mil   90       224,285mil  2096,372mil 224,285mil  2066,372mil 
+C43        BottomLayer 336,000mil    2450,000mil   270      336,000mil  2450,000mil 336,000mil  2500,000mil 
+C44        BottomLayer 195,000mil    2174,000mil   0        195,000mil  2174,000mil 165,000mil  2174,000mil 
+C45        BottomLayer 423,000mil    2449,372mil   270      423,000mil  2449,372mil 423,000mil  2499,372mil 
+C46        BottomLayer 619,285mil    2278,872mil   270      619,285mil  2278,872mil 619,285mil  2297,372mil 
+C47        BottomLayer 249,000mil    2452,000mil   270      249,000mil  2452,000mil 249,000mil  2502,000mil 
+C48        BottomLayer 282,057mil    1867,371mil   180      408,829mil  1867,371mil 408,829mil  1867,371mil 
+C49        TopLayer    541,725mil    1687,371mil   0        541,725mil  1687,371mil 339,165mil  1687,371mil 
+C50        BottomLayer 860,285mil    1947,371mil   90       860,285mil  1947,371mil 860,285mil  1917,371mil 
+C57        TopLayer    1279,285mil   1452,371mil   90       1279,285mil 1452,371mil 1279,285mil 1422,371mil 
+C58        TopLayer    1278,285mil   1309,371mil   90       1278,285mil 1309,371mil 1278,285mil 1279,371mil 
+C59        TopLayer    1279,285mil   1185,705mil   90       1279,285mil 1185,705mil 1279,285mil 1155,705mil 
+C60        TopLayer    1279,285mil   1052,371mil   270      1279,285mil 1052,371mil 1279,285mil 1082,371mil 
+CF1        BottomLayer -399,715mil   1692,371mil   90       -399,715mil 1692,371mil -399,715mil 1662,371mil 
+CF2        BottomLayer -545,715mil   1567,371mil   180      -545,715mil 1567,371mil -515,715mil 1567,371mil 
+D1         BottomLayer -810,715mil   1837,371mil   0        -810,715mil 1837,371mil -855,990mil 1837,371mil 
+D2         BottomLayer -512,740mil   2261,000mil   0        -512,740mil 2261,000mil -591,480mil 2261,000mil 
+D3         BottomLayer 911,000mil    2149,000mil   315      911,000mil  2149,000mil 855,322mil  2204,678mil 
+D4         BottomLayer 844,285mil    1547,490mil   90       844,285mil  1547,490mil 844,285mil  1492,371mil 
+D5         BottomLayer 844,285mil    1227,371mil   90       844,285mil  1227,371mil 844,285mil  1172,253mil 
+D6         BottomLayer 124,285mil    1557,371mil   90       124,285mil  1557,371mil 124,285mil  1502,253mil 
+D7         BottomLayer 127,000mil    1231,000mil   90       127,000mil  1231,000mil 127,000mil  1175,882mil 
+D8         BottomLayer 479,285mil    1542,371mil   90       479,285mil  1542,371mil 479,285mil  1487,253mil 
+D9         BottomLayer 479,285mil    1214,490mil   90       479,285mil  1214,490mil 479,285mil  1159,371mil 
+D10        BottomLayer 693,499mil    804,000mil    0        693,499mil  804,000mil  638,381mil  804,000mil  
+D11        BottomLayer 1177,000mil   880,000mil    0        1177,000mil 880,000mil  1121,882mil 880,000mil  
+FB1        BottomLayer 102,285mil    1980,371mil   270      102,285mil  1980,371mil 102,285mil  2007,930mil 
+FB2        TopLayer    -298,156mil   2040,371mil   0        -298,156mil 2040,371mil -325,715mil 2040,371mil 
+FB3        TopLayer    126,726mil    1572,371mil   0        126,726mil  1572,371mil 99,167mil   1572,371mil 
+FB4        BottomLayer -365,715mil   1437,930mil   90       -365,715mil 1437,930mil -365,715mil 1410,371mil 
+J2         TopLayer    -774,715mil   1570,175mil   90       -774,715mil 1570,175mil -849,715mil 1495,371mil 
+J3         BottomLayer -25,000mil    314,258mil    180      -25,000mil  314,258mil  -325,000mil 205,990mil  
+J4         BottomLayer 1209,285mil   1245,009mil   270      1209,285mil 1392,647mil 1209,285mil 1392,647mil 
+J5         TopLayer    -774,715mil   999,175mil    90       -774,715mil 999,175mil  -849,715mil 924,371mil  
+L1         TopLayer    471,496mil    2223,000mil   180      471,496mil  2223,000mil 690,000mil  2223,000mil 
+L2         BottomLayer 554,285mil    2422,372mil   180      554,285mil  2422,372mil 613,340mil  2422,372mil 
+LED1       TopLayer    562,285mil    134,372mil    0        562,285mil  134,371mil  508,151mil  167,836mil  
+LED2       TopLayer    -855,014mil   694,371mil    180      -855,014mil 694,371mil  -836,313mil 694,371mil  
+P1         TopLayer    -165,000mil   1616,167mil   270      -165,000mil 1616,167mil -165,000mil 1753,962mil 
+P2         TopLayer    -160,000mil   957,000mil    90       -160,000mil 957,000mil  -160,000mil 819,205mil  
+P4         TopLayer    -231,715mil   551,371mil    270      -231,715mil 551,371mil  -231,715mil 551,371mil  
+P5         TopLayer    1202,285mil   1646,371mil   0        1202,285mil 1646,371mil 1202,285mil 1646,371mil 
+P6         TopLayer    -137,715mil   550,371mil    90       -137,715mil 550,371mil  -137,715mil 550,371mil  
+P7         TopLayer    27,285mil     2365,000mil   180      77,285mil   2365,000mil 77,285mil   2365,000mil 
+P8         TopLayer    -203,000mil   2365,000mil   180      -153,000mil 2365,000mil -153,000mil 2365,000mil 
+Q2         BottomLayer 999,285mil    1593,927mil   90       999,285mil  1536,879mil 1074,285mil 1480,482mil 
+Q3         BottomLayer 274,285mil    1593,927mil   90       274,285mil  1536,879mil 349,285mil  1480,482mil 
+Q4         BottomLayer 994,285mil    1268,927mil   90       994,285mil  1211,879mil 1069,285mil 1155,482mil 
+Q5         BottomLayer 277,000mil    1269,445mil   90       277,000mil  1212,398mil 352,000mil  1156,000mil 
+Q6         BottomLayer 634,285mil    1593,927mil   90       634,285mil  1536,879mil 709,285mil  1480,482mil 
+Q7         BottomLayer 634,285mil    1268,927mil   90       634,285mil  1211,879mil 709,285mil  1155,482mil 
+Q8         BottomLayer 709,285mil    989,419mil    90       709,285mil  932,371mil  784,285mil  875,974mil  
+Q9         BottomLayer 957,238mil    1017,371mil   180      1014,285mil 1017,371mil 1070,683mil 1092,371mil 
+R1         BottomLayer -952,000mil   461,000mil    0        -952,000mil 461,000mil  -982,000mil 461,000mil  
+R2         BottomLayer -809,000mil   502,000mil    270      -809,000mil 502,000mil  -809,000mil 532,000mil  
+R3         BottomLayer -928,715mil   1893,371mil   90       -928,715mil 1893,371mil -928,715mil 1863,371mil 
+R4         BottomLayer -953,715mil   2017,371mil   0        -953,715mil 2017,371mil -983,715mil 2017,371mil 
+R5         TopLayer    -375,715mil   2087,372mil   270      -375,715mil 2087,372mil -375,715mil 2117,372mil 
+R8         TopLayer    35,285mil     628,371mil    0        35,285mil   628,371mil  5,285mil    628,371mil  
+R9         TopLayer    156,285mil    529,371mil    180      156,285mil  529,371mil  186,285mil  529,371mil  
+R10        BottomLayer 362,428mil    935,000mil    90       362,428mil  935,000mil  362,428mil  807,047mil  
+R11        BottomLayer 523,000mil    935,000mil    90       523,000mil  935,000mil  523,000mil  807,047mil  
+R12        BottomLayer 201,857mil    935,000mil    90       201,857mil  935,000mil  201,857mil  807,047mil  
+R13        BottomLayer 41,285mil     935,000mil    90       41,285mil   935,000mil  41,285mil   807,047mil  
+R14        BottomLayer 774,285mil    1537,371mil   90       774,285mil  1537,371mil 774,285mil  1507,371mil 
+R15        BottomLayer 54,285mil     1537,371mil   90       54,285mil   1537,371mil 54,285mil   1507,371mil 
+R16        BottomLayer 774,285mil    1212,371mil   90       774,285mil  1212,371mil 774,285mil  1182,371mil 
+R17        BottomLayer 58,000mil     1207,000mil   90       58,000mil   1207,000mil 58,000mil   1177,000mil 
+R18        BottomLayer 409,285mil    1527,371mil   90       409,285mil  1527,371mil 409,285mil  1497,371mil 
+R19        BottomLayer 409,285mil    1204,371mil   90       409,285mil  1204,371mil 409,285mil  1174,371mil 
+R20        BottomLayer 709,000mil    736,000mil    0        709,000mil  736,000mil  679,000mil  736,000mil  
+R21        BottomLayer -251,715mil   2137,372mil   90       -251,715mil 2137,372mil -251,715mil 2107,372mil 
+R22        BottomLayer -56,715mil    2251,372mil   90       -56,715mil  2251,372mil -56,715mil  2221,372mil 
+R23        BottomLayer 270,000mil    735,000mil    0        270,000mil  735,000mil  240,000mil  735,000mil  
+R24        BottomLayer -57,715mil    2136,372mil   90       -57,715mil  2136,372mil -57,715mil  2106,372mil 
+R25        BottomLayer -834,313mil   724,371mil    90       -834,313mil 724,371mil  -834,313mil 694,371mil  
+R26        BottomLayer 1031,285mil   882,371mil    180      1031,285mil 882,371mil  1061,285mil 882,371mil  
+R27        BottomLayer -214,000mil   2276,000mil   180      -214,000mil 2276,000mil -184,000mil 2276,000mil 
+R28        BottomLayer -320,000mil   2275,000mil   0        -320,000mil 2275,000mil -350,000mil 2275,000mil 
+R29        BottomLayer -552,715mil   1980,371mil   0        -552,715mil 1980,371mil -582,715mil 1980,371mil 
+R30        BottomLayer -552,715mil   2029,371mil   0        -552,715mil 2029,371mil -582,715mil 2029,371mil 
+R31        BottomLayer -552,715mil   1931,371mil   0        -552,715mil 1931,371mil -582,715mil 1931,371mil 
+R32        BottomLayer -948,715mil   2122,372mil   0        -948,715mil 2122,372mil -978,715mil 2122,372mil 
+R33        TopLayer    647,285mil    221,371mil    0        647,285mil  221,371mil  617,285mil  221,371mil  
+R34        TopLayer    671,285mil    130,371mil    90       671,285mil  130,371mil  671,285mil  100,371mil  
+R35        BottomLayer -554,715mil   2382,372mil   270      -554,715mil 2382,372mil -554,715mil 2412,372mil 
+R36        BottomLayer -844,715mil   2122,372mil   0        -844,715mil 2122,372mil -874,715mil 2122,372mil 
+R37        BottomLayer 176,285mil    2117,372mil   0        176,285mil  2117,372mil 165,458mil  2117,372mil 
+R38        BottomLayer 349,285mil    2087,372mil   180      349,285mil  2087,372mil 379,285mil  2087,372mil 
+R39        BottomLayer 666,285mil    1872,371mil   180      666,285mil  1872,371mil 696,285mil  1872,371mil 
+R40        BottomLayer 586,285mil    1842,371mil   90       586,285mil  1842,371mil 586,285mil  1812,371mil 
+R41        BottomLayer 474,285mil    2032,371mil   180      474,285mil  2032,371mil 504,285mil  2032,371mil 
+RF2        TopLayer    729,285mil    423,372mil    270      729,285mil  423,372mil  729,285mil  453,372mil  
+RF3        BottomLayer -198,000mil   75,000mil     0        -198,000mil 75,000mil   -228,000mil 75,000mil   
+RF4        BottomLayer 181,000mil    75,000mil     180      181,000mil  75,000mil   211,000mil  75,000mil   
+SB1        TopLayer    79,000mil     1228,000mil   180      79,000mil   1228,000mil 109,000mil  1228,000mil 
+SB2        TopLayer    -307,715mil   1949,371mil   0        -307,715mil 1949,371mil -337,715mil 1949,371mil 
+SB3        TopLayer    -398,715mil   1975,371mil   90       -398,715mil 1975,371mil -398,715mil 1945,371mil 
+SB4        BottomLayer 139,285mil    2052,372mil   180      139,285mil  2052,372mil 169,285mil  2052,372mil 
+SB5        BottomLayer -449,715mil   1467,371mil   0        -449,715mil 1467,371mil -479,715mil 1467,371mil 
+SB6        BottomLayer -447,715mil   1406,371mil   0        -447,715mil 1406,371mil -477,715mil 1406,371mil 
+SB7        TopLayer    99,285mil     1657,371mil   270      99,285mil   1657,371mil 99,285mil   1687,371mil 
+SB8        BottomLayer 254,285mil    2000,371mil   0        254,285mil  2000,371mil 224,285mil  2000,371mil 
+SB9        BottomLayer -65,000mil    1948,371mil   0        -65,000mil  1948,371mil -95,000mil  1948,371mil 
+SB10       TopLayer    159,285mil    1657,371mil   270      159,285mil  1657,371mil 159,285mil  1687,371mil 
+SB11       TopLayer    175,285mil    2249,372mil   90       175,285mil  2249,372mil 175,285mil  2219,372mil 
+SW1        TopLayer    -586,132mil   375,694mil    90       -586,132mil 375,694mil  -497,549mil 208,371mil  
+T1         TopLayer    -666,187mil   2155,797mil   180      -666,187mil 2155,797mil -895,715mil 2057,372mil 
+U1         BottomLayer -735,518mil   2007,529mil   180      -735,518mil 2007,529mil -660,715mil 2056,742mil 
+U2         BottomLayer -418,864mil   1572,371mil   180      -418,864mil 1572,371mil -365,715mil 1609,773mil 
+U3         BottomLayer 419,285mil    2222,372mil   180      419,285mil  2222,372mil 533,458mil  2311,939mil 
+U4         BottomLayer -249,101mil   1972,962mil   180      -249,101mil 1972,962mil -210,715mil 1998,553mil 
+U5         BottomLayer 684,285mil    2002,371mil   180      684,285mil  2002,371mil 790,584mil  2077,372mil 
+U6         TopLayer    504,285mil    657,371mil    0        504,285mil  657,371mil  336,962mil  765,639mil  
+U7         BottomLayer -156,715mil   2166,371mil   270      -156,715mil 2166,372mil -194,116mil 2217,946mil 
+U8         BottomLayer -601,215mil   491,671mil    90       -601,215mil 491,671mil  -513,715mil 385,372mil  
+U9         BottomLayer 637,285mil    492,970mil    270      637,285mil  492,970mil  462,285mil  605,568mil  

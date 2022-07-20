@@ -1,0 +1,12 @@
+Change component parameters: Designator = "R40" ("R40"); Footprint = "Res0603"; UniqueID = "\TAFIXPXO" ("\TAFIXPXO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "0603WAF1201T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1.2kO "; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41" ("R41"); Footprint = "Res0603"; UniqueID = "\KJHLUDXL" ("\KJHLUDXL")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "RALEC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "RTT03R330FTP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.33O "; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC## Pin=C36-2
+Added Pin To Net: NetName=VCC## Pin=R32-2

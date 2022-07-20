@@ -1,0 +1,31 @@
+Added Component: Designator=U4(24-QFN (3x3))
+Add component (AddParameter): Name = "Case/Package"; Value = "QFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Inertial Measurement Units (IMUs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK InvenSense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ICM-20649"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "SPI,I2C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=12.32000, 5=8.00000, 10=7.20000, 25=6.40000, 50=5.92000, 100=5.12000, 500=4.80000, 1000=4.48000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sensor Type"; Value = "Accelerometer,Gyroscope,6 Axis,Temperature"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "4990"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1428-1142-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD_3V3# Pin=U4-8
+Added Pin To Net: NetName=AD0 Pin=U4-9
+Added Pin To Net: NetName=NetC35_2 Pin=U4-10
+Added Pin To Net: NetName=GND Pin=U4-11
+Added Pin To Net: NetName=I2C.INT1 Pin=U4-12
+Added Pin To Net: NetName=VDD_3V3# Pin=U4-13
+Added Pin To Net: NetName=GND Pin=U4-18
+Added Pin To Net: NetName=I2C.INT2 Pin=U4-19
+Added Pin To Net: NetName=GND Pin=U4-20
+Added Pin To Net: NetName=VDD_3V3# Pin=U4-22
+Added Pin To Net: NetName=I2C.SCL Pin=U4-23
+Added Pin To Net: NetName=I2C.SDA Pin=U4-24
+Added Pin To Net: NetName=GND Pin=U4-25
+Added Member To Class: ClassName=U_Motion-Sensor-Sheet Member=Component U4 ICM-20649
