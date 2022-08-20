@@ -352,6 +352,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=..\..\Deliverables\SM_Top Board\_BOM\Altium_Generated_BOM.xlsx
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -510,7 +514,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=AnyDesk Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -804,7 +808,7 @@ Configuration4_Item1=CaptionAsName
 Configuration4_Name2=ForceUpdateSettings
 Configuration4_Item2=False
 Configuration4_Name3=General
-Configuration4_Item3=OpenExported=True|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=True|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=960|FormHeight=1040|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration4_Item3=OpenExported=True|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=True|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=D:\Faizan\GitHub\eSpark-Hardware\BOM Format\BOM Template\Client.Bom.Template.xlsx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=960|FormHeight=978|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
 Configuration4_Name4=GroupOrder
 Configuration4_Item4=Comment=True|Footprint=True
 Configuration4_Name5=OutputConfigurationParameter1
@@ -812,7 +816,9 @@ Configuration4_Item5=??
 Configuration4_Name6=SortOrder
 Configuration4_Item6=Designator=Up|Comment=Up|Footprint=Up
 Configuration4_Name7=VisibleOrder
-Configuration4_Item7=Case/Package=100|Comment=100|Description=100|Designator=100|Footprint=100|LibRef=100|Manufacturer=100|Manufacturer Part No=100|Manufacturer Part Number=100|Package=100|Quantity=100
+Configuration4_Item7=Case/Package=100|Comment=100|Description=100|Designator=100|Footprint=100|Manufacturer=100|Package=100|Quantity=100|Manufacturer Part No=100|Manufacturer Part Number=100
+Configuration4_Name8=VisibleOrder_Flat
+Configuration4_Item8=Case/Package=100|Comment=100|Description=100|Designator=100|Footprint=100|Manufacturer=100|Package=100|Quantity=100|Manufacturer Part No=100|Manufacturer Part Number=100
 OutputType5=ComponentCrossReference
 OutputName5=Component Cross Reference Report
 OutputDocumentPath5=
