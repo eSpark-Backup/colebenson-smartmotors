@@ -357,94 +357,98 @@ DocumentPath=..\..\Deliverables\SM_Bottom Board\_BOM\Altium_Generated_BOM.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for SM_Bottom_Board\Pick Place for SM_Bottom_PCB.csv
+DocumentPath=Project Outputs for SM_Bottom_Board\Design Rule Check - SM_Bottom_PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for SM_Bottom_Board\Pick Place for SM_Bottom_PCB.txt
+DocumentPath=Project Outputs for SM_Bottom_Board\Pick Place for SM_Bottom_PCB.csv
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.DRR
+DocumentPath=Project Outputs for SM_Bottom_Board\Pick Place for SM_Bottom_PCB.txt
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.EXTREP
+DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GBL
+DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GBO
+DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GBP
+DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GBS
+DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GD1
+DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GG1
+DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GM2
+DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GP1
+DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GP2
+DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GPB
+DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GPT
+DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GTL
+DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GTO
+DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GTP
+DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GTS
+DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.LDP
+DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.REP
+DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.RUL
+DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.REP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
+DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
 DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.TXT
 DItemRevisionGUID=
 
@@ -602,12 +606,42 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=SIMetrixNetlist
+OutputName21=SIMetrix
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+OutputType22=SIMPLISNetlist
+OutputName22=SIMPLIS
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=XSpiceNetlist
+OutputName23=Mixed Sim Netlist
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
