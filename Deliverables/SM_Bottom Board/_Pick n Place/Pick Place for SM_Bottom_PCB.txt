@@ -4,9 +4,9 @@ C:\Users\XPENDER\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\SM_Bottom_
 ========================================================================================================================
 File Design Information:
 
-Date:       28/08/22
-Time:       17:33
-Revision:   48b02ca4d78b0318e1cea889f0d7346bee2b6a61
+Date:       06/09/22
+Time:       20:15
+Revision:   38cebab24217f176b5ce2482b46e27db1202bec4
 Variant:    No variations
 Units used: mm
 
