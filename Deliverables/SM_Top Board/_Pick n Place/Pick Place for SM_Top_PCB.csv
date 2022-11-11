@@ -1,16 +1,17 @@
 Altium Designer Pick and Place Locations
-C:\Users\XPENDER\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\SM_Top_Board\Project Outputs for SM_Top_Board\Pick Place for SM_Top_PCB.csv
+C:\GitHub\ColeBenson-SmartMotors\Design-Files\SM_Top_Board\Project Outputs for SM_Top_Board\Pick Place for SM_Top_PCB.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       06/09/22
-Time:       20:39
-Revision:   c204c1eab75608ebcebaafcce9cc9d8ded1afb3b
+Date:       11/11/22
+Time:       16:26
+Revision:   2669ce41fc7e1fa35bb4931002dc166985b7e150
 Variant:    No variations
 Units used: mm
 
 "Designator","Layer","Center-X(mm)","Center-Y(mm)","Rotation","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
+"C1","TopLayer","-1,7974mm","54,2544mm","180","-1,7974mm","54,2544mm","1,7526mm","54,2544mm"
 "J11","TopLayer","25,3746mm","36,8046mm","270","25,3746mm","36,8046mm","22,5746mm","40,6146mm"
 "LED1","TopLayer","15,2908mm","4,8514mm","0","15,2908mm","4,8514mm","13,9158mm","5,7014mm"
 "SW1","TopLayer","-20,9698mm","12,6828mm","90","-20,9698mm","12,6828mm","-18,7198mm","8,4328mm"
@@ -92,7 +93,6 @@ Units used: mm
 "RF1","TopLayer","17,1014mm","10,0170mm","270","17,1014mm","10,0170mm","17,1014mm","10,7790mm"
 "R6","TopLayer","3,8344mm","19,5902mm","270","3,8344mm","19,5902mm","3,8344mm","20,3522mm"
 "R7","TopLayer","2,4374mm","19,5902mm","270","2,4374mm","19,5902mm","2,4374mm","20,3522mm"
-"C1","TopLayer","-1,5240mm","54,2544mm","180","-1,5240mm","54,2544mm","2,4760mm","54,2544mm"
 "C2","TopLayer","-24,9174mm","10,2362mm","270","-24,9174mm","10,2362mm","-24,9174mm","10,9982mm"
 "C3","BottomLayer","-21,7860mm","51,7111mm","90","-21,7860mm","51,7111mm","-21,7860mm","51,2412mm"
 "C4","BottomLayer","-14,9280mm","53,1843mm","90","-14,9280mm","53,1843mm","-14,9280mm","52,7144mm"
