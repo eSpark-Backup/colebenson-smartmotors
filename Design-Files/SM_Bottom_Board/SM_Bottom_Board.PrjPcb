@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=Project Outputs for SM_Bottom_Board
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -318,40 +318,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
-DocumentPath=Gerber Files.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document18]
-DocumentPath=NC Drill Files.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
 DocumentPath=..\..\Deliverables\SM_Bottom Board\_BOM\Altium_Generated_BOM.xlsx
 DItemRevisionGUID=
@@ -361,94 +327,86 @@ DocumentPath=Project Outputs for SM_Bottom_Board\Design Rule Check - SM_Bottom_P
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for SM_Bottom_Board\Pick Place for SM_Bottom_PCB.csv
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for SM_Bottom_Board\Pick Place for SM_Bottom_PCB.txt
-DItemRevisionGUID=
-
-[GeneratedDocument5]
 DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GP1
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GP2
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.REP
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for SM_Bottom_Board\SM_Bottom_PCB.TXT
 DItemRevisionGUID=
 
@@ -499,7 +457,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for SM_Bottom_Board
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
