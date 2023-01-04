@@ -1,20 +1,20 @@
 Altium Designer Pick and Place Locations
-C:\Users\LiberDB\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\SM_Bottom_Board\Project Outputs for SM_Bottom_Board\Pick Place for SM_Bottom_PCB.txt
+C:\Users\XPENDER\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\SM_Bottom_Board\Project Outputs for SM_Bottom_Board\Pick Place for SM_Bottom_PCB.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       22/09/22
-Time:       21:26
-Revision:   de9cbdfd0b1c839cde85e78e32eedb41c87c6eaa
+Date:       04/01/23
+Time:       21:55
+Revision:   ab8f261f2f94c6a22e28c65bea0cc8e952a673ac
 Variant:    No variations
 Units used: mm
 
 Designator Layer       Center-X(mm) Center-Y(mm) Rotation Ref-X(mm)  Ref-Y(mm) Pad-X(mm)  Pad-Y(mm) 
-U3         BottomLayer -2,4636mm    32,4104mm    180      -2,4636mm  32,4104mm 0,3814mm   34,3154mm 
-Rx3        BottomLayer 2,2606mm     29,6672mm    270      2,2606mm   29,6672mm 2,2606mm   30,4292mm 
-Rx2        BottomLayer 3,5560mm     30,9372mm    270      3,5560mm   30,9372mm 3,5560mm   31,6992mm 
-Rx1        BottomLayer 2,2606mm     33,8582mm    90       2,2606mm   33,8582mm 2,2606mm   33,0962mm 
+U3         BottomLayer 0,0002mm     32,5001mm    180      0,0002mm   32,5001mm 2,8452mm   34,4051mm 
+Rx3        BottomLayer 2,0828mm     29,1592mm    180      2,0828mm   29,1592mm 2,8448mm   29,1592mm 
+Rx2        BottomLayer 4,3688mm     31,0896mm    270      4,3688mm   31,0896mm 4,3688mm   31,8516mm 
+Rx1        BottomLayer 5,0546mm     33,1216mm    0        5,0546mm   33,1216mm 4,2926mm   33,1216mm 
 U2         TopLayer    -0,0762mm    54,5726mm    0        -0,0762mm  54,5726mm -2,7762mm  56,4776mm 
 U1         TopLayer    0,1524mm     28,8584mm    0        0,1524mm   28,8584mm -7,5976mm  34,8584mm 
 SW1        TopLayer    -33,1216mm   32,4866mm    90       -33,1216mm 32,4866mm -34,0216mm 30,9866mm 
@@ -110,16 +110,16 @@ C18        TopLayer    -13,5382mm   32,1350mm    90       -13,5382mm 32,1350mm -
 C17        TopLayer    -12,9032mm   26,3278mm    90       -12,9032mm 26,3278mm -12,9032mm 25,5658mm 
 C16        TopLayer    -10,8599mm   28,1105mm    0        -10,8599mm 28,1105mm -11,6219mm 28,1105mm 
 C15        BottomLayer -33,2105mm   32,4492mm    90       -33,2105mm 32,4492mm -33,2105mm 31,6872mm 
-C14        BottomLayer 8,4582mm     33,6938mm    0        8,4582mm   33,6938mm 7,6962mm   33,6938mm 
+C14        BottomLayer 9,3472mm     33,8970mm    0        9,3472mm   33,8970mm 8,5852mm   33,8970mm 
 C13        BottomLayer 4,6228mm     21,1208mm    0        4,6228mm   21,1208mm 3,8608mm   21,1208mm 
 C11        BottomLayer -6,9088mm    24,6006mm    0        -6,9088mm  24,6006mm -7,6708mm  24,6006mm 
 C10        BottomLayer -4,1148mm    19,7746mm    0        -4,1148mm  19,7746mm -4,8768mm  19,7746mm 
-C9         BottomLayer 7,4422mm     34,9544mm    180      7,4422mm   34,9544mm 8,2042mm   34,9544mm 
+C9         BottomLayer 8,3312mm     35,1576mm    180      8,3312mm   35,1576mm 9,0932mm   35,1576mm 
 C8         BottomLayer -7,8486mm    36,7418mm    180      -7,8486mm  36,7418mm -7,0866mm  36,7418mm 
 C7         BottomLayer -12,0396mm   29,8838mm    180      -12,0396mm 29,8838mm -11,2776mm 29,8838mm 
 C6         BottomLayer -12,0396mm   31,1284mm    180      -12,0396mm 31,1284mm -11,2776mm 31,1284mm 
 C5         BottomLayer -4,8768mm    21,8734mm    90       -4,8768mm  21,8734mm -4,8768mm  21,1114mm 
 C4         BottomLayer 6,6040mm     20,3200mm    270      6,6040mm   20,3200mm 6,6040mm   21,0820mm 
-C3         BottomLayer 7,4422mm     36,2084mm    180      7,4422mm   36,2084mm 8,2042mm   36,2084mm 
+C3         BottomLayer 8,3312mm     36,4116mm    180      8,3312mm   36,4116mm 9,0932mm   36,4116mm 
 C2         BottomLayer -7,8486mm    37,9864mm    180      -7,8486mm  37,9864mm -7,0866mm  37,9864mm 
 C1         BottomLayer -12,0396mm   32,4238mm    180      -12,0396mm 32,4238mm -11,2776mm 32,4238mm 
