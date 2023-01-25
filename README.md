@@ -8,6 +8,9 @@ This branch contains the design submitted to client and is fabricated for testin
 ### Evaluation Branch
 This branch contains the changes currently in progress. After the design is produced and fabricated, this branch will also contain corrections applied that are observed during testing of the hardware.
 
+### Hardware-Prototype-v.3.2 Branch
+This branch is referenced from Evaluation-TLE5012B branch. It will contain the final revisions / corrections needed in the hardware.
+
 ### Evaluation-TLE5012B Branch
 This branch contains the changes currently in progress. After the design is produced and fabricated, this branch will also contain corrections applied that are observed during testing of the hardware. This is an extended branch of Evaluation that has TLE5012B as the magnetic encoder instead of AEAT-8800 chip.
 
