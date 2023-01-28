@@ -1,8 +1,8 @@
 Board Information Report
 Filename     : C:\Users\XPENDER\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\SM_Bottom_Board\SM_Bottom_PCB.PcbDoc
-Date         : 1/4/2023
-Time         : 9:04:01 PM
-Time Elapsed : 00:00:01
+Date         : 1/29/2023
+Time         : 1:01:56 AM
+Time Elapsed : 00:00:12
 
 General
     Board Size, 2739.505milsx2795.275mils
@@ -17,19 +17,19 @@ Routing Information
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 0, 257, 0, 631, 0, 33, 0, 0
-    Power Plane, 5, 0, 0, 20, 0, 0, 2, 0
+    Top Layer, 0, 259, 0, 609, 0, 44, 0, 0
+    Power Plane, 5, 0, 0, 27, 0, 0, 3, 0
     GND Plane, 5, 0, 0, 8, 0, 0, 1, 0
-    Bottom Layer, 0, 137, 0, 380, 0, 38, 0, 0
+    Bottom Layer, 0, 135, 0, 356, 0, 42, 0, 0
     Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 103
     Mechanical 2, 5, 0, 0, 3, 0, 0, 0, 0
     Mechanical 13, 0, 0, 0, 0, 0, 0, 0, 1
-    Multi-Layer, 0, 13, 195, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 13, 243, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
-    Top Overlay, 15, 0, 0, 207, 118, 1, 0, 0
+    Top Overlay, 15, 0, 0, 211, 120, 1, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
-    Bottom Overlay, 1, 0, 0, 3380, 188, 3, 0, 0
+    Bottom Overlay, 1, 0, 0, 3376, 186, 3, 0, 0
     Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
     Keep-Out Layer, 0, 0, 0, 0, 0, 1, 2, 0
@@ -40,10 +40,10 @@ Drill Pairs, Vias
 count : 0
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    Top Layer, 1.134, 731.419, 19%
-    Power Plane, 4.942, 3188.644, 84%
-    GND Plane, 5.193, 3350.243, 89%
-    Bottom Layer, 0.773, 498.487, 13%
+    Top Layer, 1.155, 745.05, 20%
+    Power Plane, 4.85, 3129.019, 83%
+    GND Plane, 5.177, 3339.708, 88%
+    Bottom Layer, 0.765, 493.714, 13%
 count : 4
 
 Non-Plated Hole Size, Pads, Vias
