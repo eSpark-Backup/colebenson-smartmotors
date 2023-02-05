@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: SM_Top_PCB.GBR   11/11/2022  4:21:29 PM
+Gerber File Extension Report For: SM_Top_PCB.GBR   2/6/2023  12:43:41 AM
 ------------------------------------------------------------------------------------------
 
 
@@ -10,8 +10,8 @@ Layer Extension     Layer Description
 .GTP                Top Paste                               
 .GTS                Top Solder                              
 .GTL                Top Layer                               
-.GP1                Layer 1                                 
-.GP2                Layer 2                                 
+.GP1                Power                                   
+.GP2                Ground                                  
 .GBL                Bottom Layer                            
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            

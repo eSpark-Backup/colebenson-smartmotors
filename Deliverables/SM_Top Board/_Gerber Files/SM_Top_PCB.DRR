@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: SM_Top_PCB.PcbDoc   11/11/2022  4:22:34 PM
+NCDrill File Report For: SM_Top_PCB.PcbDoc   2/6/2023  12:44:08 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,7 +8,7 @@ ASCII SlotHoles File : SM_Top_PCB-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             266       PTH        36.28inch (921.43mm)
+T1      12mil (0.3mm)                                             Round             586       PTH        44.24inch (1123.81mm)
 T2      28mil (0.7mm)                                             Round             4         PTH        0.53inch (13.40mm)
 T3      35mil (0.9mm)                                             Round             20        PTH        5.39inch (136.80mm)
 T4      42mil (1.06mm)                                            Round             4         PTH        0.30inch (7.50mm)
@@ -20,6 +20,16 @@ T9      65mil (1.65mm)                                            Round         
 T10     131mil (3.33mm)                                           Round             4         NPTH       0.97inch (24.71mm)
 T11     134mil (3.4mm)                                            Round             6         NPTH       6.40inch (162.50mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              314
+Totals                                                                              634
+
+Two holes at same point : 7
+-----------------------
+307,1300
+270,1410
+-663,2274
+-632,2274
+796,2165
+326,1456
+1150,1503
 
 Total Processing Time (hh:mm:ss) : 00:00:00
