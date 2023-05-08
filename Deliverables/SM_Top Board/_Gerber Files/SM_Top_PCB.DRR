@@ -1,0 +1,35 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: SM_Top_PCB.PcbDoc   5/9/2023  12:35:12 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SM_Top_PCB-RoundHoles.TXT
+ASCII SlotHoles File : SM_Top_PCB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             633       PTH        47.11inch (1196.65mm)
+T2      28mil (0.7mm)                                             Round             4         PTH        0.53inch (13.40mm)
+T3      35mil (0.9mm)                                             Round             20        PTH        4.86inch (123.32mm)
+T4      42mil (1.06mm)                                            Round             4         PTH        0.30inch (7.50mm)
+T5      181mil (4.6mm)                                            Round             4         PTH        1.00inch (25.32mm)
+T6      23mil (0.58mm)                                            Slot              1         NPTH       0.02inch (0.42mm)
+T7      25mil (0.64mm)                                            Round             2         NPTH       0.23inch (5.80mm)
+T8      26mil (0.66mm)                                            Round             1         NPTH       0.00inch (0.00mm)
+T9      65mil (1.65mm)                                            Round             2         NPTH       0.77inch (19.66mm)
+T10     131mil (3.33mm)                                           Round             4         NPTH       0.97inch (24.71mm)
+T11     134mil (3.4mm)                                            Round             6         NPTH       6.40inch (162.50mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              681
+
+Two holes at same point : 7
+-----------------------
+307,1300
+270,1410
+-632,2274
+-663,2274
+796,2165
+326,1456
+1150,1503
+
+Total Processing Time (hh:mm:ss) : 00:00:00
