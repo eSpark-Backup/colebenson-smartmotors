@@ -4,9 +4,9 @@ C:\Users\XPENDER\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\SM_Top_Boa
 ========================================================================================================================
 File Design Information:
 
-Date:       09/05/23
-Time:       00:32
-Revision:   1bf4c356b17d6581dc738f43fd0ec0bb181706bb
+Date:       30/05/23
+Time:       22:04
+Revision:   66a98e2b268b765fff8069391fb6469479f0bab2
 Variant:    No variations
 Units used: mm
 
@@ -94,14 +94,14 @@ J1         TopLayer    -14,5630mm   9,4302mm     90       -14,5630mm 9,4302mm  -
 J2         TopLayer    -14,3510mm   39,6952mm    270      -14,3510mm 39,6952mm -9,9060mm  42,8652mm 
 J3         BottomLayer -0,6350mm    7,9822mm     180      -0,6350mm  7,9822mm  -8,2550mm  5,2322mm  
 J4         BottomLayer 30,7158mm    31,6232mm    270      30,7158mm  35,3732mm 30,7158mm  35,3732mm 
-J5         TopLayer    -14,3510mm   25,1410mm    270      -14,3510mm 25,1410mm -9,9060mm  28,3110mm 
+J5         TopLayer    -14,3510mm   25,2270mm    270      -14,3510mm 25,2270mm -9,9060mm  28,3970mm 
 J11        TopLayer    25,3746mm    36,8046mm    270      25,3746mm  36,8046mm 22,5746mm  40,6146mm 
 L1         TopLayer    11,9760mm    56,4642mm    180      11,9760mm  56,4642mm 17,5260mm  56,4642mm 
 L2         BottomLayer 10,6976mm    62,0014mm    180      10,6976mm  62,0014mm 12,5476mm  62,0014mm 
 LED1       TopLayer    15,2908mm    4,8514mm     0        15,2908mm  4,8514mm  13,9158mm  5,7014mm  
 LED2       TopLayer    -16,1798mm   17,1450mm    180      -16,1798mm 17,1450mm -15,7048mm 17,1450mm 
 P1         TopLayer    -3,7338mm    41,4072mm    270      -3,7338mm  41,4072mm -3,7338mm  44,9072mm 
-P2         TopLayer    -3,6068mm    23,0834mm    90       -3,6068mm  23,0834mm -3,6068mm  19,5834mm 
+P2         TopLayer    -3,6068mm    23,4600mm    90       -3,6068mm  23,4600mm -3,6068mm  19,9600mm 
 P3         TopLayer    31,4016mm    44,3578mm    180      31,4016mm  44,3578mm 31,4016mm  44,3578mm 
 P4         TopLayer    -8,5852mm    12,5476mm    270      -8,5852mm  12,5476mm -8,5852mm  12,5476mm 
 P5         TopLayer    31,4016mm    41,9956mm    0        31,4016mm  41,9956mm 31,4016mm  41,9956mm 

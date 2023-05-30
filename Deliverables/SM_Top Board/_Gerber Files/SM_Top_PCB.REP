@@ -9,7 +9,7 @@ Generating : Mechanical 2
 
 
 Used DCodes :
-    D82
+    D83
 *************************************************************
 
 *************************************************************
@@ -592,7 +592,7 @@ Generating : Ground
 
 
 Used DCodes :
-    D84
+    D85
     D250
     D251
     D252
@@ -617,8 +617,8 @@ Generating : Power
 
 Used DCodes :
     D10
-    D83
     D84
+    D85
     D250
     D251
     D252
