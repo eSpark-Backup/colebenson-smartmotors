@@ -1,6 +1,9 @@
 # ColeBenson-SmartMotors
  To create a smart motor system involving CAN Interface using STM32 MCU
 
+## Firmware Upload document
+https://docs.google.com/document/d/1vhfWal7Lbbn-EA82td7FXfYBAjkpk4I97tXEgRcYTUM/edit#
+
 ## Branch Information
 ### main Branch
 This branch contains the design submitted to client and is fabricated for testing. Firmware team should use this design for referencing with the board.
