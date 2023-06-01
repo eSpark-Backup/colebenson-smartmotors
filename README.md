@@ -2,7 +2,7 @@
  To create a smart motor system involving CAN Interface using STM32 MCU
 
 ## Firmware Upload document
-https://docs.google.com/document/d/1vhfWal7Lbbn-EA82td7FXfYBAjkpk4I97tXEgRcYTUM/edit#
+https://docs.google.com/document/d/19JVTQ4CaA7uRBn9ySZQGZ3367nQTQ1OMFeYGk8ieIa8/edit#heading=h.wwlx76fb44li
 
 ## Branch Information
 ### main Branch
