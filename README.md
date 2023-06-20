@@ -29,3 +29,4 @@
 
 * Add another high current Stepper Motor connector to the design and add it overlapping the existing connector. The suggested connector is [Digikey Link](https://www.digikey.ca/en/products/detail/jst-sales-america-inc/B4P-VH-FB-B-LF-SN/7230471)
 * Change boot mode to be able to use a single 1 x 3 header with the center pin always GND.
+* Change XT60 connector this connector from [Robotshop](https://ca.robotshop.com/products/xt60-connector-male-female-pair-black)
