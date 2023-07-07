@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=
+OutputPath=Project Outputs for SM_Bottom_Board
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -322,10 +322,6 @@ DocumentUniqueId=
 DocumentPath=..\..\Deliverables\SM_Bottom Board\_BOM\Altium_Generated_BOM.xlsx
 DItemRevisionGUID=
 
-[GeneratedDocument2]
-DocumentPath=Project Outputs for SM_Bottom_Board\Design Rule Check - SM_Bottom_PCB.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -373,7 +369,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for SM_Bottom_Board
 
 [OutputGroup1]
 Name=Netlist Outputs

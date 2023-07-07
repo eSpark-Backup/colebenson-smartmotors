@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=
+OutputPath=Project Outputs for SM_Top_Board
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -318,10 +318,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SRPHJVXM
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for SM_Top_Board\Design Rule Check - SM_Top_PCB.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -369,7 +365,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for SM_Top_Board
 
 [OutputGroup1]
 Name=Netlist Outputs
