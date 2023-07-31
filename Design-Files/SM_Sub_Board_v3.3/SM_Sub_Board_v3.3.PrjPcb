@@ -80,6 +80,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TCICIODR
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SM_Sub_Board_v3.3\Design Rule Check - SM_Sub_Board_v3.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
