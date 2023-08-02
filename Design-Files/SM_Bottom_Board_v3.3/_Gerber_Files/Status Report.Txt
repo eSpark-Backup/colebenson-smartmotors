@@ -1,11 +1,12 @@
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [[No Variations]] of Project [SM_Sub_Board_v3.3.PrjPcb]
-   Generated File[Pick Place for SM_Sub_Board_v3.3.txt]
-   Generated File[Pick Place for SM_Sub_Board_v3.3.csv]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SM_Bottom_Board_v3.3.PrjPcb]
+   Generated File[SM_Bottom_PCB.TXT]
+   Generated File[SM_Bottom_PCB.LDP]
+   Generated File[SM_Bottom_PCB.DRR]
 
 
-Files Generated   : 2
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 5:35:55 PM On 8/2/2023
+Finished Output Generation At 10:06:53 PM On 8/2/2023
