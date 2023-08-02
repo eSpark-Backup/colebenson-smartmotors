@@ -1,0 +1,15 @@
+Altium Designer Pick and Place Locations
+C:\Users\eSpark\Documents\ColeBenson-SmartMotors\Design-Files\SM_Sub_Board_v3.3\Project Outputs for SM_Sub_Board_v3.3\Pick Place for SM_Sub_Board_v3.3.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       02/08/23
+Time:       17:35
+Revision:   18c29a991941be55ee52363b880ae864db9dc34a
+Variant:    No variations
+Units used: mm
+
+Designator Layer       Center-X(mm) Center-Y(mm) Rotation Ref-X(mm) Ref-Y(mm) Pad-X(mm) Pad-Y(mm) 
+SW1        TopLayer    5.4951mm     -3.6405mm    180      5.4951mm  -3.2480mm 7.7451mm  -4.9980mm 
+J1         BottomLayer 7.3289mm     1.4000mm     180      7.3289mm  1.4000mm  8.5789mm  2.7750mm  
