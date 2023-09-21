@@ -4,9 +4,9 @@ C:\Users\LiberDB\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\SM_Top_Boa
 ========================================================================================================================
 File Design Information:
 
-Date:       02/08/23
-Time:       20:54
-Revision:   b17a0d78ed8eb34e2a767f80618f94caa3011708
+Date:       21/09/23
+Time:       21:33
+Revision:   2ec8e3cd6d0f42e38a77c5fc38f4cb05b64a3d1a
 Variant:    No variations
 Units used: mm
 
@@ -56,7 +56,7 @@ C42        BottomLayer 12,3190mm    55,4482mm    0        12,3190mm  55,4482mm 1
 C43        BottomLayer 16,2814mm    58,6994mm    270      16,2814mm  58,6994mm 16,2814mm  59,9694mm 
 C46        BottomLayer 2,5908mm     53,7464mm    270      2,5908mm   53,7464mm 2,5908mm   54,2163mm 
 C48        BottomLayer 8,2492mm     47,3964mm    180      11,4692mm  47,3964mm 11,4692mm  47,3964mm 
-C49        TopLayer    13,0740mm    42,8846mm    0        13,0740mm  42,8846mm 7,9290mm   42,8846mm 
+C49        TopLayer    13,3662mm    43,4848mm    0        10,1462mm  43,4848mm 10,1462mm  43,4848mm 
 C50        BottomLayer 21,8512mm    49,4632mm    90       21,8512mm  49,4632mm 21,8512mm  48,7012mm 
 C51        BottomLayer -24,1300mm   10,2362mm    90       -24,1300mm 10,2362mm -24,1300mm 9,4742mm  
 C52        BottomLayer 9,7790mm     17,7800mm    180      9,7790mm   17,7800mm 10,5410mm  17,7800mm 
@@ -98,8 +98,9 @@ J3         BottomLayer -0,6350mm    7,9822mm     180      -0,6350mm  7,9822mm  -
 J4         BottomLayer 31,9278mm    32,2670mm    90       31,9278mm  28,5170mm 31,9278mm  28,5170mm 
 J5         TopLayer    -14,3510mm   24,4904mm    270      -14,3510mm 24,4904mm -12,4460mm 28,9354mm 
 J6         TopLayer    7,8994mm     3,2004mm     180      7,8994mm   3,2004mm  9,1494mm   4,5754mm  
+J7         TopLayer    -4,4196mm    60,0456mm    180      -4,4196mm  60,0456mm -3,7946mm  60,0456mm 
 J11        BottomLayer 31,4180mm    31,5380mm    90       31,4180mm  31,5380mm 29,7180mm  26,3480mm 
-L1         TopLayer    11,9760mm    56,4642mm    180      11,9760mm  56,4642mm 17,5260mm  56,4642mm 
+L1         TopLayer    12,1284mm    55,5244mm    180      12,1284mm  55,5244mm 17,6784mm  55,5244mm 
 L2         BottomLayer 10,6976mm    62,0014mm    180      10,6976mm  62,0014mm 12,5476mm  62,0014mm 
 LED1       TopLayer    15,4940mm    5,0292mm     0        15,4940mm  5,0292mm  14,1190mm  5,8792mm  
 P1         TopLayer    -3,7338mm    41,7882mm    270      -3,7338mm  41,7882mm -3,7338mm  45,3882mm 
@@ -107,9 +108,7 @@ P2         TopLayer    -3,6068mm    23,1044mm    90       -3,6068mm  23,1044mm -
 P3         TopLayer    31,4016mm    44,3578mm    180      31,4016mm  44,3578mm 31,4016mm  44,3578mm 
 P4         TopLayer    -12,5730mm   15,4432mm    270      -12,5730mm 15,4432mm -12,5730mm 15,4432mm 
 P5         TopLayer    31,4016mm    41,9956mm    0        31,4016mm  41,9956mm 31,4016mm  41,9956mm 
-P6         TopLayer    11,0998mm    64,0334mm    90       11,0998mm  64,0334mm 11,0998mm  64,0334mm 
-P7         TopLayer    2,7940mm     60,0456mm    180      4,0640mm   60,0456mm 4,0640mm   60,0456mm 
-P8         TopLayer    -5,1816mm    60,0456mm    180      -3,9116mm  60,0456mm -3,9116mm  60,0456mm 
+P6         TopLayer    11,0998mm    63,9572mm    90       11,0998mm  63,9572mm 11,0998mm  63,9572mm 
 Q1         BottomLayer 7,4930mm     32,5212mm    90       7,4930mm   32,5212mm 9,3980mm   29,9212mm 
 Q2         BottomLayer 20,9042mm    41,1734mm    90       20,9042mm  41,1734mm 22,8092mm  38,5734mm 
 Q3         BottomLayer 20,9042mm    32,5212mm    90       20,9042mm  32,5212mm 22,8092mm  29,9212mm 
