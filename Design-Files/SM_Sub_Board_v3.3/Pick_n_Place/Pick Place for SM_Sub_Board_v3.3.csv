@@ -4,12 +4,12 @@ C:\Users\LiberDB\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\SM_Sub_Boa
 ========================================================================================================================
 File Design Information:
 
-Date:       04/08/23
-Time:       23:05
-Revision:   747d9f0e9b63d35d66e9adc83de955adf3f0fcb8
+Date:       16/11/23
+Time:       21:04
+Revision:   c77020999aa8f8f315fcdeca22b6d036471d38be
 Variant:    No variations
 Units used: mm
 
 "Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
-"SW1","5,4951mm","-3,6405mm","TopLayer","180","5,4951mm","-3,2480mm","7,7451mm","-4,9980mm"
+"SW1","5,4950mm","-3,6405mm","TopLayer","180","5,4950mm","-3,2480mm","7,7450mm","-4,9980mm"
 "J1","7,3289mm","1,4000mm","BottomLayer","180","7,3289mm","1,4000mm","8,5789mm","2,7750mm"
