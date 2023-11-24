@@ -25,14 +25,12 @@ NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=0
 AutoCrossReferences=0
-NewIndexingOfSheetSymbols=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -320,236 +318,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SRPHJVXM
 
-[Document17]
-DocumentPath=Gerber_Files\Gerber Files.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document18]
-DocumentPath=Gerber_Files\NC Drill Files.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\Design Rule Check - SM_Top_PCB.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\Pick Place for SM_Top_PCB.csv
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\Pick Place for SM_Top_PCB.txt
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\Pick Place for SM_Top_PCB_v3.3.csv
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\Pick Place for SM_Top_PCB_v3.3.txt
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB_v3.3-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB_v3.3-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB_v3.3.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB_v3.3.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB_v3.3.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB_v3.3.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB_v3.3.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB_v3.3.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB_v3.3.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB_v3.3.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB_v3.3.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB_v3.3.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB_v3.3.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB_v3.3.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB_v3.3.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB_v3.3.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB_v3.3.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB_v3.3.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB_v3.3.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB_v3.3.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB_v3.3.REP
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Project Outputs for SM_Top_Board_v3.3\SM_Top_PCB_v3.3.RUL
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -704,22 +472,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=Mixed Sim Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -810,24 +568,6 @@ OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType12=Harness Layout Drawing Print
-OutputName12=Harness Layout Drawing Prints
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType13=Harness Wiring Diagram Print
-OutputName13=Harness Wiring Diagram Prints
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType14=PCBDrawing
-OutputName14=Draftsman
-OutputDocumentPath14=
-OutputVariantName14=[No Variations]
-OutputDefault14=0
-PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -1063,12 +803,6 @@ OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=Project History
-OutputName9=Project History
-OutputDocumentPath9=
-OutputVariantName9=[No Variations]
-OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1282,41 +1016,6 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Web ReviewOutputName
-OutputName12=Web Review Data
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SiSoft
-OutputName18=SiSoft (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1449,7 +1148,6 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
-Type120=1
 
 [Difference Levels]
 Type1=1
@@ -1641,13 +1339,12 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
+MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
 Type123=1
 Type124=1
 Type125=1
-Type126=1
-Type127=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
