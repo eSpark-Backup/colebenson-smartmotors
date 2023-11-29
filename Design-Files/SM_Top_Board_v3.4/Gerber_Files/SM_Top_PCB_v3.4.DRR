@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: SM_Top_PCB_v3.4.PcbDoc   11/28/2023  10:28:06 PM
+NCDrill File Report For: SM_Top_PCB_v3.4.PcbDoc   11/29/2023  8:16:08 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,7 +8,7 @@ ASCII SlotHoles File : SM_Top_PCB_v3.4-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             617       PTH        47.41inch (1204.17mm)
+T1      12mil (0.3mm)                                             Round             616       PTH        46.43inch (1179.22mm)
 T2      24mil (0.62mm)                                            Round             2         PTH        0.05inch (1.25mm)
 T3      28mil (0.7mm)                                             Round             4         PTH        0.53inch (13.40mm)
 T4      39mil (1mm)                                               Round             16        PTH        2.05inch (52.10mm)
@@ -23,10 +23,10 @@ T12     65mil (1.65mm)                                            Round         
 T13     128mil (3.25mm)                                           Round             4         NPTH       1.08inch (27.37mm)
 T14     134mil (3.4mm)                                            Round             6         NPTH       6.40inch (162.50mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              668
+Totals                                                                              667
 
 Two holes at same point : 1
 -----------------------
 796,2165
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00
