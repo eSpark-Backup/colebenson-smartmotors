@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\XPENDER\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\SM_Bottom_Board_v3.4\Project Outputs for SM_Bottom_Board_v3.4\Pick Place for SM_Bottom_PCB.txt
+C:\Users\LiberDB\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\SM_Bottom_Board_v3.4\Project Outputs for SM_Bottom_Board_v3.4\Pick Place for SM_Bottom_PCB_v3.4.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       24/11/23
-Time:       19:55
-Revision:   f56770780c63ebf728483d0adac7c1a5fed3232e
+Date:       29/11/23
+Time:       21:41
+Revision:   60e8fd41a31d8acf8eb4ee11e6d3700135d328fc
 Variant:    No variations
 Units used: mm
 
