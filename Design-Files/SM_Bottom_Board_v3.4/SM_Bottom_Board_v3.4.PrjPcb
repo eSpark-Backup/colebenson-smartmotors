@@ -353,98 +353,86 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for SM_Bottom_Board_v3.4\Design Rule Check - SM_Bottom_PCB_v3.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for SM_Bottom_Board_v3.4\Pick Place for SM_Bottom_PCB_v3.4.csv
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for SM_Bottom_Board_v3.4\Pick Place for SM_Bottom_PCB_v3.4.txt
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Project Outputs for SM_Bottom_Board_v3.4\SM_Bottom_PCB_v3.4.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for SM_Bottom_Board_v3.4\SM_Bottom_PCB_v3.4.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for SM_Bottom_Board_v3.4\SM_Bottom_PCB_v3.4.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for SM_Bottom_Board_v3.4\SM_Bottom_PCB_v3.4.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for SM_Bottom_Board_v3.4\SM_Bottom_PCB_v3.4.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for SM_Bottom_Board_v3.4\SM_Bottom_PCB_v3.4.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for SM_Bottom_Board_v3.4\SM_Bottom_PCB_v3.4.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for SM_Bottom_Board_v3.4\SM_Bottom_PCB_v3.4.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for SM_Bottom_Board_v3.4\SM_Bottom_PCB_v3.4.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for SM_Bottom_Board_v3.4\SM_Bottom_PCB_v3.4.GP1
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for SM_Bottom_Board_v3.4\SM_Bottom_PCB_v3.4.GP2
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for SM_Bottom_Board_v3.4\SM_Bottom_PCB_v3.4.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for SM_Bottom_Board_v3.4\SM_Bottom_PCB_v3.4.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for SM_Bottom_Board_v3.4\SM_Bottom_PCB_v3.4.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for SM_Bottom_Board_v3.4\SM_Bottom_PCB_v3.4.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for SM_Bottom_Board_v3.4\SM_Bottom_PCB_v3.4.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for SM_Bottom_Board_v3.4\SM_Bottom_PCB_v3.4.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for SM_Bottom_Board_v3.4\SM_Bottom_PCB_v3.4.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for SM_Bottom_Board_v3.4\SM_Bottom_PCB_v3.4.REP
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for SM_Bottom_Board_v3.4\SM_Bottom_PCB_v3.4.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for SM_Bottom_Board_v3.4\SM_Bottom_PCB_v3.4.TXT
 DItemRevisionGUID=
 
