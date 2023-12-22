@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: SM_Bottom_PCB_v3.4.GBR   11/29/2023  9:40:02 PM
+Gerber File Extension Report For: SM_Bottom_PCB_v3.4.GBR   12/22/2023  1:22:09 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -21,4 +21,5 @@ Layer Extension     Layer Description
 .GPB                Bottom Pad Master                       
 .GD1                Drill Drawing                           
 .GG1                Drill Guide                             
+.GM                 Profile                                 
 ------------------------------------------------------------------------------------------

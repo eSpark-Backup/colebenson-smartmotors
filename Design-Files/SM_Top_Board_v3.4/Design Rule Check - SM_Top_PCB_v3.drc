@@ -1,31 +1,17 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\eSpark\Desktop\ColeBenson-SmartMotors\Design-Files\SM_Top_Board_v3.4\SM_Top_PCB_v3.4.PcbDoc
-Date     : 12/21/2023
-Time     : 3:57:55 PM
+Date     : 12/22/2023
+Time     : 10:23:56 AM
 
 Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
-   Violation between Clearance Constraint: (1.128mil < 7mil) Between Pad D19-2(409.954mil,370mil) on Top Layer And Via (373mil,379mil) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 7mil) Between Pad D19-3(409.954mil,332.598mil) on Top Layer And Pad J3-MH1(362.008mil,314.258mil) on Multi-Layer 
-   Violation between Clearance Constraint: (Collision < 7mil) Between Pad D19-3(409.954mil,332.598mil) on Top Layer And Via (428.858mil,346mil) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (6.214mil < 7mil) Between Pad D19-4(513.104mil,332.598mil) on Top Layer And Via (476mil,308mil) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 5mil) Between Pad D19-6(513.104mil,407.402mil) on Top Layer And Track (508.642mil,428.606mil)(557mil,380.248mil) on Top Layer 
-Rule Violations :5
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-   Violation between Short-Circuit Constraint: Between Pad D19-3(409.954mil,332.598mil) on Top Layer And Pad J3-MH1(362.008mil,314.258mil) on Multi-Layer Location : [X = 4270.653mil][Y = 2015.951mil]
-   Violation between Short-Circuit Constraint: Between Pad D19-3(409.954mil,332.598mil) on Top Layer And Via (428.858mil,346mil) from Top Layer to Bottom Layer Location : [X = 4306.251mil][Y = 2027.074mil]
-   Violation between Short-Circuit Constraint: Between Pad D19-6(513.104mil,407.402mil) on Top Layer And Track (508.642mil,428.606mil)(557mil,380.248mil) on Top Layer Location : [X = 4405.212mil][Y = 2095.03mil]
-Rule Violations :3
+Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net VCC_3V3_M Between Pad D19-5(513.104mil,370mil) on Top Layer And Pad C13-1(621.285mil,394.372mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net SPI_CS# Between Track (388mil,483mil)(394.718mil,483mil) on Top Layer And Pad D19-1(409.954mil,407.402mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net SPI_SCK# Between Pad D19-3(409.954mil,332.598mil) on Top Layer And Track (415.702mil,490.049mil)(417.002mil,491.348mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net MISO# Between Via (434.811mil,444.883mil) from Top Layer to Bottom Layer And Pad D19-4(513.104mil,332.598mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net VCC_3V3_M Between Pad D19-5(513.104mil,370mil) on Top Layer And Pad U6-20(533.813mil,490.049mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net MOSI# Between Pad U6-15(435.388mil,490.049mil) on Top Layer And Pad D19-6(513.104mil,407.402mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Via (428.858mil,346mil) from Top Layer to Bottom Layer And Via (623mil,334mil) from Top Layer to Bottom Layer 
-Rule Violations :7
+   Violation between Un-Routed Net Constraint: Net DRV_STEP# Between Pad U6-17(474.758mil,490.049mil) on Top Layer And Pad U9-12(478.929mil,496mil) on Bottom Layer 
+Rule Violations :1
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -52,12 +38,13 @@ Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
-Rule Violations :0
+   Violation between Net Antennae: Via (527mil,294mil) from Top Layer to Bottom Layer 
+Rule Violations :1
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 15
+Violations Detected : 2
 Waived Violations : 0
 Time Elapsed        : 00:00:02
