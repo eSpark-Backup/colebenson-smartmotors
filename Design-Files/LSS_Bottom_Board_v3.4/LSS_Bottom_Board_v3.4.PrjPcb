@@ -471,10 +471,14 @@ DocumentPath=Project Outputs for LSS_Bottom_Board_v3.4\LSS-P-PCB-B v3.4.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for LSS_Bottom_Board_v3.4\Pick Place for LSS-P-PCB-B v3.4.csv
+DocumentPath=Project Outputs for LSS_Bottom_Board_v3.4\LSS_Bottom_Board_v3.4.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument23]
+DocumentPath=Project Outputs for LSS_Bottom_Board_v3.4\Pick Place for LSS-P-PCB-B v3.4.csv
+DItemRevisionGUID=
+
+[GeneratedDocument24]
 DocumentPath=Project Outputs for LSS_Bottom_Board_v3.4\Pick Place for LSS-P-PCB-B v3.4.txt
 DItemRevisionGUID=
 
@@ -880,11 +884,13 @@ Configuration4_Item2=False
 Configuration4_Name3=General
 Configuration4_Item3=OpenExported=True|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=True|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=956|FormHeight=659|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
 Configuration4_Name4=GroupOrder
-Configuration4_Item4=Comment=True|Footprint=True
+Configuration4_Item4=Comment=True|Footprint=True|Manufacturer Part Number=True
 Configuration4_Name5=SortOrder
 Configuration4_Item5=Designator=Up|Comment=Up|Footprint=Up
 Configuration4_Name6=VisibleOrder
 Configuration4_Item6=Comment=100|Description=100|Designator=100|Footprint=100|LibRef=100|Quantity=100|Case/Package=100|Manufacturer=100|Manufacturer Part Number=100|Package=100
+Configuration4_Name7=VisibleOrder_Flat
+Configuration4_Item7=Comment=100|Description=100|Designator=100|Footprint=100|LibRef=100|Quantity=100|Case/Package=100|Manufacturer=100|Manufacturer Part Number=100|Package=100
 OutputType5=ComponentCrossReference
 OutputName5=Component Cross Reference Report
 OutputDocumentPath5=
