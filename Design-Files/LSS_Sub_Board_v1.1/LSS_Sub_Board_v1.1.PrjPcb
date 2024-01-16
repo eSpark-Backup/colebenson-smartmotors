@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for LSS_Sub_Board_v1.1
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -81,7 +81,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TCICIODR
 
 [Document3]
-DocumentPath=SM_Sub_Board_v3.3.OutJob
+DocumentPath=LSS_Sub_Board_v1.1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -98,7 +98,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=LSS_Sub_Board_v1.1.OutJob
+DocumentPath=Gerber Files.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -131,108 +131,87 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
-DocumentPath=Gerber Files.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
-DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\Design Rule Check - LSS-P-PCB-S v1.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\LSS-P-PCB-S v1.1.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\LSS-P-PCB-S v1.1.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\LSS-P-PCB-S v1.1.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\LSS-P-PCB-S v1.1.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\LSS-P-PCB-S v1.1.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\LSS-P-PCB-S v1.1.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\LSS-P-PCB-S v1.1.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\LSS-P-PCB-S v1.1.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\LSS-P-PCB-S v1.1.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\LSS-P-PCB-S v1.1.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\LSS-P-PCB-S v1.1.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\LSS-P-PCB-S v1.1.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\LSS-P-PCB-S v1.1.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\LSS-P-PCB-S v1.1.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\LSS-P-PCB-S v1.1.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\LSS-P-PCB-S v1.1.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\LSS-P-PCB-S v1.1.REP
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\LSS-P-PCB-S v1.1.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\LSS-P-PCB-S v1.1.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\Pick Place for LSS-P-PCB-S v1.1.csv
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\Pick Place for LSS-P-PCB-S v1.1.txt
 DItemRevisionGUID=
 
@@ -283,7 +262,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for LSS_Sub_Board_v1.1
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -520,7 +499,7 @@ OutputDefault2=0
 Configuration2_Name1=ForceUpdateSettings
 Configuration2_Item1=False
 Configuration2_Name2=OutputConfigurationParameter1
-Configuration2_Item2=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=False|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=True|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:False,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:6|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:False,Sort:None,Position:2|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:3|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:4|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:ComponentLink6Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30|Column#18=Name:ComponentLink3Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24|Column#19=Name:REACH SVHC,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55|Column#20=Name:Package Quantity,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51|Column#21=Name:Max Current Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44|Column#22=Name:Length,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41|Column#23=Name:ComponentLink5URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29|Column#24=Name:Insulation Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38|Column#25=Name:Max Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45|Column#26=Name:Min Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48|Column#27=Name:ComponentLink4URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27|Column#28=Name:Category,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19|Column#29=Name:Actuator Material,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17|Column#30=Name:Mount,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49|Column#31=Name:Packaging,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52|Column#32=Name:Contact Plating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34|Column#33=Name:Supplier,Fixed:False,Metric:False,Visible:False,Sort:None,Position:59|Column#34=Name:Pricing 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54|Column#35=Name:Stock 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:58|Column#36=Name:Max Voltage Rating (DC),Fixed:False,Metric:False,Visible:False,Sort:None,Position:46|Column#37=Name:Mechanical Life,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47|Column#38=Name:Width,Fixed:False,Metric:False,Visible:False,Sort:None,Position:69|Column#39=Name:ComponentLink3URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25|Column#40=Name:Voltage Rating (DC),Fixed:False,Metric:False,Visible:False,Sort:None,Position:68|Column#41=Name:Supplier 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:60|Column#42=Name:Throw Configuration,Fixed:False,Metric:False,Visible:False,Sort:None,Position:66|Column#43=Name:Pricing,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53|Column#44=Name:Supplier Part Number 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:62|Column#45=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23|Column#46=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42|Column#47=Name:Switch Travel,Fixed:False,Metric:False,Visible:False,Sort:None,Position:64|Column#48=Name:Contact Current Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32|Column#49=Name:Actuator Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18|Column#50=Name:Contact Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35|Column#51=Name:Orientation,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50|Column#52=Name:RoHS,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56|Column#53=Name:Stock,Fixed:False,Metric:False,Visible:False,Sort:None,Position:57|Column#54=Name:Current Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36|Column#55=Name:ComponentLink4Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26|Column#56=Name:Item Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39|Column#57=Name:ComponentLink5Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28|Column#58=Name:Lead Free,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40|Column#59=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22|Column#60=Name:ComponentLink6URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31|Column#61=Name:Termination,Fixed:False,Metric:False,Visible:False,Sort:None,Position:65|Column#62=Name:Voltage Rating (AC),Fixed:False,Metric:False,Visible:False,Sort:None,Position:67|Column#63=Name:Supplier Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:61|Column#64=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21|Column#65=Name:Contact Material,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33|Column#66=Name:Actuator Length,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16|Column#67=Name:Switch Function,Fixed:False,Metric:False,Visible:False,Sort:None,Position:63|Column#68=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20|Column#69=Name:Depth,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37|Column#70=Name:Manufacturer Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43|DocumentPath=C:\Users\XPENDER\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\LSS_Sub_Board_v1.1\LSS-P-PCB-S v1.1.PcbDoc
+Configuration2_Item2=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=True|ShowUnits=True|Separator=,|ExcludeFilterParam=False|IncludeVariations=True|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:False,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:6|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:False,Sort:None,Position:2|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:3|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:4|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:ComponentLink6Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30|Column#18=Name:ComponentLink3Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24|Column#19=Name:REACH SVHC,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55|Column#20=Name:Package Quantity,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51|Column#21=Name:Max Current Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44|Column#22=Name:Length,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41|Column#23=Name:ComponentLink5URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29|Column#24=Name:Insulation Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38|Column#25=Name:Max Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45|Column#26=Name:Min Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48|Column#27=Name:ComponentLink4URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27|Column#28=Name:Category,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19|Column#29=Name:Actuator Material,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17|Column#30=Name:Mount,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49|Column#31=Name:Packaging,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52|Column#32=Name:Contact Plating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34|Column#33=Name:Supplier,Fixed:False,Metric:False,Visible:False,Sort:None,Position:59|Column#34=Name:Pricing 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54|Column#35=Name:Stock 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:58|Column#36=Name:Max Voltage Rating (DC),Fixed:False,Metric:False,Visible:False,Sort:None,Position:46|Column#37=Name:Mechanical Life,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47|Column#38=Name:Width,Fixed:False,Metric:False,Visible:False,Sort:None,Position:69|Column#39=Name:ComponentLink3URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25|Column#40=Name:Voltage Rating (DC),Fixed:False,Metric:False,Visible:False,Sort:None,Position:68|Column#41=Name:Supplier 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:60|Column#42=Name:Throw Configuration,Fixed:False,Metric:False,Visible:False,Sort:None,Position:66|Column#43=Name:Pricing,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53|Column#44=Name:Supplier Part Number 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:62|Column#45=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23|Column#46=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42|Column#47=Name:Switch Travel,Fixed:False,Metric:False,Visible:False,Sort:None,Position:64|Column#48=Name:Contact Current Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32|Column#49=Name:Actuator Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18|Column#50=Name:Contact Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35|Column#51=Name:Orientation,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50|Column#52=Name:RoHS,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56|Column#53=Name:Stock,Fixed:False,Metric:False,Visible:False,Sort:None,Position:57|Column#54=Name:Current Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36|Column#55=Name:ComponentLink4Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26|Column#56=Name:Item Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39|Column#57=Name:ComponentLink5Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28|Column#58=Name:Lead Free,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40|Column#59=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22|Column#60=Name:ComponentLink6URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31|Column#61=Name:Termination,Fixed:False,Metric:False,Visible:False,Sort:None,Position:65|Column#62=Name:Voltage Rating (AC),Fixed:False,Metric:False,Visible:False,Sort:None,Position:67|Column#63=Name:Supplier Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:61|Column#64=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21|Column#65=Name:Contact Material,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33|Column#66=Name:Actuator Length,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16|Column#67=Name:Switch Function,Fixed:False,Metric:False,Visible:False,Sort:None,Position:63|Column#68=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20|Column#69=Name:Depth,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37|Column#70=Name:Manufacturer Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43|DocumentPath=C:\Users\XPENDER\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\LSS_Sub_Board_v1.1\LSS-P-PCB-S v1.1.PcbDoc
 OutputType3=Test Points For Assembly
 OutputName3=Test Point Report
 OutputDocumentPath3=

@@ -1,25 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [LSS_Sub_Board_v1.1.PrjPcb]
-   Generated File[LSS-P-PCB-S v1.1.GTO]
-   Generated File[LSS-P-PCB-S v1.1.GTP]
-   Generated File[LSS-P-PCB-S v1.1.GTS]
-   Generated File[LSS-P-PCB-S v1.1.GTL]
-   Generated File[LSS-P-PCB-S v1.1.GBL]
-   Generated File[LSS-P-PCB-S v1.1.GBS]
-   Generated File[LSS-P-PCB-S v1.1.GBP]
-   Generated File[LSS-P-PCB-S v1.1.GBO]
-   Generated File[LSS-P-PCB-S v1.1.GM2]
-   Generated File[LSS-P-PCB-S v1.1.GPT]
-   Generated File[LSS-P-PCB-S v1.1.GPB]
-   Generated File[LSS-P-PCB-S v1.1.GD1]
-   Generated File[LSS-P-PCB-S v1.1.GG1]
-   Generated File[LSS-P-PCB-S v1.1.RUL]
-   Generated File[LSS-P-PCB-S v1.1.EXTREP]
-   Generated File[LSS-P-PCB-S v1.1.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LSS_Sub_Board_v1.1.PrjPcb]
+   Generated File[LSS-P-PCB-S v1.1.TXT]
+   Generated File[LSS-P-PCB-S v1.1.LDP]
+   Generated File[LSS-P-PCB-S v1.1.DRR]
 
 
-Files Generated   : 16
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 6:42:35 PM On 1/16/2024
+Finished Output Generation At 10:04:10 PM On 1/16/2024
