@@ -97,40 +97,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
-DocumentPath=Gerber Files.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
-DocumentPath=NC Drill Files.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\LSS-P-PCB-S v1.1.DRR
 DItemRevisionGUID=
@@ -205,14 +171,6 @@ DItemRevisionGUID=
 
 [GeneratedDocument19]
 DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\LSS-P-PCB-S v1.1.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\Pick Place for LSS-P-PCB-S v1.1.csv
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for LSS_Sub_Board_v1.1\Pick Place for LSS-P-PCB-S v1.1.txt
 DItemRevisionGUID=
 
 [Configuration1]
