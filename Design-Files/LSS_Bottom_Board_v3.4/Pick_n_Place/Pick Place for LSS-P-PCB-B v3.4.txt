@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\XPENDER\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\LSS_Bottom_Board_v3.4\Project Outputs for LSS_Bottom_Board_v3.4\Pick Place for LSS-P-PCB-B v3.4.txt
+C:\Users\LiberDB\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\LSS_Bottom_Board_v3.4\Project Outputs for LSS_Bottom_Board_v3.4\Pick Place for LSS-P-PCB-B v3.4.txt
 
 ========================================================================================================================
 File Design Information:
 
 Date:       17/01/24
-Time:       00:55
-Revision:   af39a73b874c59b555f92a26f42a88ad8db0ea23
+Time:       18:58
+Revision:   6e1ccd50add8fc012d93f188a2e96f3f4222874a
 Variant:    No variations
 Units used: mm
 
