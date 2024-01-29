@@ -301,125 +301,95 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SRPHJVXM
 
-[Document16]
-DocumentPath=Gerber Files.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document17]
-DocumentPath=NC Drill Files.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
-DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4-RoundHoles.TXT
+DocumentPath=Project Outputs for LSS_Top_Board_v3.4\Design Rule Check - LSS-P-PCB-T v3.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4-SlotHoles.TXT
+DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.DRR
+DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.EXTREP
+DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GBL
+DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GBO
+DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GBP
+DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GBS
+DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GD1
+DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GG1
+DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GM2
+DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GP1
+DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GP2
+DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GPB
+DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GPT
+DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GTL
+DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GTO
+DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GTP
+DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GTS
+DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.LDP
+DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.REP
+DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
+DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.REP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
 DocumentPath=Project Outputs for LSS_Top_Board_v3.4\LSS-P-PCB-T v3.4.RUL
 DItemRevisionGUID=
 
