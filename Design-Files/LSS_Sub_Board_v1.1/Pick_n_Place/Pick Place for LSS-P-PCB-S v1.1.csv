@@ -1,0 +1,15 @@
+Altium Designer Pick and Place Locations
+C:\Users\LiberDB\Documents\GitHub\ColeBenson-SmartMotors\Design-Files\LSS_Sub_Board_v1.1\Project Outputs for LSS_Sub_Board_v1.1\Pick Place for LSS-P-PCB-S v1.1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/01/24
+Time:       18:30
+Revision:   cd025f37a54b5117b71a71a5333f366213fffd38
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
+"SW1","5,4950mm","-3,6405mm","TopLayer","180","5,4950mm","-3,2480mm","7,7450mm","-4,9980mm"
+"J1","7,3289mm","1,4000mm","BottomLayer","180","7,3289mm","1,4000mm","8,5789mm","2,7750mm"

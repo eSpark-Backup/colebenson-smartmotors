@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LSS_Bottom_Board_v3.4.PrjPcb]
+   Generated File[LSS-P-PCB-B v3.4.TXT]
+   Generated File[LSS-P-PCB-B v3.4.LDP]
+   Generated File[LSS-P-PCB-B v3.4.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:56:17 PM On 1/26/2024

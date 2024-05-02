@@ -1,7 +1,0 @@
-Change Class Name : Old Net Name=Connector-Section New Net Name=U_Connector-Section
-Change Class Name : Old Net Name=Driver-Sheet New Net Name=U_Driver-Sheet
-Change Class Name : Old Net Name=Isolated-Power-Section New Net Name=U_Isolated-Power-Section
-Change Class Name : Old Net Name=Motor-Driver-Sheet New Net Name=U_Motor-Driver-Sheet
-Change Class Name : Old Net Name=Motor-Supply-Section New Net Name=U_Motor-Supply-Section
-Change Class Name : Old Net Name=Signal-Isolation-Section New Net Name=U_Signal-Isolation-Section
-Change Class Name : Old Net Name=Temp_Probe_Section New Net Name=U_Temp_Probe_Section

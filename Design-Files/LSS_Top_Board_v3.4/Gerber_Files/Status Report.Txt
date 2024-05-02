@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LSS_Top_Board_v3.4.PrjPcb]
+   Generated File[LSS-P-PCB-T v3.4-RoundHoles.TXT]
+   Generated File[LSS-P-PCB-T v3.4-SlotHoles.TXT]
+   Generated File[LSS-P-PCB-T v3.4.LDP]
+   Generated File[LSS-P-PCB-T v3.4.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:11:36 AM On 1/27/2024
